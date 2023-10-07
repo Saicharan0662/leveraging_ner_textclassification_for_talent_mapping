@@ -1,9 +1,17 @@
 import './App.css';
+import Home from './pages/Home';
+import Landing from './pages/Landing';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <h1>AI Interviewer</h1>
+      <Router>
+        <Routes>
+          <Route exact path='/' element={<Landing />} />
+          <Route exact path='/home' element={<Home />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
