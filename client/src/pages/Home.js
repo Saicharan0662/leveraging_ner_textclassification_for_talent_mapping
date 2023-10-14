@@ -52,7 +52,9 @@ const Home = () => {
             <h1>Resume Classifier</h1>
             <div>
                 <input type="file" id='pdf-input' onChange={(e) => handleChange(e)} />
-                {text && text}
+                <div>
+                    {text && text}
+                </div>
             </div>
         </div>
     )
