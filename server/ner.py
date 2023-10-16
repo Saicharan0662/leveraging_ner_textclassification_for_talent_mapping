@@ -1,7 +1,8 @@
 import spacy
 import random
 
-nlp = spacy.load('en_core_web_sm')
+nlp_custom = spacy.load(r"./output/model-best")
+nlp = spacy.load("en_core_web_sm")
 
 
 class NER():
@@ -13,8 +14,6 @@ class NER():
         doc = nlp(self.text)
         sentence = list(doc.sents)
 
-        # print(sentence)
-
         for i in range(len(sentence)):
             if i == 0:
                 self.sentence_range_list = [(0, len(str(sentence[0])))]
@@ -22,22 +21,14 @@ class NER():
                 self.sentence_range_list.append(
                     (self.sentence_range_list[i-1][1], self.sentence_range_list[i-1][1]+1 + len(str(sentence[i]))))
 
-        ents = [(e.text, e.start_char, e.end_char, e.label_)
-                for e in doc.ents]
-        questions = []
-        answers = []
+        result = []
+        for token in sentence:
+            doc = nlp_custom(token.text)
+            for ent in doc.ents:
+                res = (token.text, ent.text, ent.label_)
+                result.append(res)
 
-        for i in range(len(ents)):
-            ents_elm = ents[i]
-            sent_no = self.get_sentence_no(ents_elm[1], ents_elm[2])
-
-            if sent_no == -1:
-                continue
-
-            ques = str(sentence[sent_no])
-            questions.append([ques, ents_elm])
-
-        return {"res": questions}
+        return {"res": result}
 
     def get_sentence_no(self, l, r):
         for i in range(len(self.sentence_range_list)):
@@ -46,51 +37,3 @@ class NER():
                 return i
 
         return -1
-
-    # def get_mcq_questions(self):
-    #     doc = nlp(self.text)
-    #     sentence = list(doc.sents)
-
-    #     for i in range(len(sentence)):
-    #         if i == 0:
-    #             self.sentence_range_list = [(0, len(str(sentence[0])))]
-    #         else:
-    #             self.sentence_range_list.append(
-    #                 (self.sentence_range_list[i-1][1], self.sentence_range_list[i-1][1]+1 + len(str(sentence[i]))))
-
-    #     ents = [(e.text, e.start_char, e.end_char, e.label_) for e in doc.ents]
-    #     questions = []
-    #     answers = []
-
-    #     for i in range(len(ents)):
-    #         ents_elm = ents[i]
-    #         sent_no = self.get_sentence_no(ents_elm[1], ents_elm[2])
-
-    #         if sent_no == -1:
-    #             continue
-
-    #         if ents_elm[3] == 'NORP' or ents_elm[3] == 'GPE' or ents_elm[3] == 'CARDINAL' or ents_elm[3] == 'LOC' or ents_elm[3] == 'PERCENT' or ents_elm[3] == 'MONEY' or ents_elm[3] == 'WORK_OF_ART':
-    #             continue
-
-    #         ques = str(sentence[sent_no])
-    #         if ques.count('(') > 0 or ques.count(')') < 0:
-    #             continue
-    #         if ents_elm[3] == 'DATE':
-    #             ques = ques.replace(ents_elm[0], 'which year/date')
-    #         else:
-    #             ques = ques.replace(ents_elm[0], "_______")
-    #         if (ents_elm[3] == 'DATE' or '_____' in ques) and len(ques) > 60:
-    #             questions.append((sent_no, ents_elm[3], ques))
-    #             answers.append(ents_elm[0])
-
-    #     for ent in ents:
-    #         if ent[3] == 'QUANTITY':
-    #             quantity.append(ent[0])
-
-    #     return questions
-
-    # def getQuestionIndex(self, questions, ques):
-    #     for i in range(len(questions)):
-    #         if questions[i]['question'] == ques:
-    #             return i
-    #     return -1
