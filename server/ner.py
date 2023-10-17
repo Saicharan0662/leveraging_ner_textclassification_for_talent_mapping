@@ -1,7 +1,8 @@
 import spacy
 import random
 
-nlp_custom = spacy.load(r"./output/model-best")
+# nlp_custom = spacy.load(r"./output_320ds/model-best")
+nlp_custom = spacy.load(r"./output_1200ds/model-best")
 nlp = spacy.load("en_core_web_sm")
 
 
