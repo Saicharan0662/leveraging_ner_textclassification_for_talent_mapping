@@ -27,7 +27,8 @@ def format_text():
     ner = NER(text)
 
     formated_text_output = ner.get_formated_text()
-    return jsonify(result=formated_text_output, success=True)
+    ner.get_predictions(formated_text_output['result'])
+    return jsonify(compiled_result=formated_text_output, success=True)
 
 
 if __name__ == '__main__':

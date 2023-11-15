@@ -1,3 +1,5 @@
+from flask import request, jsonify
+import joblib
 import spacy
 import random
 
@@ -29,12 +31,20 @@ class NER():
                 res = (token.text, ent.text, ent.label_)
                 result.append(res)
 
-        return {"res": result}
+        unique_sentence = self.get_unique_setence_list(result)
 
-    def get_sentence_no(self, l, r):
-        for i in range(len(self.sentence_range_list)):
-            l1, r1 = self.sentence_range_list[i]
-            if l >= l1 and r < r1:
-                return i
+        return {"detailed_result": result, "result": unique_sentence}
 
-        return -1
+    def get_unique_setence_list(self, data):
+        res = []
+        for item in data:
+            if item[0] not in res:
+                res.append(item[0])
+
+        return res
+
+    def get_predictions(self, data):
+        model = joblib.load('./NLP_Model/model111_796.sav')
+        predictions = model.predict(data[5])
+
+        print(predictions)
