@@ -42,10 +42,32 @@ const Home = () => {
             }
 
             setText(extractedText);
+            sendTextToServer(extractedText);
         } catch (error) {
             console.error("Error loading or extracting text from PDF:", error);
         }
     }
+
+    const sendTextToServer = async (text) => {
+        try {
+            const response = await fetch('http://127.0.0.1:5000/format_text', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text }),
+            });
+
+            if (!response.ok) {
+                throw new Error('Failed to send extracted text to the server');
+            }
+
+            const result = await response.json();
+            console.log('Server response:', result);
+        } catch (error) {
+            console.error('Error sending extracted text to server:', error);
+        }
+    };
 
     return (
         <div>
