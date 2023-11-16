@@ -42,9 +42,3 @@ class NER():
                 res.append(item[0])
 
         return res
-
-    def get_predictions(self, data):
-        model = joblib.load('./NLP_Model/model111_796.sav')
-        predictions = model.predict(data[5])
-
-        print(predictions)
