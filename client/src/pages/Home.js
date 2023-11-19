@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { pdfjs } from 'react-pdf';
+import { PieChart } from 'react-minimal-pie-chart';
 
 pdfjs.GlobalWorkerOptions.workerSrc = new URL(
     'pdfjs-dist/build/pdf.worker.min.js',
@@ -7,7 +8,8 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL(
 ).toString();
 
 const Home = () => {
-    const [text, setText] = useState("")
+    // const [text, setText] = useState("")
+    const [outputs, setOutputs] = useState(null)
 
     const handleChange = e => {
         var file = document.getElementById('pdf-input').files[0]
@@ -41,7 +43,7 @@ const Home = () => {
                 });
             }
 
-            setText(extractedText);
+            // setText(extractedText);
             sendTextToServer(extractedText);
         } catch (error) {
             console.error("Error loading or extracting text from PDF:", error);
@@ -63,6 +65,7 @@ const Home = () => {
             }
 
             const result = await response.json();
+            setOutputs(result.predictions)
             console.log('Server response:', result);
         } catch (error) {
             console.error('Error sending extracted text to server:', error);
@@ -75,7 +78,23 @@ const Home = () => {
             <div>
                 <input type="file" id='pdf-input' onChange={(e) => handleChange(e)} />
                 <div>
-                    {text && text}
+                    {outputs && outputs}
+                </div>
+
+                <div style={{ width: "40%" }}>
+                    <PieChart
+                        data={[
+                            { title: 'One', value: 10, color: 'blue' },
+                            { title: 'Two', value: 15, color: 'purple' },
+                            { title: 'Three', value: 20, color: 'red' },
+                        ]}
+                        animate={true}
+                        label={({ dataEntry }) => dataEntry.value}
+                        labelStyle={{
+                            fontSize: "5px",
+                            fontWeight: 'bold'
+                        }}
+                    />
                 </div>
             </div>
         </div>

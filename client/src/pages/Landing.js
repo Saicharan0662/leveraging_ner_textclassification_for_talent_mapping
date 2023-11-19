@@ -6,7 +6,7 @@ const Landing = () => {
 
     return (
         <div>
-            <h1>Welcome to AI Interviewer</h1>
+            <h1>Welcome to *GOOD NAME*</h1>
             <button onClick={() => navigate('/home')}>Get Started</button>
         </div>
     )
