@@ -23,6 +23,9 @@ class NLP():
         self.lemmatizer = WordNetLemmatizer()
         self.tfidf_vectorizer = TfidfVectorizer(use_idf=True, max_features = 20000) 
         self.predictions = []
+        self.formated_output = []
+        self.title_list = ['app development', 'backend development', 'cloud engineer', 'cyber security', 'frontend development', 'machine learning']
+        self.color_list = ['purple', 'red', 'cyan', 'orange', 'green', 'yellow']
 
     def clean(self, doc):
         text_no_namedentities = []
@@ -56,6 +59,18 @@ class NLP():
 
         return reshaped_data
 
+    def get_formated_output(self, data):
+
+        output = []
+        for index, item in enumerate(data):
+            output.append({
+                "title": self.title_list[index],
+                "value": item,
+                "color": self.color_list[index]
+            })
+
+        return output
+
 
     def get_predictions(self, data_list):
 
@@ -77,7 +92,13 @@ class NLP():
             
             res = [0]*6
             for data in data_list:
-                # print("Data: ", data)
+                if not data:
+                    continue
+
+                data = data.strip()
+                if len(data) < 20: 
+                    continue
+
                 text = self.preprocess_data(data)
                 pred = model.predict(text)
                 pred = pred[0]
@@ -87,7 +108,10 @@ class NLP():
                     res[i] += pred[i]
 
             self.predictions = res
-            return self.predictions
+            self.formated_output = self.get_formated_output(self.predictions)
+
+            return self.formated_output
+
         except Exception as e:
             print("Error predicting:", str(e))
             return "NO RESULT"

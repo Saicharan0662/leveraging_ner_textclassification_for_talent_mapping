@@ -77,24 +77,17 @@ const Home = () => {
             <h1>Resume Classifier</h1>
             <div>
                 <input type="file" id='pdf-input' onChange={(e) => handleChange(e)} />
-                <div>
-                    {outputs && outputs}
-                </div>
 
                 <div style={{ width: "40%" }}>
-                    <PieChart
-                        data={[
-                            { title: 'One', value: 10, color: 'blue' },
-                            { title: 'Two', value: 15, color: 'purple' },
-                            { title: 'Three', value: 20, color: 'red' },
-                        ]}
+                    {outputs && <PieChart
+                        data={outputs}
                         animate={true}
-                        label={({ dataEntry }) => dataEntry.value}
+                        label={({ dataEntry }) => Math.round(dataEntry.value)}
                         labelStyle={{
                             fontSize: "5px",
                             fontWeight: 'bold'
                         }}
-                    />
+                    />}
                 </div>
             </div>
         </div>
