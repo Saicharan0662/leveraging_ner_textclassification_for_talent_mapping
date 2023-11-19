@@ -30,11 +30,14 @@ def format_text():
     global classifier_nlp
     classifier_nlp = NLP()
 
-    formated_text_output = ner.get_formated_text()
-    # print(formated_text_output)
-    results = classifier_nlp.get_predictions("example text")
-    # print(results)
-    return jsonify(compiled_result=formated_text_output, success=True)
+    try:
+        formated_text_output = ner.get_formated_text()
+        classifier_input = formated_text_output['result']
+        results = classifier_nlp.get_predictions(classifier_input)
+        return jsonify(compiled_result=formated_text_output, predictions=results, success=True)
+
+    except Exception as e:
+        return jsonify(error=e, success=False)
 
 
 if __name__ == '__main__':

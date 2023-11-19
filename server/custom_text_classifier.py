@@ -22,6 +22,8 @@ class NLP():
         self.stopwords = _stop_words.ENGLISH_STOP_WORDS
         self.lemmatizer = WordNetLemmatizer()
         self.tfidf_vectorizer = TfidfVectorizer(use_idf=True, max_features = 20000) 
+        self.predictions = []
+
     def clean(self, doc):
         text_no_namedentities = []
         document = nlp(doc)
@@ -55,7 +57,7 @@ class NLP():
         return reshaped_data
 
 
-    def get_predictions(self, data):
+    def get_predictions(self, data_list):
 
         if not os.path.exists(self.model_path):
             print("Model file does not exist.")
@@ -71,13 +73,21 @@ class NLP():
             print("Error loading model:", str(e))
             return "NO RESULT"
 
-        sentence = "Engineered an automated homepage and connected pages system using React.js, with intelligent rendering and styling for 25% reduced development effort."
-        text = self.preprocess_data(sentence)
-
         try:
-            predictions = model.predict(text)
-            print("Predictions:", predictions)
-            return predictions
+            
+            res = [0]*6
+            for data in data_list:
+                # print("Data: ", data)
+                text = self.preprocess_data(data)
+                pred = model.predict(text)
+                pred = pred[0]
+                # print("Predictions: ", pred)
+                
+                for i in range(6):
+                    res[i] += pred[i]
+
+            self.predictions = res
+            return self.predictions
         except Exception as e:
             print("Error predicting:", str(e))
             return "NO RESULT"
