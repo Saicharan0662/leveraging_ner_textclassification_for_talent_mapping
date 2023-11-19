@@ -1,7 +1,7 @@
 from flask import Flask, render_template, Response, jsonify, request, json
 from flask_cors import CORS
 from ner import NER
-from classifier_nlp import NLP
+from custom_text_classifier import NLP
 
 import re
 
@@ -31,7 +31,9 @@ def format_text():
     classifier_nlp = NLP()
 
     formated_text_output = ner.get_formated_text()
-   
+    # print(formated_text_output)
+    results = classifier_nlp.get_predictions("example text")
+    # print(results)
     return jsonify(compiled_result=formated_text_output, success=True)
 
 

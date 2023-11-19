@@ -1,0 +1,1713 @@
+﻿sno,description,field
+1,Wrote re-useable test documents to ensure 100% code coverage,frontend development
+1,Wrote re-useable test documents to ensure 100% code coverage,frontend development
+2,"Developed automated homepage and connected pages system, using intelligent rendering and styling for enhanced back-end control which reduces 25% of development work.",frontend development
+3,"Created robust filter functionality, along with persistent filter state, to optimize the user experience and facilitate seamless navigation of E commerce products.",frontend development
+4,Developed secure authentication and multiple wish-list functionality for enhanced E-commerce personalization.,frontend development
+5,"Migrated product from React.js to Next.js, leveraging advanced server-side rendering and enhanced performance capabilities resulted in 40% decrease in initial load time and 25% user satisfaction",frontend development
+6,Revamped front-end architecture to drastically reduce API calls by an impressive 60%,frontend development
+7,"Participated in regular code reviews, providing valuable feedback and ensuring good code quality",frontend development
+8,"Did the API integration for multi-page forms and user data, resulting in user data errors by 30% and increasing form completion rate by 20%.",frontend development
+9,"Crafted optimized and responsive UI components, elevating the user experience to exceptional levels resulted 20% decrease in bounce rate.",frontend development
+10,"Worked on full stack, examination portal for creating and attending exams and viewing summaries.",frontend development
+11,Expertly handled edge cases for seamless email scheduling and delivery.,frontend development
+12,Designed a seamless and intuitive UI/UX for easy navigation and functionality.,frontend development
+13,4+ years of experience using version control and source code management tools,frontend development
+14,"Implemented secure authentication with email verification, password reset, and OAuth integration",backend development
+15,"Engineered an email scheduling feature, allowing users to automate and manage their communications.",backend development
+16,Enabled users to perform CRUD operations for efficient job management.,backend development
+17,Implementation of secure authentication and authorization for user login and registration,backend development
+18,Runner-up in MongoDB charts challenge organized by MongoDB Delhi NCR Hub.,backend development
+19,4+ years of experience using version control and source code management tools,backend development
+20,Expert knowledge of database technologies,backend development
+21,Migrated API written in ES version 1.9 to ES version 4.x,backend development
+22,Delivered seminars to the team around new backend development approach technologies and workflow,backend development
+23,Wrote re-useable test documents to ensure 100% code coverage,backend development
+24,Implemented algorithms and solved system-related problems,backend development
+25,"Strong track record in creating efficient, scalable web applications",backend development
+26,Proficient in Java and Spring Boot and deep understanding of RESTful APIs,backend development
+27,Expertise in microservices architecture and experienced in optimizing database queries,backend development
+28,Reduced query execution time by 40%,backend development
+29,"Skilled in implementing secure authentication and authorization mechanisms, ensuring data integrity and protection",backend development
+30,"Developing robust web application using react.js, Django and 
+PostgreSQL database in Linux development environment",backend development
+31,"Participated in regular code reviews, providing valuable feedback and ensuring good code quality",backend development
+32,"Worked on full stack, examination portal for creating and attending exams and viewing summaries.",backend development
+33,Develop and build dynamic UI to support large-scale e-commerce platform projects in Agile environments for enterprise client accounts valued at up to $3 million,frontend development
+34,"Manage a team of over 20 front-end developers, software engineers, and graphic designers throughout the project lifecycle, provided coaching and mentorship, and established a collaborative work culture centered on creativity and empowerment",frontend development
+35,Lead the development of web applications and the implementation of Agile and Scrum throughout the organization to enhance project delivery by 20%,frontend development
+36,"Coordinate with the web development team to design UI for client websites using HTML, JavaScript, and AngularJS",frontend development
+37,"Design, develop, and code web applications for customer accounts, which includes debugging issues, diagnosing root causes, and identifying solutions",frontend development
+38,"Create responsive designs for mobile applications, built wireframes, and developed prototypes for web development projects",frontend development
+39,5+ years of experience developing flexible and receptive website design,frontend development
+40,Outstanding communication skills and creativity,frontend development
+41,Adept at designing style sheets for websites,frontend development
+42,8+ years of experience building high-quality mockups and designing website prototype,frontend development
+43,Excellent knowledge of core design and SEO principles,frontend development
+44,Assessed UI/UX designs for technical feasibility,frontend development
+45,Architected product tours with Angular for a new website feature,frontend development
+46,Worked with the data science team to develop a new front end for a product,frontend development
+47,Mentored 4 front end developers on the team on Angular,frontend development
+48,Created components for the internal UI library that helped save hundreds of work hours per month,frontend development
+49,Develop new user-facing features,frontend development
+50,Build reusable code and libraries for future use,frontend development
+51,Ensure the technical feasibility of UI/UX designs,frontend development
+52,Optimize application for maximum speed and scalability,frontend development
+53,Assure that all user input is validated before submitting to back-end,frontend development
+54,Collaborate with other team members and stakeholders,frontend development
+55,"Proficient understanding of web markup, including HTML5, CSS3",frontend development
+56,"Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS",frontend development
+57,"Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery",frontend development
+58,"Good understanding of asynchronous request handling, partial page updates, and AJAX",frontend development
+59,"Proficient understanding of code versioning tools, such as Git",frontend development
+60,Good understanding of SEO principles and ensuring that application will adhere to them.,frontend development
+61,Creation and management of application programming interfaces (APIs). ,backend development
+62,"Create data storage and acceptance solutions for websites, especially those that take payments. ",backend development
+63,"The work includes writing, testing, and maintaining development solutions for issues with code. ",backend development
+64,"Effectively communicate with developers, designers, and system administrators to identify new features. ",backend development
+65,"Utilizing appropriate product lifecycle techniques, such as Agile Scrum and frameworks, create a website architecture. ",backend development
+66,Put the system logic in order and given solutions to the system's problems. ,backend development
+67,Develop backend components of web and mobile applications,backend development
+68,Design and implement RESTful APIs,backend development
+69,Create server-side logic and databases,backend development
+70,Collaborate with front-end developers and other stakeholders,backend development
+71,Refine existing programs and develop new web tools,backend development
+72,"Develop high performance, user-friendly applications",backend development
+73,Maintain and improve existing backend systems,backend development
+74,Monitor and troubleshoot application performance,backend development
+75,Implement data security and data protection,backend development
+76,Design and optimize database structures,backend development
+77,Design and develop distributed architectures,backend development
+78,"Troubleshoot, debug and improve existing applications",backend development
+79,Automate complicated processes with scripts and batch jobs,backend development
+80,Wrote technical documentation of applications and systems,backend development
+81,Optimize the applications for increasing response time and efficiency.,backend development
+82,"Analyze the requirements and goals, handle bugs and errors, and come up with efficient and fast solutions.",backend development
+83,Interact with the database for storing data.,backend development
+84,Manage and develop APIs (they help two software communicate with each other over the internet) that are executed across the devices.,backend development
+85,"Building the architecture of the system while keeping in mind the scalability, speed, and stability of the applications.",backend development
+86,Implementing security structures and their best practices.,backend development
+87,Writing reusable code and libraries for future implementation.,backend development
+88,Make sure the application is fast and performs the same whenever the user traffic changes.,backend development
+89,Coordinate with frontend developers and develop server-side algorithms to transfer data efficiently to the client-side web applications.,backend development
+90,Make sure the application is fast and performs the same whenever the user traffic changes.,backend development
+91,Assisted in A/B testing of different UX components that resulted in a 25% increase in customer conversion rates.,frontend development
+92,Built a unit testing infrastructure using Selenium that reduced reports of bugs by 10%.,frontend development
+93,Optimized images and code to increase Time on Page by 30 seconds on 60+ websites.,frontend development
+94,Assisted in the design and build of responsive websites.,frontend development
+95,Conducted extensive testing to ensure cross-browser compatibility.,frontend development
+96,Regularly provided constructive feedback during code reviews.,frontend development
+97,Leading the design and implementation of mobile-first website layouts and interactive features.,frontend development
+98,Collaborating with the back-end team to integrate RESTful APIs.,frontend development
+99,"Writing clean, maintainable, and efficient code in line with the latest web standards.",frontend development
+100,Coordinating testers to get insights on key areas of improvement.,frontend development
+101,"Identified and fixed a functionality flaw in a high-traffic application, increasing user satisfaction by 30%.",frontend development
+102,"Implemented websites, mobile applications, and landing pages from concept through deployment.",frontend development
+103,"Standardized all output with a new, responsive, mobile-first approach and strategy.",frontend development
+104,Assessed UX and UI designs for technical feasibility.,frontend development
+105,Developed standard and ad hoc reports in graph format as required.,frontend development
+106,Collaborated with product team members to implement new feature developments.,frontend development
+107,Proven experience as application developer,app development
+108,Experience in designing and building applications,app development
+109,"Extensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)",app development
+110,"Deep knowledge of android, ios, etc.",app development
+111,"Familiarity with RESTful APIs and mobile libraries for networking, specifically in Retrofit, axios, Alamofire, etc.",app development
+112,Familiarity with push notifications and nderstanding mobile app design guidelines on each platform and being aware of their differences,app development
+113,"Proficiency in Kotlin, Java, Swift and Objective-C",app development
+114,Develop mobile applications for iOS and Android platforms,app development
+115,Design and implement user interfaces for mobile applications,app development
+116,Create and maintain technical documentation for mobile applications,app development
+117,Develop and maintain automated tests for mobile applications,app development
+118,Integrate mobile applications with backend services,app development
+119,Troubleshoot and debug mobile applications,app development
+120,Monitor and optimize mobile application performance,app development
+121,Implement security and data protection measures,app development
+122,"Collaborate with cross-functional teams to define, design, and ship new features",app development
+123,Implement automated build and deployment processes,app development
+124,Stay up-to-date with the latest mobile technologies and trends,app development
+125,"Developed and launched a mobile application that achieved a 4.5-star rating on both iOS and Android platforms, resulting in a 25% increase in user engagement and a 10% increase in revenue within the first six months.",app development
+126,Implemented automated testing processes that reduced the number of bugs by 50% and improved overall app performance by 30%.,app development
+127,"Collaborated with cross-functional teams to design and implement a new user interface, resulting in a 15% increase in user satisfaction and a 20% decrease in user churn rate.",app development
+128,"Developed and maintained technical documentation for mobile applications, resulting in a 20% increase in team productivity and a 10% decrease in development time.",app development
+129,"Monitored and optimized mobile application performance, resulting in a 15% increase in app speed and a 10% decrease in app crashes.",app development
+130,"Modernized CINC Manager"" mobile app using React-native and Realm DB for offline use in mobile and tablet devices",app development
+131,"Implemented use of mobile application without network using RealmDB and syncing the data updated or added in offline, to server when device connects back to network",app development
+132,Led & Redesigned the process of downloading data to the device within the app to improve the performance and reduce process inefficiencies,app development
+133,Implemented Google Maps in the application using Google Maps key and Google geocode key which enable user to view current location and also the desired locations,app development
+134,Implemented API calls in the front end where ever needed to get data from the server,app development
+135,Worked on the UI of the mobile application along with UX team to make it user-friendly along with UX experts,app development
+136,Deployed the app into App store and play store and make it live for the end users,app development
+137,"LeadSquared SDK and event analytics via Clevertap SDK, Fabric SDK",app development
+138,Introduced AES 256 bit encryption as well as encrypted video streaming through Google's Exoplayer.,app development
+139,"Technologies: IOS, Swift, RxSwift, Kotlin, OneSignal, AES 256, Exoplayer, Android Architecture Components",app development
+140,"Track your stock rates with the Live Trading NEPSE data. Create your portfolio and shares list. Also added various features of indices, floor sheet, rates information of various currency, commodities and bank interest rates.",app development
+141,"Dashboard functionality and backend database as Firebase Cloud store, and added authentication with Facebook SDK.",app development
+142,Designed and developed Material UI with Android X with full transitions animations for smoother and better feel.,app development
+143,Maintained a offline file storage for user database and background service of catching Live NEPSE Data actively.,app development
+144,Wrote clean and maintainable code working under multiple branches of version control GIT.,app development
+145,"2 years down the lane Currently, I am an Android Application Developer.",app development
+146,Product Owner of the Saudi Arabian Railways Android Mobile application which allows the user to book train tickets in the Kingdom of Saudi Arabia.,app development
+147,Developed Cross-Platform native applications for iOS and Android,app development
+148,"Developed Money Exchange application for National Exchange Qatar, Wallstreet Exchange Kuwait, Gulf Overseas Exchange Oman.",app development
+149,"Created custom widgets for displaying Pie, Line chart and Line graph.",app development
+150,Implemented MVVM pattern using Provider and Bloc patterns.,app development
+151,"Implemented security features like Biometric Authentication, SSL Pinning, Token base authentication and Code obfuscation.",app development
+152,"Integrated Payment gateways QPAY, KNET.",app development
+153,"Integrated Firebase Push notification, Firebase In app messaging.",app development
+154,Integrated backend REST API services along with other 3rd party services.,app development
+155,Received appreciation for developing first Cross-Platform application using Flutter with a short time span of 2 months.,app development
+156,"Designed and developed more than 8 mobile apps that are live on Play Store and Appstore. 4 of them used Native android development, 3 using Xamarin Forms and 1 using Xamarin Native",app development
+157,Member of the project LBC Cargo which were implemented more than 1000 branches.,app development
+158,Integrated Star I/O SDK for Card swiping and invoice printing.,app development
+159,Implemented MVVM architecture using Prism and AutoFac.,app development
+160,Integrated Facebook SDK,app development
+161,Implemented Entity Framework with SQL Encryption using 3rd Party plugins.,app development
+162,Integrated UrhoSharp 3D model rendering.,app development
+163,Integrated Push-notification in Xamarin Forms.,app development
+164,Integrated Akvache plugin for API caching for smooth user experience.,app development
+165,"Deployed core application solution that customized to clients requirements of color, design and language preferences.",app development
+166,Increased application performance by implementing optimized and Sanity-tested module every end of day,app development
+167,Mentor design team in order to revamp application design with new and better design and optimized user experience.,app development
+168,"Participating and mentoring mobile development team because of having core knowledge about business domain, to optimize our application resulting in efficient solution.",app development
+169,Developing applications and supporting through complete Software development life cycle SDLC,app development
+170,"Flutter Developer with complete responsibility of app work life cycle, Local Database Management, Design and Work Flow, Testing and Deployment on Google PlayStore, AppStore and Amazon AppStore.",app development
+171,"Translating code into user-friendly applications for all kinds of devices like phones and tablets, and is familiar with the newest technologies in the mobile world.",app development
+172,Implementing new services in the app on needed,app development
+173,Working with new or existing app using Flutter or Kotlin depends on client demands.,app development
+174,Troubleshoot Problems when a problem impacts the app services.,app development
+175,Track all Issues and document all issues and resolutions in detail.,app development
+176,Report Incidents When problems are too large or complex for quick troubleshooting.,app development
+177,Working on RITS Browser App using Kotlin and Java both language,app development
+178,Implementing new services in the app on needed,app development
+179,Creating APIs using PHP Slimframework,app development
+180,Working with new or existing app using Kotlin or Flutter depends on client demands.,app development
+181,"Implementing all kinds of Ads like Admob, Adcolony, Facebook Audience Network etc.",app development
+182,Troubleshoot Problems when a problem impacts the app services.,app development
+183,Track all Issues and document all issues and resolutions in detail.,app development
+184,Report Incidents When problems are too large or complex for quick troubleshooting.,app development
+185,"Worked on multiple applications for iOS and Android(using flutter) with backend and UI/UX teams, delivering the required features based on time estimations and planning.",app development
+186,"Ensure the best possible performance, quality and responsiveness of",app development
+187,the application.,app development
+188,Active listening and comprehend new ideas into application.,app development
+189,"Participated in Scrum meetings, as well as retrospectives with",app development
+190,members of the team.,app development
+191,"Conceptualize, design, develop and improve/maintain in-house",app development
+192,applications.,app development
+193,"Design, build and maintain high performance, reusable reliable Java.",app development
+194,code including UI and core functionality .,app development
+195,Explore and worked on hybrid applications.,app development
+196,"Design, develop, and maintain software applications using object-oriented programming languages",app development
+197,Develop and implement software solutions to meet customer requirements,app development
+198,Identify and troubleshoot software issues and develop solutions to resolve them,app development
+199,Develop and maintain software documentation,app development
+200,Develop and maintain unit tests,app development
+201,Develop and maintain automated tests,app development
+202,Collaborate with other developers to ensure code quality,app development
+203,Participate in code reviews,app development
+204,Research and evaluate new technologies and tools,app development
+205,Develop and maintain web services and APIs,app development
+206,Develop and maintain databases and data models,app development
+207,Developed and implemented a new software solution that reduced customer support tickets by 25% and increased customer satisfaction by 15%.,app development
+208,"Collaborated with a team of developers to improve the performance of an existing web service, resulting in a 30% reduction in response time and a 20% increase in user adoption.",app development
+209,"Identified and resolved a critical software issue that was causing system downtime, resulting in a 50% reduction in downtime and a 10% increase in system reliability.",app development
+210,Completed development of mobile application in React Native targeting Android and iOS platforms.,app development
+211,"Worked with Balsamiq, React Native, and Redux.",app development
+212,Developed a cross-platform mobile application using React Native.,app development
+213,"Developed Web API using NodeJS, ReactJS and React Native and hosted on multiple lead balances API instances.",app development
+214,"Involved in setting up the model, views and controllers and implementing using React Native Components.",app development
+215,"Assisted other application development staff by giving advice on the development standards, testing and analysis of the assignment.",app development
+216,Founded IT consulting firm which provides mobile application development and IT services.,app development
+217,Used Adobe Air and Flash Professionals in application development.,app development
+218,Facilitated customization of systems by encouraging software engineering team to adopt emerging standards for software application development architecture and tools.,app development
+219,Facilitated the customization of systems by encouraging software engineering team to adopt emerging standards for mobile application development architecture and tools.,app development
+220,Summer 2013 Worked with and presented to other students and professors on open source projects; mobile app development,app development
+221,Coordinated the negotiation of a new service and license agreement with YapTV Studios for social media App development.,app development
+222,Search and implementation of possible areas of improvement to deliver a better production in Android app development.,app development
+223,Self-motivated and proactive with skill in applying creative and critical thinking capabilities to Android app development.,app development
+224,"Consulted on business models, development processes, and design for various app development companies.",app development
+225,Worked as an application developer extensively with Objective C and Cocoa frameworks.,app development
+226,Created custom checklist and sharing through JSON libraries and connecting to SQ Lite database with the Objective C interfaces.,app development
+227,"Worked extensively with Objective C, Cocoa Touch frameworks and also used Swift for the new classes.",app development
+228,Implemented new classes in swift language and used the swift code in Objective C classes as well.,app development
+229,Started working with swift 2.0 version and changing code from objective C to swift.,app development
+230,"Implemented improvement in smooth swiping of the UI, also adding an improvement to the text editor, permitting easier input.",app development
+231,"Developed rich UI for the most of the modules in the application using RecyclerView, ViewPager and Navigation Drawer.",app development
+232,Build mobile games that connects to Google Play Games' server and In-app Billing service for UI enhancements.,app development
+233,"Designed levels, and UI for mobile app game to fit events in the represented book series.",app development
+234,Unified Android designers and Android app developers in the design of the UI screen with compound views.,app development
+235,Created a custom client dashboard that reduced support tickets by 50%,frontend development
+236,"Collaborated with the UX/UI design teams to improve the website and applications, increasing conversion rates by 25%",frontend development
+237,"Daily maintenance of code, debugging issues and solving clients problems",frontend development
+238,Presented findings in a clear and concise manner to key decision-makers,frontend development
+239,Senior front end developer 5+ years of experience in financial industry,frontend development
+240,Design and build responsive web design and mobile apps,frontend development
+241,Proficient with CSS and JS Frameworks and extensive knowledge of UX and user psychology,frontend development
+242,Increased company sales by x% after building an eCommerce web application,frontend development
+243,Improved user experience score by x% after optimizing buttons,frontend development
+244,Boosted time on page by 85% with improvements,frontend development
+245,Reduced the CPC of Facebook ads with advanced pixel integration on the website,frontend development
+246,Developed 50 responsive websites for clients in a variety of industries,frontend development
+247,"Setup tracking with GTM and GA, integrated HTML/CSS into the CMS and conducted day-to-day maintenance of the websites, resulting in a combined $40M of revenue for clients",frontend development
+248,"Collaborated with marketing and project management teams to deliver projects on-time and with the highest standard, retaining over 98% of clients in a 5-year period",frontend development
+249,"Designed and wrote the front-end of our eCommerce application using ReactJS with 14,000 reusable components",frontend development
+250,Achieved a Lighthouse score of 100/100 on our frontend,frontend development
+251,Built a UI leadership group at FullStack Labs Inc. to mentor and train new engineers,frontend development
+252,Researched and documented needs of 150 external partners and built an API abstraction layer for seamless integration without breaking,frontend development
+253,Modernized our legacy Vendor management app originally built on Angular 2.0 to Vue.JS,frontend development
+254,"Improved legacy front end by replacing it with AngularJS, Tomcat API, Java and Spring. Resulted into 50% faster loading times for our data heavy GIS application.",frontend development
+255,"Worked with a team of 11 people, developers, QA and scrum masters",frontend development
+256,Worked with team of 5 web developers and provided end-to-end solutions for 5 clients,frontend development
+257,Collaborated with teammates and updated application versions using Git,frontend development
+258,Used best practices in HTML and CSS to develop a static site based from a static image of a website design,frontend development
+259,Performed daily operations and maintenance tasks to ensure 40 web pages under Nader are up-to date and free of errors,frontend development
+260,"Developed cross-browser/platform HTML5, CSS and JavaScript to match design specs for complex page layouts while adhering to code standards",frontend development
+261,Supervising and mentoring the front-end team (15 people),frontend development
+262,Used advanced JavaScript to create a cross-browser compatible user interface,frontend development
+263,"Designed a new, user interactive landing page, utilizing tools like HTML, XHTML, and CSS, achieving a 5.5/6 user score",frontend development
+264,Joined with web designers to develop user interfaces and prototypes for a web based internal financial manager system,frontend development
+265,Supervised 15 front-end associates,frontend development
+266,"Helped the team stick to specific standards in developing web pages under
+company guidelines",frontend development
+267,"Used JavaScript to validate input values on forms to make sure that it's accepted
+before they are submitted to the serve",frontend development
+268,Boosted the conversion rate by 80% by improving the design,frontend development
+269,"Worked with CSS background, layouts, positioning, text, border, margin, padding,
+Pseudo elements and behaviors",frontend development
+270,Communicated with back-end developers for any front-end problematic issues,frontend development
+271,Developed and maintained responsive web applications and mobile apps.,frontend development
+272,Collaborated closely with design and backend teams to ensure seamless integration of UI/UX.,frontend development
+273,Utilized CSS and various JS Frameworks for front-end development tasks.,frontend development
+274,Improved user experience by applying principles of user psychology to design choices.,frontend development
+275,Achieved an 80% increase in conversion rate through code and design enhancements.,frontend development
+276,Designed and implemented user interfaces for financial web applications.,frontend development
+277,Ensured cross-browser compatibility and optimized website performance.,frontend development
+278,Conducted A/B testing to refine user interfaces and boost user engagement.,frontend development
+279,Collaborated in an Agile development environment to meet project milestones.,frontend development
+280,Trained and mentored junior developers in front-end development best practices.,frontend development
+281,Led the development of mobile-first web applications for the fintech sector.,frontend development
+282,Implemented responsive design techniques for optimal viewing on various devices.,frontend development
+283,Conducted code reviews and maintained code quality and standards.,frontend development
+284,Collaborated with product managers to define project requirements and priorities.,frontend development
+285,Participated in regular technology updates and stayed up-to-date with emerging trends.,frontend development
+286,Collaborated with UX/UI designers to translate design mockups into interactive web interfaces.,frontend development
+287,Implemented and maintained consistent coding standards and documentation for the frontend codebase.,frontend development
+288,Worked closely with the QA team to identify and address UI/UX issues and bugs.,frontend development
+289,Integrated third-party APIs and libraries to enhance website functionality.,frontend development
+290,"Played a key role in improving website load times, resulting in a 20% reduction in bounce rates.",frontend development
+291,Actively participated in code refactorings and optimizations to ensure codebase scalability and maintainability.,frontend development
+292,"Manage website development projects from initial design through completion,",frontend development
+293,optimizing all cross-browser and multi-platform compatibility.,frontend development
+294,"Work closely with programmers and clients to meet project requirements, goals, and",frontend development
+295,desired functionality.,frontend development
+296,"Develop and integrate customized themes into WordPress, PHP-Fusion, and",frontend development
+297,Concretes.,frontend development
+298,Conduct training for clients on handling website content management systems.,frontend development
+299,Enable site-wide promotions by programming HTML5 canvases to animate particles,frontend development
+300,on web backgrounds.,frontend development
+301,"Developed websites from front to backend using PHP, JavaScript, and HTML.",frontend development
+302,Enhanced user experience and accomplish webpage objectives by creating site,frontend development
+303,"structure, navigation, page optimization, and graphics integration.",frontend development
+304,Implemented enhancements that improved web functionality and responsiveness.,frontend development
+305,"Designed and maintained both corporate and client websites, using scripting languages",frontend development
+306,and content management systems including WordPress.,frontend development
+307,"Implemented and maintained front-end web applications, resulting in a 20% reduction in page load speeds and conversion rates by utilizing modern web technologies such as Reacts and best practices for user experience and accessibility.",frontend development
+308,"Developed and executed front-end development strategies, resulting in a 15% increase in website performance by implementing optimization techniques such as code minification and troubleshooting issues using browser developer tools.",frontend development
+309,"Worked with cross-functional teams to develop and execute on-time and on-budget projects and initiatives by effectively communicating project timelines, progress, and objectives using tools such as Slack and Zoom.",frontend development
+310,"Optimized service layers, request queues and MongoDB data model to handle request load of 74,000-96,000/sec during flash sales",frontend development
+311,"Designed and implemented GIS application for the City of New York to allow critical parts of the app to handle 1,000+ concurrent requests and also be multi-threaded.",frontend development
+312,"Improved legacy front end by replacing it with AngularJS, Tomcat API, Java and Spring. Resulted into 50% faster loading times for our data heavy GIS application.",frontend development
+313,"Refactored the application to incorporate security with micro service with Spring Boot, Java and AWS Cognito.",frontend development
+314,"Built CI/CD pipelines using Jenkins, Docker, Kubernetes and custom scripts - helping teams deploy more than 30 times in a day",frontend development
+315,Built an API-driven publishing service handling 17 million pageviews per month performing at 94% cache efficiency,backend development
+316,Cleared several performance bottlenecks in Mercurial for large-scale deployments,backend development
+317,Build out the source control query service that queries information in a scalable and efficient manner,backend development
+318,Extended the build system to integrate with the mercurial sparse feature cutting down on performance issues with overly large repositories,backend development
+319,Rebuilt the mercurial sparse subsystem to move it from an implementation detail to an end-user-friendly tool,backend development
+320,Mentored 5 junior Python developers and trained them to work independently,backend development
+321,Designed architectures for all Plemento products and scaled them to beyond 1M users per month.,backend development
+322,"Implemented dev automation using Docker, Jenkins CI and test automation tools.",backend development
+323,SDLC - Acted as the Scrum master managing onsite and offsite remote teams.,backend development
+324,"Introduced pair programming, architectural patterns and code quality reviews to reduce tech debt.",backend development
+325,Reduced lead time for new feature requests down to 30%.,backend development
+326,"Managed a codebase of 250,000 LOC.",backend development
+327,"Led a team of 15 developers in Python project launch, earned $2M in revenue the following year",backend development
+328,"Developed 5 data processing automation systems, saving over $400K annually",backend development
+329,"Developed 20 new features in Java (EJB2, Spring, Hibernate, Swing) to enhance load times (by 75%) and user experience",backend development
+330,"Developed a PHP script to restrict hosts from uploading low-quality files or unsupported formats, saving 20 TB of storage and 400h of labor",backend development
+331,"Applied Java based program to back-end to optimize workflow, improved productivity by
+10%",backend development
+332,"Developed a 3-tier architecture to new database, resulting in more user-friendly interface",backend development
+333,and an additional sim in annual revenue,backend development
+334,"Found and fixed over 100 bugs, improving security and usability",backend development
+335,"Created a flight schedule search tool for a travel agency
+FlightStats API, increased customer saustaccon racine to",backend development
+336,Participated in more than 4 projects per year from initial research and conceptual design through testing and implementation phases,backend development
+337,"Trained 2 junior developers in JavaScript based program, increased productivity by 15%",backend development
+338,"Collaborated with the UX department to create a new look and feel for the website,
+implemented changes with Query library extensions, Ajax, and CSS",backend development
+339,Promoted from Full Stack Developer Intern to Full Stack Developer within 8 months of employment,backend development
+340,Increased front-end performance by 50% after using batch processing for file reading,backend development
+341,Developed the back-end of pages for user-generated content with lighthouse score of 85,backend development
+342,"Designed and developed front-end GUI for over 20 applications using JSP, HTML, JavaScript, CSS, and Ajax",frontend development
+343,"Created onboarding system for interns to streamline training, increased productivity by 10%",backend development
+344,"Member of developer team that restructured mobile app backend, Increased number of downloads by 60%",backend development
+345,Configured various interceptors for transaction management and security using Spring,backend development
+346,"Identified error in code that resolved a security issue, increasing customer satisfaction score 16 938.",backend development
+347,"Increased by 35% the reach of users to the platform, over the installation of the web platform in mobile devices",backend development
+348,Trained 6 junior full stack developers on front-end frameworks including React and Angular,backend development
+349,Trained 6 junior full stack developers on front-end frameworks including React and Angular,backend development
+350,Reduced daily data processing time by 77% by implementing stored procedures in the web portal used nationwide,backend development
+351,"Overhauled the automated test fram ork for the web services, leading to about 90% reduction in debugging and issue",backend development
+352," Created and maintained front-end code for customer interface, improved customer satisfaction rating by 40%",frontend development
+353,Mobilized cross-platform testing on 4 different web browsers and 3 standalone applications in web and cloud base,backend development
+354,Mobilized cross-platform testing on difterent wed browsers and 3 standalone applications in web and cloud base,backend development
+355,"Worked with a team of 15 developers on launch of Java based program, earned $2.7M in revenue",backend development
+356,Contributed to the development of over 10 web and mobile applications using Python and CSS,app development
+357,Launched a company-wide digitized filing system that led to an increase in efficiency for all departments by 20% on average,backend development
+358,"Streamline all offerings with a new responsive, mobile-first approach and strategy which increased mobile traffic by 35%",backend development
+359,Developed data access layer that supports connections to multiple databases using Entity Framework and Math.NET,backend development
+360,Configured security features with form based authentication and role based authorization using C# and ASP.NET,backend development
+361,Developed data access layer which supports connections to multiple databases using Entity Framework of ADO.NET which resulted in an additional $1M in annual revenue,backend development
+362,"Trained an Agile team of 7 full stack developers, improved productivity by 10% and earned $850K in the first quarter",backend development
+363,"Used ADO.NET Entity Framework to connect, retrieve, and manipulate data with database operation by implementing data access layer, saved 18% on labor costs",backend development
+364,"Implemented internally-developed micro-services, as well as marketplace 3rd party modules which generated $14M in purchases",backend development
+365,"Led development of $500K research project which was deemed a gold standard"" by the client",backend development
+366,"Performed root cause analysis (with NUnit, JUnit and TestCafe) for more than 10 issues to identify bugs and rolled out solutions within 24 hours for Dufour's biggest project at $1.8M",backend development
+367,Developed the back-end & front-end of 50 websites with an average Lighthouse score of 88 Baltimore,backend development
+368,"Designed, developed, and maintained RESTful APIs using Java and Spring Boot.",backend development
+369,Collaborated with frontend and mobile app teams to ensure smooth integration of backend services.,backend development
+370,"Implemented authentication and authorization mechanisms, enhancing data security.",backend development
+371,"Conducted database query optimization, reducing query execution time by 40%.",backend development
+372,"Scaled the backend infrastructure to accommodate a growing user base, ensuring high availability.",backend development
+373,Contributed to the development of microservices architecture for improved system modularity.,backend development
+374,"Led the development of a high-performance, real-time data processing system using Python and Django.",backend development
+375,Implemented caching strategies to optimize response times and reduce server load.,backend development
+376,"Collaborated with DevOps to automate deployment processes, improving release cycles.",backend development
+377,"Worked on data migration projects, ensuring seamless transitions between database versions.",backend development
+378,Conducted code reviews and mentored junior developers in best practices.,backend development
+379,Integrated third-party APIs and services to expand product functionality.,backend development
+380,Architected and developed a scalable e-commerce platform using Node.js and Express.js.,backend development
+381,Enhanced application performance through load testing and performance optimization.,backend development
+382,Implemented data encryption and secure authentication protocols to protect user data.,backend development
+383,Collaborated with product managers to define feature requirements and prioritize development tasks.,backend development
+384,"Managed the backend team, fostering collaboration and knowledge sharing.",backend development
+385,Resolved critical production issues promptly to maintain service uptime.,backend development
+386,"Cleaning, manipulating and extracting the required data   ",machine learning 
+387,Developing code for data analysis and manipulation,machine learning 
+388,Played a major role in statistical analysis of data,machine learning 
+389,Played main role in deciding and selecting machine learning libraries for given task.,machine learning 
+390,Designs new models and algorithms of machine learning,machine learning 
+391,Researches intensively on machine learning and publishes their research papers.,machine learning 
+392,"Sound knowledge in packages and APIs such as scikit-learn, Theano, Spark MLlib, H2O, TensorFlow, etc.",machine learning 
+393,"Expertise in models such as decision trees, nearest neighbor, neural net, support vector machine, and a knack for deciding which one fits the best.",machine learning 
+394,Deciding and choosing hyperparameters that affect the learning model and the outcome.,machine learning 
+395,"Comfortable working with concepts such as gradient descent, convex optimization, quadratic programming, partial differential equations.",machine learning 
+396,Developed a customer segmentation algorithm for 32% increase in company revenue,machine learning 
+397,Developed new infrastructure to cope with millions of extra client files ,machine learning 
+398,Consistently achieved 100% compliance with industry best practices,machine learning 
+399,Used logistic regression models to predict revenue within 1.5%,machine learning 
+400,"Design and execute well-engineered, easy-to-maintain, reliable, and bug-free code for various company applications in collaboration with other Al engineers, data scientists, programmers, and software personnel",machine learning 
+401,"Continuously improve gameplay with iOS and Android gaming applications by working with the existing code base and enhancing its different phases, including Al strategies, rules, and player-world interactions",machine learning 
+402,Coordinate all technical and developmental issues/risks identified during the process to the team of 10+ Al engineers to formulate and initiate appropriate course of actions to ensure the timely completion of the version upgrade,machine learning 
+403,"Design, test, and deploy new artificial intelligence functionalities for 8 major projects of the company worth S5M in total",machine learning 
+404,Author sophisticated and optimized codes for different games to boost the reusability of standard modules,machine learning 
+405,"Utilized Google Maps to design codes for pathfinding, cooperation, and group movements for various gaming applications",machine learning 
+406,"Collaborated with the software team to execute effective strategies to attract a large number of clients, increase engagement, and expand the current customer base through artificial intelligence and big data analysis",machine learning 
+407,"Contributed innovative ideas to improve the technology in loT security, resulting in a 28% increase in business revenue in the second quarter",machine learning 
+408,"Worked alongside a team of Al personnel to develop, test, and deploy software that effectively detects threats, through artificial intelligence and machine learning principles to secure various loT applications",machine learning 
+409,Researched how the performance of renewable energy equipment features could be 35% more efficient clustering and association to provide product improvement recommendations,machine learning 
+410,"Developed 12 individual predictive models and 30+ data modeling techniques, so that production becomes 65% more effective",machine learning 
+411,End-to-end implementation of 6 new models (from data cleaning to cloud deployment) which helped track the performance of 1k+ generators and panels,machine learning 
+412,Understood the needs of 6 engineers and built an algorithm (using Python) to help them tackle and resolve 250+ production challenges,machine learning 
+413,Collected and cleaned large datasets for analysis.,machine learning 
+414,Conducted statistical analysis and created visualizations to communicate findings.,machine learning 
+415,Developed automated reports to streamline data reporting processes.,machine learning 
+416,Collaborated with team members to identify areas for process improvement.,machine learning 
+417,Controlled financials and planned project work for 10+ research assistants,machine learning 
+418,Assisted in data collection and cleaning for research studies.,machine learning 
+419,Conducted statistical analysis and created visualizations to communicate findings.,machine learning 
+420,Contributed to writing research reports and papers.,machine learning 
+421,Compiled pricing data for competitive analysis by performing web scraping in Python,machine learning 
+422,"Supervised model development, testing & validation of 100+ financial products and services",machine learning 
+423,Created charts in Jupyter Notebook to perform preliminary analysis & visualize data using Matplotlib,machine learning 
+424,Predicted stock price with 98% accuracy to enable the company to make informed investments,machine learning 
+425,Determined optimal pricing strategies to facilitate the management of funds & achieve revenue goals,machine learning 
+426,Made multiple touch sensitive ML systems in all the office floors to improve the company's safety networks,machine learning 
+427,"Devised high-performance MI. systems to detect abnormality, intrusion, fraud, masquerading, malware, etc.",machine learning 
+428,Developed an algorithm to understand customer behavior leading to 95% success in targeted marketing campaigns,machine learning 
+429,Conceptualized & implemented a sentiment analysis tool to rate the financial competence of companies,machine learning 
+430,Originated a recommendation engine to suggest an ideal cluster price for financial services offered by top companies,machine learning 
+431,Led a group of 10+ML Interns in producing a workable model to optimize the company's financial transactions,machine learning 
+432,Recruited & trained 5+ ML interns and supervised the project that were assigned to them as part of the internship,machine learning 
+433,Conducted 5+ ML workshop programs on the fundamentals of python & machine learning to up-skill current employees,machine learning 
+434,Engineered a food recommendation system to provide meaningful food recommendations to guests,machine learning 
+435,Designed an in-house algorithm for attendance & time management to simplify the hotel's administration work,machine learning 
+436,Applied various machine learning techniques using Python to build dynamic pricing models and maximize profits,machine learning 
+437,Built a predictive model to analyze customer food preferences leading to 40% reduction in food wastage,machine learning 
+438,Employed advanced text mining algorithms to facilitate the identification of search intent latent in individual keywords,machine learning 
+439,"Tracked the health of 15+ robots using React/Redux with NodeS backend and Python scripts, which collected 100TB of data from its sensors.",machine learning 
+440,"Designed a deep learning model to detect and classify anomalies in the manufacturing process of 34+ industrial robots, reducing 83% of their monthly downtime.",machine learning 
+441,"Researched TensorFlow LSTM networks for speech recognition, OpenCV object tracking algorithms, and 11+ new technologies; enhanced 74% of a dancing robot's performance.",machine learning 
+442,"Conceived and created a machine learning algorithm that detects deviant behavior in robots using SIFT, HOG, and 20+ other computer vision methods.",machine learning 
+443,"Resolved the issues of shipping consolidation by applying data mining techniques, saving RW S30K annually.",machine learning 
+444,Applied logistic regression model to predict the pattern of sales for 63+ products with an 80% accuracy.,machine learning 
+445,"Assisted in creating a deep learning model that detects anomalies in the building process of a construction robot, reducing downtime by 83%.",machine learning 
+446,"Developed customer segmentation algorithm in R, leading to a 58% increase in market share in 01 2022.",machine learning 
+447,"Established a protocol to configure computer systems and networks across finance, HR, and 11+ departments.",machine learning 
+448,Developed a data dictionary generator that produces documentation for 350+ developers as spreadsheets and web pages.,machine learning 
+449,Developed a neural network-based anomaly detection system that reduces 74% of false positives.,machine learning 
+450,Classified anomalies in a building process of a vehicle assembly robot using a deep learning model that cut downtime by 91%..,machine learning 
+451,"Supervised a 10-man team that built a machine learning system, which makes weekly interest rate estimates for a $1B tech start-up; increased consumer spending by 94% in the first year.",machine learning 
+452,Created a Kubeflow/Kubernetes-based machine learning training and serving medium for 17+ Fortune 500 companies in the first year.,machine learning 
+453,Developed algorithms to pull 3D information about the human body from 25K 2D images using mobile devices.,machine learning 
+454,Approved technical decisions for 25+ global engineering divisions while supervising 150+ engineers who designed and invented new ML algorithmic approaches,machine learning 
+455,Designed a machine learning model to predict the churn rate among 10K customers based on historical data; reduced churn rate by 71% in the first week of implementation.,machine learning 
+456,Trained an encoder/decoder grammar error correction model using synthetic data methods; outperformed open-source baseline by 92%.,machine learning 
+457,Initiated a character-based transformer spelling correction model using Triton and ONNX; reduced inference latencies below 178ms at 35 req/s.,machine learning 
+458,Developed an NLP system that automatically classified 7.5K emails as spam or advertising mail using 11+ natural language processing methods.,machine learning 
+459,Partnered with a team of 10+ data scientists in developing a recommendation system that boosted user engagement by 46%.,machine learning 
+460,"Designed a predictive maintenance model that reduced equipment downtime by 40%, saving the company $11.3K+ monthly",machine learning 
+461,"Implemented a Natural Language Processing (NLP) solution that improved RW's chatbot accuracy to 95%, leading to a 63-second reduction in customer service response time.",machine learning 
+462,"Optimized neural network architecture, reducing model training time by 20+ minutes while maintaining a 7.5% increase in accuracy.",machine learning 
+463,"Conducted literature reviews on state-of-the-art Al/ML techniques, contributing insights to research papers cited 60+ times in international journals.",machine learning 
+464,Collaborated with a team of 30+ researchers to design a novel reinforcement learning algorithm that achieved a 17% improvement in convergence speed.,machine learning 
+465,"Coded a clustering algorithm in Python for customer segmentation, leading to a 44% increase in targeted marketing effectiveness.",machine learning 
+466,Analysis travel data and build a machine learning model. Estimating increase 4% orders (revenue).,machine learning 
+467,Maintain and develop an ETL distributed queuing system with 20 machines.,machine learning 
+468,Optimize the ETL system reduced more than 50% execution time.,machine learning 
+469,Develop new product crawler let product volume increase 1.5%.,machine learning 
+470,Making analysis charts provide for other departments.,machine learning 
+471,Compiled pricing data for competitive analysis by performing web scraping in Python,machine learning 
+472,"Supervised model development, testing & validation of 100+ financial products and services",machine learning 
+473,Created charts in Jupyter Notebook to perform preliminary analysis & visualize data using Matplotlib,machine learning 
+474,Predicted stock price with 98% accuracy to enable the company to make informed investments,machine learning 
+475,Determined optimal pricing strategies to facilitate the management of funds & achieve revenue goal,machine learning 
+476,"Made multiple touch sensitive ML. systems in all the office floors to improve the company's safety networks systems to detect abnormality. intrusion, fraud, masquerading, malware, etc.",machine learning 
+477,Developed an algorithm to understand customer behavior leading to 95% success in targeted marketing campaigns,machine learning 
+478,Engincered a food recommendation system to provide meaningtal food recommendations to guests Designed an in-house the hotel's administration work,machine learning 
+479,Applied various machine learning techniques d dynamic pricing models and maximize profits,machine learning 
+480,Built a predictive model to analyze customer food preferences leading to 40% reduction in food wastage,machine learning 
+481,Employed advanced text mining algorithms to facilitate the identification of search intent latent in individual keywords,machine learning 
+482,Designed and developed analysis systems to extract information from large scale data.,machine learning 
+483,Developed customer segmentation algorithm in R leading to 22% increase in market share.,machine learning 
+484,Optimized personalization algorithms for applications with 2M+ users.,machine learning 
+485,"Applied data mining to shipping consolidation problem, saving $1.2M.",machine learning 
+486,Predicted product sales to within 2% by applying logistic regression model.,machine learning 
+487,Developed molecular dynamics simulations using machine learning algorithms to identify protein-DNA interactions with up to 95% fidelity.,machine learning 
+488,Interpreted 300+ complex simulation datasets using statistical methods.,machine learning 
+489,Improved accuracy of simulation by 30% using complex algorithms.,machine learning 
+490,Developed dimensional data modeling to satisfy OLAP needs.,machine learning 
+491,"Research paper: Machine Learning, Probabilities Explained published in Journal of Cryptology, June 2017",machine learning 
+492,Senior data mining project written up in TechCrunch.,machine learning 
+493,Excelled in database and data structure coursework.,machine learning 
+494,Created social media sentiment analyzer that tracks 150 million posts per day.,machine learning 
+495,Developed data mining algorithms for 5 clients online.,machine learning 
+496,Designed and developed analysis systems to extract information from large scale data.,machine learning 
+497,Developed customer segmentation algorithm in R leading to 22% increase in market share.,machine learning 
+498,Optimized personalization algorithms for applications with 2M+ users.,machine learning 
+499,"Applied data mining to shipping consolidation problem, saving $1.2M.",machine learning 
+500,Predicted product sales to within 2% by applying logistic regression model.,machine learning 
+501,Created social media sentiment analyzer that tracks 150 million posts per day.,machine learning 
+502,Developed data mining algorithms for 5 clients online.,machine learning 
+503,"Conducted weekly security operations for phishing alerts, Security Operations Center (SOC) alerts, and 40+ other security events.",cyber security
+504,Developed a monthly education plan to improve the IT security-related skills and technologies of 50+ staff members.,cyber security
+505,Performed technical evaluation and penetration testing of 30+ commercially-developed web applications and mobile systems.,cyber security
+506,Created a virtual desktop environment that enables 2400+ users to access applications remotely within RW's network via the cloud.,cyber security
+507,Developed and implemented comprehensive security policies and procedures for safeguarding confidential data against cyber threats.,cyber security
+508,Monitored computer networks for security breaches using Splunk SIEM solutions.,cyber security
+509,Analyzed system logs to identify suspicious network activity and provided solutions to rectify potential threats.,cyber security
+510,Facilitated technical training sessions on cyber security best practices for IT personnel.,cyber security
+511,Updated antivirus software and other applications to enhance system protection from malicious software.,cyber security
+512,"Collaborated closely with the IT team to deploy firewalls, antivirus programs, encryption technologies, virtual private networks (VPNs), IDS/IPS systems, etc., ensuring robust defense against external threats.",cyber security
+513,"Created detailed documentation for installing, configuring, maintaining & troubleshooting all aspects of the corporate network infrastructure including routers & switches using WAN optimization techniques & protocols such as MPLS (Multi Protocol Label Switching).",cyber security
+514,Evaluated existing network architecture & identified areas of improvement to maximize efficiency & reduce latency issues while minimizing operating costs associated with networking operations.,cyber security
+515,Coordinated with vendors for ordering hardware equipment & software licenses related to various networking projects.,cyber security
+516,Implemented dual-factor authentication into Nexus Dynamics’ remote access networks resulting in full compliance with HIPAA standards & a reduction in unauthorized access attempts by 70%.,cyber security
+517,Member of the Cyber Security Club (organized seminars to raise awareness about potential cyber threats).,cyber security
+518,Participated in various coding competitions & hackathons (received the ‘Outstanding Coder Award’ at the Annual Coding Convention).,cyber security
+519,Collaborating with local organizations to promote cybersecurity awareness & safety practices.,cyber security
+520,Monitored organization’s networks for security breaches and investigated violations.,cyber security
+521,Prepared reports which documented security breaches and extent of damage caused by breaches.,cyber security
+522,Conducted penetration testing and located vulnerabilities in systems before they could be exploited.,cyber security
+523,Identified over 350 new viruses and malware in under 4 years.,cyber security
+524,Considered client concerns to determine best method of defending Wordpress sites from attack.,cyber security
+525,Scanned sites for malware and security risks on a regular basis.,cyber security
+526,Quarantined and removed any security issues found.,cyber security
+527,Successfully secured and monitored over 50 websites with 0 major attacks.,cyber security
+528,"Perform and manage technical evaluation and penetration testing of internally- and commercially-developed applications (web, desktop, and mobile), systems, and medical devices. ",cyber security
+529,"Assist in evaluating and developing the security controls for IT solutions of all types (mobile, web, client-server, etc). ",cyber security
+530,"Maintain current knowledge of security vulnerabilities, threats, and industry standard methodologies (both within and external to the healthcare industry).",cyber security
+531,Participate in appropriate and relevant conferences and courses to maintain technical proficiency.,cyber security
+532,"Assist in developing and implementing an annual personal education plan to develop and maintain currency of security-related skills, technologies, methodologies, and standard methodologies. ",cyber security
+533,"Effectively managed IT security-related projects for infrastructure rollouts, and implemented upgrades and replacements for server systems.",cyber security
+534,Led multiple projects with responsibility for hardware planning and risk management.,cyber security
+535,"Managed activities including planning, budgeting, oversight and documentation of all aspects of assigned projects.",cyber security
+536,Anticipated and defined customer needs and continually achieved high quality results for both internal and external customers.,cyber security
+537,Maintained close and positive relationships with business team members.,cyber security
+538,Trained roughly 200 end users on security processes.,cyber security
+539,"Helped to build the internal help desk and trained technical staff to provide support to over 10,000 users",cyber security
+540,Oversaw security initiatives of the cloud structure and worked to investigate and resolve any related issues.,cyber security
+541,Directed all phases of complex projects while managing and motivating team members.,cyber security
+542,Worked with technical teams and external vendors to provide optimal operational support for various services.,cyber security
+543,Provided timely and accurate responses for all incidents and requests.,cyber security
+544,Performed and coordinated special assignments from the infrastructure manager.,cyber security
+545,Simulated attacks on systems to find exploitable weaknesses and implement effective solutions.,cyber security
+546,"Helped to provide short-term and long-term solutions for over 8,000 end users.",cyber security
+547,"IT security specialist with a passion and talent for aligning security architecture, plans, controls, processes, policies and procedures with security standards and operational goals.",cyber security
+548,"Project leader with proven experience directing all phases of complex projects while managing, motivating and mentoring global team members.",cyber security
+549,Extensive experience developing and testing security architectures of cloud-based systems.,cyber security
+550,Authored security architecture design documentation and standard operating procedures.,cyber security
+551,"Introduced use of security metrics to mitigate vulnerability by analysing historical threats, addressing risks/gaps/violations and implementing improved protocols.",cyber security
+552,"Trained 150 end users on security processes, procedures and risks via the company’s first security education program, which is being rolled out companywide.",cyber security
+553,"Identify and assess potential security risks to networks, systems, and applications",cyber security
+554,"Develop and implement security policies, standards, and procedures",cyber security
+555,"Monitor and analyze security breaches, intrusions, and anomalies",cyber security
+556,Monitor and respond to security alerts and incidents,cyber security
+557,Perform vulnerability assessments and penetration testing,cyber security
+558,Research and recommend security enhancements,cyber security
+559,Configure and install security-related hardware and software,cyber security
+560,Develop and maintain security documentation,cyber security
+561,Monitor compliance with security policies and procedures,cyber security
+562,Train users on security policies and procedures,cyber security
+563,Investigate security violations and incidents,cyber security
+564,"Developed and implemented a comprehensive security awareness training program for all employees, resulting in a 50% reduction in security incidents caused by human error.",cyber security
+565,"Conducted regular vulnerability assessments and penetration testing, identifying and remediating critical vulnerabilities before they could be exploited by attackers.",cyber security
+566,"Managed and responded to multiple security incidents, minimizing the impact on business operations and preventing any data breaches.",cyber security
+567,"Designed and implemented a security information and event management (SIEM) system, reducing incident response time by 30% and improving overall security posture.",cyber security
+568,"Developed and maintained security policies and procedures in compliance with industry standards and regulations, resulting in a successful audit with zero findings.",cyber security
+569,"Collaborated with cross-functional teams to implement security controls and solutions, resulting in a 25% reduction in security incidents and a 20% increase in system availability.",cyber security
+570,"Conducted a comprehensive security risk assessment, identifying and prioritizing critical risks and recommending security enhancements that resulted in a 40% reduction in overall risk.",cyber security
+571,"Implemented a security incident response plan, reducing incident response time by 50% and minimizing the impact on business operations.",cyber security
+572,"Managed and maintained security-related hardware and software, ensuring all systems were up-to-date and in compliance with industry standards and regulations.",cyber security
+573,"Developed and implemented a security awareness training program, resulting in a 50% decrease in security incidents caused by employee error.",cyber security
+574,"Conducted regular vulnerability scans and penetration tests, identifying and remediating 75% of security weaknesses before they could be exploited.",cyber security
+575,"Collaborated with cross-functional teams to ensure security requirements were met for a new product launch, resulting in a successful launch with no security incidents.",cyber security
+576,"Monitored and analyzed security events and logs, identifying and responding to 95% of security alerts and notifications within 15 minutes.",cyber security
+577,"Investigated and remediated a security breach, reducing the impact on the organization by 80% and preventing further damage.",cyber security
+578,"Configured and maintained security tools and systems, resulting in a 30% increase in system reliability and availability.",cyber security
+579,"Developed and implemented security policies, procedures, and best practices, resulting in a 25% decrease in security incidents and breaches.",cyber security
+580,"Researched and evaluated emerging security threats and vulnerabilities, providing recommendations for mitigation and prevention that were implemented and resulted in a 40% decrease in potential threats.",cyber security
+581,"Assisted in the development of a security architecture and design, resulting in a 20% increase in system security and resilience.",cyber security
+582,"Developed and implemented a comprehensive security awareness and training program for all employees, resulting in a 50% decrease in security incidents caused by human error within the first six months.",cyber security
+583,"Conducted vulnerability scans and penetration tests on critical systems, identifying and remediating 15 high-risk vulnerabilities, reducing the risk of a successful cyber attack by 80%.",cyber security
+584,"Monitored and analyzed security logs to detect potential security incidents, leading to the identification and mitigation of 5 potential threats before they could cause any damage.",cyber security
+585,"Researched and recommended security solutions to improve the overall security posture of the organization, resulting in the implementation of a new security tool that reduced the risk of a successful cyber attack by 70%.",cyber security
+586,"Configured and maintained security tools, including firewalls and intrusion detection systems, ensuring that they were up-to-date and functioning properly at all times.",cyber security
+587,"Monitored and responded to security alerts, investigating and analyzing security incidents to determine the root cause and prevent future occurrences.",cyber security
+588,"Performed security risk assessments on critical systems, identifying and prioritizing security risks and recommending mitigation strategies to reduce the overall risk to the organization.",cyber security
+589,"Developed and maintained security documentation, including policies, standards, and procedures, ensuring that they were up-to-date and aligned with industry best practices.",cyber security
+590,"Stayed up-to-date with the latest security trends and technologies, attending industry conferences and training sessions to ensure that the organization was aware of emerging threats and had the necessary skills to mitigate them.",cyber security
+591,"Developed and implemented security awareness training program for 100+ employees, resulting in a 25% decrease in security incidents caused by human error.",cyber security
+592,"Conducted regular security audits and vulnerability scans, identifying and addressing 50+ security vulnerabilities and reducing the risk of cyber attacks by 40%.",cyber security
+593,"Collaborated with cross-functional teams to implement security controls and configure firewalls, ensuring compliance with industry standards and protecting sensitive data.",cyber security
+594,"Monitored and analyzed network traffic for suspicious activity, detecting and responding to 20+ security incidents and minimizing the impact of cyber attacks on the organization.",cyber security
+595,"Researched and recommended security solutions, leading to the implementation of a new endpoint protection system and reducing the risk of malware infections by 50%.",cyber security
+596,"Performed penetration tests on critical systems, identifying and addressing 10+ vulnerabilities and improving the overall security posture of the organization.",cyber security
+597,"Investigated security breaches and recommended corrective actions, leading to the implementation of new security controls and reducing the risk of future incidents by 30%.",cyber security
+598,"Developed and maintained security policies and procedures, ensuring compliance with industry standards and reducing the risk of regulatory fines by 25%.",cyber security
+599,"Performed regular vulnerability scans and penetration tests, identifying and addressing 30+ security vulnerabilities and improving the overall security posture of the organization.",cyber security
+600,"Developed and implemented a comprehensive security awareness training program for all employees, resulting in a 50% decrease in successful phishing attacks and an overall improvement in security posture.",cyber security
+601,"Conducted regular vulnerability assessments and penetration testing, identifying and remediating critical vulnerabilities before they could be exploited by attackers.",cyber security
+602,"Managed and configured security tools such as firewalls, antivirus, and intrusion detection systems, reducing the number of security incidents by 30% and improving incident response times by 40%.",cyber security
+603,"Researched and recommended security solutions to address identified risks, resulting in a 25% reduction in security incidents and a 20% improvement in overall security posture.",cyber security
+604,"Investigated and responded to security incidents, identifying and mitigating the root cause of incidents within an average of 24 hours.",cyber security
+605,"Provided technical guidance and support to other teams, ensuring that security best practices were followed and that security risks were identified and addressed in a timely manner.",cyber security
+606,"Developed and maintained security architectures and designs, ensuring that all systems and applications were secure by design and that security risks were minimized.",cyber security
+607,"Monitored and analyzed security events, alerts, and logs, identifying and responding to security incidents in real-time and reducing the impact of security incidents by 50%.",cyber security
+608,"Stayed up to date on the latest security trends and technologies, implementing new security solutions and technologies to improve overall security posture and reduce risk.",cyber security
+609,"Developed and implemented a comprehensive security awareness and training program, resulting in a 50% reduction in security incidents caused by human error.",cyber security
+610,"Conducted security risk assessments for multiple clients, identifying critical vulnerabilities and recommending corrective actions that led to a 30% improvement in overall security posture.",cyber security
+611,"Collaborated with cross-functional teams to implement security best practices and ensure compliance with industry regulations, resulting in a 25% reduction in audit findings.",cyber security
+612,"Managed the configuration and maintenance of security tools and systems for a large financial institution, reducing the time to detect and respond to security incidents by 40%.",cyber security
+613,"Identified and evaluated new security technologies, recommending and implementing solutions that improved security posture and reduced costs by 20%.",cyber security
+614,"Analyzed security logs and reports to identify suspicious activity, leading to the successful mitigation of a major security incident and preventing potential financial losses.",cyber security
+615,"Conducted a comprehensive security assessment for a healthcare organization, identifying critical vulnerabilities and recommending corrective actions that led to a 50% improvement in overall security posture.",cyber security
+616,"Developed and maintained security documentation, including policies, standards, and procedures, ensuring compliance with industry regulations and reducing audit findings by 30%.",cyber security
+617,"Researched and recommended security enhancements and solutions, resulting in a 20% reduction in security incidents and improved protection of sensitive data.",cyber security
+618,Oversee cloud infrastructure and designed security architecture for leading regional app developer,cyber security
+619,"Create security metrics to analyze threats, identifying and eliminating 75 viruses and malware over the past two years",cyber security
+620,Design a successful company wide security education program,cyber security
+621,Improve the security of the company against active and passive attacks on the systems,cyber security
+622,Teach other employees how to monitor for breaches and respond to them quickly,cyber security
+623,Created code-based solutions to new and existing security issues,cyber security
+624,Collaborated with a team of 10 IT Specialists to meet 100% of project deadlines,cyber security
+625,"Provided strategic, analysis-based recommendations to senior-level security group",cyber security
+626,"Collaborate with the cyber security team, IT manager, and CTO to develop IT security protocols to protect client information for a firm managing over $15M in assets",cyber security
+627,"Manage response, triage, and escalation of cybersecurity incidents related to user access, security breaches, and user privacy and create documentation to prevent future issues",cyber security
+628,"Support the development of a scalable IT security management program to enhance the quality of IT audits and information security, resulting in a 30% reduction in vendor costs",cyber security
+629,"Conducted security audits on IT infrastructure and policies, including firewalls, access management, user authentication, and risk mitigation",cyber security
+630,Attended meetings with the cybersecurity team to discuss potential security threats and identify opportunities to enhance information security measures for users on the portal,cyber security
+631,"Manage a 15-person cyber security team to monitor attacks, unauthorized access, and suspicious activity impacting sensitive information, patents, and products for a multi-million-dollar pharmaceutical corporation",cyber security
+632,"Conduct root cause analysis for unauthorized access attempts, create security logs, and develop new information security management policies to reduce the risk of intrusion",cyber security
+633,"Liaise with data privacy, legal, IT management, and compliance departments to assess findings of security audits and restructure policies to preserve data integrity",cyber security
+634,"Proven experience with cloud technologies such as AWS, Google Cloud Platform, or Microsoft Azure.",cloud engineer
+635,"Demonstrated capabilities in designing, planning, and managing robust cloud architectures.",cloud engineer
+636,Strong understanding of cloud security principles and how they apply to cloud architecture.,cloud engineer
+637,"Certifications relevant to the role, such as AWS Certified Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert.",cloud engineer
+638,Experience with Infrastructure as Code (IaC) tools like Terraform or CloudFormation.,cloud engineer
+639,"Designed and implemented scalable cloud solutions for a Fortune 500 company, resulting in a 30% reduction in infrastructure costs.",cloud engineer
+640,"Led a team of cloud architects in migrating legacy applications to AWS, enabling improved performance and cost efficiency.",cloud engineer
+641,"Developed automation scripts using Python and Ansible, reducing deployment time by 50%.",cloud engineer
+642,"Implemented high availability and disaster recovery strategies for critical applications, ensuring 99.99% uptime.",cloud engineer
+643,Collaborated with cross-functional teams to develop cloud-native architectures and microservices-based applications.,cloud engineer
+644,"Architected and deployed hybrid cloud solutions, integrating on-premises infrastructure with Azure, resulting in cost savings of $500,000 annually.",cloud engineer
+645,"Managed the migration of enterprise applications to the cloud, delivering a 40% improvement in application performance.",cloud engineer
+646,"Led the implementation of DevOps practices, increasing software delivery frequency by 70%.",cloud engineer
+647,"Designed and implemented identity and access management solutions for cloud environments, ensuring robust security.",cloud engineer
+648,"Provided technical guidance and mentoring to junior cloud architects, fostering their professional growth.",cloud engineer
+649,"Built and managed private cloud infrastructure for a financial institution, resulting in a 50% reduction in IT operational costs.",cloud engineer
+650,"Designed and executed a cloud migration strategy for legacy applications, improving scalability and availability.",cloud engineer
+651,"Developed disaster recovery plans and conducted regular simulations, ensuring business continuity in case of system failures.",cloud engineer
+652,"Implemented infrastructure-as-code practices using Terraform, reducing deployment time by 75%.",cloud engineer
+653,Collaborated with application development teams to optimize cloud resource utilization and performance.,cloud engineer
+654,"Led the design and implementation of a multi-cloud strategy, leveraging AWS, Azure, and Google Cloud Platform, resulting in enhanced flexibility and reduced vendor lock-in.",cloud engineer
+655,"Migrated monolithic applications to containerized microservices architecture using Kubernetes, achieving improved scalability and fault tolerance.",cloud engineer
+656,"Developed cost optimization frameworks, reducing cloud spending by 20% through rightsizing and resource allocation strategies.",cloud engineer
+657,"Performed security assessments and implemented security controls, ensuring compliance with industry standards and regulations.",cloud engineer
+658,Collaborated with cross-functional teams to develop cloud governance policies and guidelines.,cloud engineer
+659,"Designed and implemented scalable cloud solutions for startups, enabling rapid growth and seamless scaling.",cloud engineer
+660,"Migrated on-premises infrastructure to AWS, resulting in increased availability and improved disaster recovery capabilities.",cloud engineer
+661,"Developed serverless architectures using AWS Lambda, reducing operational costs by 40%.",cloud engineer
+662,"Automated deployment processes using Jenkins and GitLab CI/CD pipelines, improving software delivery efficiency.",cloud engineer
+663,"Provided technical expertise and guidance to clients, assisting them in adopting cloud technologies and best practices.",cloud engineer
+664,"Architected and deployed multi-region cloud solutions on Azure, ensuring high availability and disaster recovery.",cloud engineer
+665,"Led the migration of legacy systems to the cloud, enabling scalability and improved performance for a global e-commerce platform.",cloud engineer
+666,"Implemented automated monitoring and alerting solutions using Azure Monitor, resulting in proactive issue detection and resolution.",cloud engineer
+667,"Designed and implemented serverless architectures leveraging Azure Functions, optimizing costs and resource utilization.",cloud engineer
+668,"Collaborated with cross-functional teams to design and implement data lake solutions on Azure, enabling advanced analytics capabilities.",cloud engineer
+669,"Architected and implemented cloud-native solutions on Google Cloud Platform (GCP), leveraging containers and Kubernetes.",cloud engineer
+670,"Migrated on-premises workloads to GCP, resulting in reduced maintenance efforts and improved scalability.",cloud engineer
+671,"Developed CI/CD pipelines using Jenkins and Google Cloud Build, enabling streamlined software delivery.",cloud engineer
+672,Implemented data replication and synchronization mechanisms across regions using Google Cloud Storage and BigQuery.,cloud engineer
+673,Collaborated with development teams to optimize application performance and cost efficiency on GCP.,cloud engineer
+674,"Designed and implemented highly available cloud solutions on AWS, ensuring 99.99% uptime for mission-critical applications.",cloud engineer
+675,"Migrated on-premises infrastructure to AWS, resulting in improved scalability and cost efficiency.",cloud engineer
+676,"Developed infrastructure automation scripts using CloudFormation and Ansible, reducing deployment time by 60%.",cloud engineer
+677,"Implemented disaster recovery strategies and conducted regular failover tests, ensuring business continuity.",cloud engineer
+678,Collaborated with cross-functional teams to define cloud architecture standards and best practices.,cloud engineer
+679,"Architected and deployed cloud solutions on IBM Cloud (formerly known as SoftLayer), enabling global scalability and high performance.",cloud engineer
+680,"Migrated legacy applications to the cloud, resulting in improved resource utilization and reduced maintenance costs.",cloud engineer
+681,"Developed automation frameworks using Chef and Puppet, streamlining deployment and configuration management processes.",cloud engineer
+682,"Implemented backup and disaster recovery solutions using IBM Cloud Object Storage, ensuring data protection and availability.",cloud engineer
+683,Collaborated with clients to define cloud adoption strategies and deliver tailored solutions based on their business needs.,cloud engineer
+684,"Designed and implemented hybrid cloud solutions, integrating VMware virtualization with public cloud platforms like Azure and AWS.",cloud engineer
+685,"Migrated legacy applications to virtualized environments, improving scalability and reducing hardware costs.",cloud engineer
+686,"Developed disaster recovery plans and conducted regular tests, ensuring minimal downtime in case of failures.",cloud engineer
+687,"Implemented automated provisioning and configuration management using VMware vRealize Suite, increasing operational efficiency.",cloud engineer
+688,Collaborated with infrastructure teams to optimize virtualization performance and capacity planning.,cloud engineer
+689,"Experienced Cloud Architect offering a 10-year career history highlighted by roles at XYZ Tech and ABC Computing. Well-versed in designing, developing, and managing robust cloud infrastructures using AWS and Azure. Recognized for leading a successful migration of 50+ applications to the cloud at XYZ Tech.",cloud engineer
+690,"Seven years' experience as a Software Engineer now seeking to leverage programming skills (Python, Java) in cloud architecture at DEF Corporation. Proven record in solving complex technical problems; led the design and implementation of an award-winning software system at previous employer.",cloud engineer
+691,"Senior Network Engineer with over a decade of experience, eager to transition into the cloud architect domain at GHI Enterprise. Proficient in network modeling and simulation tools, with a significant understanding of cloud-based systems like Google Cloud and AWS. Successfully expanded network infrastructure at previous company, supporting 500+ users.",cloud engineer
+692,"With a background in System Administration spanning 8 years, ready to pivot to the dynamic field of cloud architecture at JKL Inc. Skilled in Linux/UNIX environments, with a firm grasp of virtualization techniques and cloud services such as Azure and Google Cloud. Implemented a comprehensive security protocol that significantly reduced system vulnerabilities in the past role.",cloud engineer
+693,"Eager to commence a career in cloud architecture at MNO Technologies. Graduated top of class in Computer Science, coupled with a certification in AWS Solutions Architect. Proficient in Python, SQL, and Java with a strong understanding of cloud services, network protocols, and virtualization.",cloud engineer
+694,"Aspiring Cloud Architect with a recent Masters in Information Systems seeks to contribute academic knowledge and internship experience to NOP Solutions. Proficient in DevOps methods, container concepts, and familiar with cloud platforms like AWS and Google Cloud. Developed a cloud-based application during an internship which improved process efficiency by 30%.",cloud engineer
+695,"Developed and implemented prototype solutions to augment commercial wireless communication protocols, resulting in improved secure and resilient communication for customers.",cloud engineer
+696,"Designed and specified KPI monitoring information on the health of the cloud infrastructure, resulting in improved performance and quality of service for customers.",cloud engineer
+697,"Collaborated with internal stakeholders to deploy and configure the cloud infrastructure and application, ensuring timely delivery and high-quality performance.",cloud engineer
+698,"Provided technical domain support to operations teams as required, ensuring uptime and availability of services.",cloud engineer
+699,"Secured cloud infrastructure and worked with 3rd party auditing organizations, ensuring adherence to security and data privacy concepts.",cloud engineer
+700,"Provided detailed and quantifiable feedback to product engineering and product management teams to enhance network performance and quality, resulting in a 25% improvement in network performance.",cloud engineer
+701,"Held vendors accountable to SLAs on network performance and service quality, ensuring high-quality service for customers.",cloud engineer
+702,"Developed the vision and roadmap for the next-generation infrastructure services, resulting in improved performance and reduced infrastructure costs.",cloud engineer
+703,"Implemented the next-generation infrastructure services, resulting in increased efficiency and reliability of the cloud infrastructure.",cloud engineer
+704,"Monitored and reported production metrics, ensuring timely detection and resolution of issues.",cloud engineer
+705,Collaborated with internal stakeholders to ensure successful deployment and configuration of the cloud infrastructure and application.,cloud engineer
+706,"Maintained knowledge of cloud security risks management and ensured cloud security controls were in place, ensuring adherence to security and data privacy concepts.",cloud engineer
+707,"Provided technical domain support to operations teams as required, ensuring uptime and availability of services.",cloud engineer
+708,"Designed and specified KPI monitoring information on the health of the cloud infrastructure, resulting in improved performance and quality of service for customers.",cloud engineer
+709,"Led network engineer in cloud application migration process, resulting in full network availability and security after completion.",cloud engineer
+710,"Delivered Network Design Document based on the requirements and best practices, resulting in increased efficiency in the design process.",cloud engineer
+711,"Collaborated with other technical teams to deliver product and solution level support, resulting in improved overall product quality.",cloud engineer
+712,Demonstrated strong interpersonal and communication skills while working with diverse audiences including highly skilled IT professionals and senior management.,cloud engineer
+713,Implemented network automation using Python and YAML resulting in 50% reduction in manual effort.,cloud engineer
+714,"Upgraded the ISRG2, ASR1K, and CSR1k platforms to improve network performance and efficiency.",cloud engineer
+715,Designed and implemented a BGP solution to improve network connectivity and routing.,cloud engineer
+716,Collaborated with other teams to implement VoIP technologies (SIP/WebRTC) resulting in improved communication and collaboration among employees.,cloud engineer
+717,Implemented VxLAN technology resulting in improved scalability and network performance.,cloud engineer
+718,Configured DMVPN and IPSEC to improve network security.,cloud engineer
+719,Upgraded the Arista 7K and Cisco Nexus 9000 switching platforms to improve network performance and efficiency.,cloud engineer
+720,Collaborated with other teams to implement Azure networking services resulting in improved overall network functionality.,cloud engineer
+721,"Experience with AWS services: Experience working with a wide range of Amazon Web Services like EC2, S3, RDS, ELB, etc. is critical for a Cloud Engineer role.",cloud engineer
+722,"Certifications: Having relevant certifications such as AWS Certified Solutions Architect, SysOps Administrator, or DevOps Engineer can greatly enhance the attractiveness of a resume.",cloud engineer
+723,Knowledge in Infrastructure as Code (IaC): Proficiency in IaC tools such as AWS CloudFormation or Terraform is highly sought after.,cloud engineer
+724,"DevOps Experience: Having experience in implementing CI/CD pipelines through tools like Jenkins, GitLab CI/CD or AWS CodePipeline is crucial.",cloud engineer
+725,"Programming skills: Familiarity with popular programming languages such as Python, Node.js, or Java and scripting languages like Bash or PowerShell can be very valuable.",cloud engineer
+726,"Implemented scalable and highly available AWS infrastructure using EC2, S3, and RDS resulting in a 30% improvement in system performance.",cloud engineer
+727,"Designed and deployed automated CI/CD pipelines on AWS using CodePipeline and Jenkins, reducing deployment time by 50%.",cloud engineer
+728,"Developed and maintained infrastructure as code using CloudFormation templates, enabling consistent and repeatable deployments across multiple environments.",cloud engineer
+729,"Optimized cost management strategies by implementing AWS Cost Explorer and leveraging spot instances, leading to a 20% reduction in monthly infrastructure expenses.",cloud engineer
+730,"Performed regular security audits and implemented best practices for AWS IAM roles, policies, and security groups, ensuring compliance with industry standards.",cloud engineer
+731,"Migrated on-premises infrastructure to AWS cloud environment, resulting in increased scalability and reduced operational costs by 40%.",cloud engineer
+732,"Designed and implemented disaster recovery solutions using AWS services such as AWS Backup and AWS CloudFormation, ensuring business continuity in case of system failures.",cloud engineer
+733,"Automated monitoring and alerting processes using CloudWatch, enabling proactive identification and resolution of performance issues.",cloud engineer
+734,Collaborated with cross-functional teams to design and implement secure VPC architectures with VPN connectivity to on-premises networks.,cloud engineer
+735,"Led a team of engineers in the successful implementation of a serverless architecture using AWS Lambda and API Gateway, resulting in improved application performance and reduced maintenance efforts.",cloud engineer
+736,"Built and managed scalable AWS infrastructure using services like EC2, DynamoDB, and Elastic Beanstalk, supporting a high-traffic web application.",cloud engineer
+737,"Implemented automated backup and recovery processes using AWS Backup and Amazon S3 versioning, ensuring data integrity and availability.",cloud engineer
+738,Optimized application performance by fine-tuning AWS resources and implementing caching mechanisms resulting in a 40% reduction in response time.,cloud engineer
+739,"Developed and maintained CI/CD pipelines using AWS CodePipeline and Git, enabling frequent and reliable application deployments.",cloud engineer
+740,Collaborated with development teams to design and implement secure authentication and authorization mechanisms using AWS Cognito and IAM.,cloud engineer
+741,"Provisioned and configured AWS resources including EC2 instances, RDS databases, and VPCs based on project requirements.",cloud engineer
+742,"Managed and monitored system performance using CloudWatch, identifying and resolving bottlenecks to ensure optimal application performance.",cloud engineer
+743,Implemented disaster recovery strategies using AWS Backup and performed regular backups and restoration tests to maintain data integrity.,cloud engineer
+744,Collaborated with cross-functional teams to design and implement secure network architectures with private and public subnets.,cloud engineer
+745,"Troubleshot and resolved production issues related to AWS infrastructure, ensuring minimal downtime and maximum availability.",cloud engineer
+746,"Experience with AWS services: Knowledge and experience in managing and operating systems on AWS is key. Examples include EC2, S3, RDS, and Lambda.",cloud engineer
+747,Certifications: Having the AWS Certified Cloud Practitioner certification or other relevant AWS certifications can significantly increase attractiveness to recruiters.,cloud engineer
+748,"Understanding of cloud concepts: Recruiters will look for understanding of essential cloud concepts such as cloud architecture, deployment models, and service models.",cloud engineer
+749,"Knowledge of security fundamentals: Knowledge of AWS' shared responsibility model, identity and access management (IAM), and other security best practices in a cloud environment is important.",cloud engineer
+750,"Hands-on Experience: Demonstrating hands-on experience in implementing, troubleshooting, and maintaining AWS-based applications can set you apart from others.",cloud engineer
+751,Designed and implemented AWS CloudFormation templates to automate infrastructure provisioning processes.,cloud engineer
+752,"Optimized AWS S3 storage architecture, resulting in a 30% reduction in storage costs.",cloud engineer
+753,Implemented AWS Lambda functions for real-time data processing and event-driven workflows.,cloud engineer
+754,Managed AWS EC2 instances and load balancers to ensure high availability and scalability of web applications.,cloud engineer
+755,Developed AWS CloudWatch alarms and monitoring dashboards to proactively identify performance bottlenecks.,cloud engineer
+756,Implemented automated backup and disaster recovery solutions using AWS S3 and EBS snapshots.,cloud engineer
+757,"Migrated on-premises databases to Amazon RDS, resulting in improved scalability and cost savings.",cloud engineer
+758,"Implemented security measures following AWS best practices, resulting in zero security incidents during annual audits.",cloud engineer
+759,Designed and implemented AWS CloudFront CDN for faster content delivery and reduced latency.,cloud engineer
+760,Architected and deployed highly available and fault-tolerant applications on AWS using Auto Scaling and Elastic Load Balancing.,cloud engineer
+761,Implemented AWS Identity and Access Management (IAM) policies for granular access control and improved security.,cloud engineer
+762,Optimized database performance by fine-tuning Amazon RDS instance parameters and implementing read replicas.,cloud engineer
+763,"Developed serverless applications using AWS Lambda and API Gateway, resulting in reduced infrastructure costs.",cloud engineer
+764,Implemented AWS Elastic Beanstalk for easy deployment and management of web applications.,cloud engineer
+765,"Designed and implemented data lake architecture on AWS using S3, Glue, and Athena for big data processing.",cloud engineer
+766,"Include the number of AWS projects you've managed, to demonstrate experience and capacity to handle responsibility.",cloud engineer
+767,"List how many AWS services you are proficient in, such as EC2, S3, RDS etc., which reflects your breadth of knowledge.",cloud engineer
+768,"Specify the size (in data volume) of the largest database you have managed using AWS, showcasing ability to deal with large-scale data.",cloud engineer
+769,"Mention the percentage uptime you've maintained for systems under your care in AWS, showing reliability and system stability expertise.",cloud engineer
+770,"Quantify savings (in percentage or dollar value) made from optimizing AWS resources, as this exhibits cost-saving capabilities.",cloud engineer
+771,"State the number of cross-functional teams you've collaborated with on AWS projects, indicating teamwork and collaboration skills.",cloud engineer
+772,"Note the amount of successfully resolved AWS-related issues, reflecting problem-solving abilities and effectiveness in role.",cloud engineer
+773,"Record how many security audits or compliance checks you've conducted or passed in AWS, demonstrating an understanding of critical security protocols.",cloud engineer
+774,"Designed and implemented AWS solutions across multiple accounts and regions, meeting diverse business requirements.",cloud engineer
+775,"Developed cost optimization strategies, resulting in significant savings of over $100,000 annually.",cloud engineer
+776,"Led a team in the migration of a large-scale application to AWS, ensuring minimal downtime and uninterrupted service.",cloud engineer
+777,"Knowledge of cloud platforms (AWS, Azure, Google Cloud) and security features or services they offer. Specific certifications, like AWS Certified Security Specialty, could be notably beneficial.",cloud engineer
+778,"Experience with security tools and technologies such as firewalls, intrusion detection systems (IDS), encryption, identity access management (IAM), and secure software development.",cloud engineer
+779,"Demonstrated understanding of regulatory standards and compliance requirements such as GDPR, HIPAA, ISO 27001, or SOC 2 Type II.",cloud engineer
+780,Ability to conduct vulnerability assessments and implement remediation strategies in a cloud environment.,cloud engineer
+781,Experience in incident response and disaster recovery planning specifically within a cloud context.,cloud engineer
+782,"Developed and implemented Cloud Security policies and procedures, ensuring compliance with industry standards.",cloud engineer
+783,Performed security assessments and penetration testing on cloud infrastructure resulting in enhanced security measures.,cloud engineer
+784,Collaborated with cross-functional teams to design and deploy secure cloud architectures for clients.,cloud engineer
+785,Managed the deployment of security controls and monitoring systems for cloud-based applications.,cloud engineer
+786,Conducted regular vulnerability assessments and implemented remediation measures to maintain a secure cloud environment.,cloud engineer
+787,Assisted in incident response and forensics investigations related to cloud security breaches.,cloud engineer
+788,"Conducted security assessments and audits on cloud service providers, evaluating their compliance with security standards and contractual obligations.",cloud engineer
+789,Implemented secure configurations and access controls for cloud infrastructure components.,cloud engineer
+790,Collaborated with incident response teams to investigate and resolve security breaches in cloud environments.,cloud engineer
+791,Designed and implemented AWS VPC architecture for secure network isolation and connectivity.,cloud engineer
+792,Optimized database performance by implementing read replicas and query caching in Amazon RDS.,cloud engineer
+793,Implemented centralized log management using AWS CloudWatch Logs and Elasticsearch.,cloud engineer
+794,Deployed and managed scalable Kubernetes clusters on AWS using Amazon EKS.,cloud engineer
+795,Developed CI/CD pipelines using AWS CodePipeline and AWS CodeBuild for automated application deployments.,cloud engineer
+796,"Implemented cost optimization strategies, resulting in a 20% reduction in monthly AWS expenses.",cloud engineer
+797,Implemented AWS CloudTrail for auditing and tracking changes made to AWS resources.,cloud engineer
+798,"Migrated legacy applications to AWS using services like AWS EC2, S3, and RDS.",cloud engineer
+799,Designed and implemented disaster recovery strategies using AWS Route 53 and multiple Availability Zones.,cloud engineer
+800,"Developed serverless applications using AWS Lambda and API Gateway, resulting in reduced infrastructure costs.",cloud engineer
+801,Implemented AWS Elastic Beanstalk for easy deployment and management of web applications.,cloud engineer
+802,"Designed and implemented data lake architecture on AWS using S3, Glue, and Athena for big data processing.",cloud engineer
+803,Developed an interactive map for a real estate company's website that enabled 3600+ users to search preferred properties by the municipality.,frontend development
+804,"Conducted routine updates, security patches, and other website maintenance tasks; achieved a 93% optimal website performance.",frontend development
+805,"Designed front-end code using HTML, CSS, JavaScript, ¡Query to create a responsive web application that works across desktops, tablets, and 20+ other devices.",frontend development
+806,Hand-coded embedded stylesheets into 10+ Javascript interfaces and reduced load times by 75% in the first month of implementation.,frontend development
+807,Developed 40+ user-friendly web applications using the Spring framework library in the first month of employment.,backend development
+808,"Created a document review application for civil litigation support, allowing >20K users to upload and view records.",backend development
+809,Designed a solution that integrated software mapping data of 840+ merchants into the proprietary GPS tracking logbooks of Polyhire.,backend development
+810,Integrated feedback from 2100+ beta testers during a site redesign based on usability tests performed at branch offices of Polyhire.,backend development
+811,"Migrated a multi-page user experience into a single page app, improving customer engagement by 10%.",frontend development
+812,Architected product tours with React for a new feature that improved customer adoption by 20% leading to $1M in revenue.,frontend development
+813,Partnered with data science to develop the front end for a product recommendation engine that increased user time on a page by 5 minutes.,frontend development
+814,"Participated in each step of the product development process from ideation to development improvement for features reaching over 150,000 users.",frontend development
+815,Overhauled the UI for an internal tool to refund customers which helped the customer experience team of 10 improve refund speed by 10%.,frontend development
+816,Worked with another developer to implement RESTful APIs in Django that enabled the analytical team of five to increase reporting speed by 20%.,frontend development
+817,Used Selenium to build unit testing infrastructure for a client application that reduced the number of user-reported bugs by 8% monthly.,frontend development
+818,"Maintained, developed, and designed the public website for all 5 states on a weekly basis with TeamSite.",frontend development
+819,Developed and designed UI for a database of customer's health and created a secure login for over 100 members.,frontend development
+820,Designed assessment forms for different customer stages that cut processing time by 30%,frontend development
+821,"Utilized Swift and Objective -C to build a Gap Framework for 40+ iOS Mobile applications in Q1, Q2, and Q3 2021",app development
+822,"Created custom UI elements for brand visual identity based on native UIKit protocols, maintaining compatibility on 20+ devices and future iOS updates.",app development
+823,Examined codes from 260+ 3rd Party contractors and researched new technologies within 48 hours on the job.,app development
+824,Developed an employee-facing iOS app that enables account switching and feature toggling for 1400+ community content managers,app development
+825,Performed technical designs and implementation of 8+ complex iOS apps.,app development
+826,Collaborated with the scrum team of 5 to translate client requirements into implementable user stories.,app development
+827,Developed and launched apps in over 45 countries that earned featured mentions in the App Store.,app development
+828,"Improved the product quality by 10% through code reviews, writing unit tests, and collaborating with QA on implementing automation testing.",app development
+829,Achieved over 400k downloads on the App Store.,app development
+830,Supported the architect to improve the native iOS and tvOS codebase function by 15%.,app development
+831,Led the discovery phase of 10+ medium to large projects to come up with a high-level design.,app development
+832,Designed and developed 3 augmented reality apps that were downloaded over 50k times within the first two weeks after publishing.,app development
+833,Created and tested 20+ Android apps and games that brought in $200K within a 5-month period.,app development
+834,Designed a free Math app for kids that was downloaded over 300K times.,app development
+835,Collaborated with 5 designers and engineers to build 5 apps with 4+ star reviews,app development
+836,Applied knowledge of Android system frameworks to solve novel problems with 100% accuracy. ,app development
+837,Developed 5+ native Android applications and frameworks using Kotlin and Java.,app development
+838,"Developed responsive and interactive web applications using JavaScript, HTML, and CSS, increasing user engagement by 73%.",frontend development
+839,"Implemented robust fronted architecture and optimized code performance, which reduced page load time by 45 seconds.",frontend development
+840,"Collaborated with 10+ cross-functional teams to design and implement user-friendly interfaces, boosting customer satisfaction ratings by 23%.",frontend development
+841,"Performed thorough debugging of 40+ applications to ensure high-quality standards, reducing reported bugs by 54%.",frontend development
+842,"Collaborate with research, sales, and technology teams to create 60+ digital products in the first 23 weeks of employment.",frontend development
+843,Designed an innovative User Interface (UI) for a software tool to analyze spreadsheets and scan for fraud in the payroll of 200+ employees.,frontend development
+844,Created cross-browser compatible and standards-compliant CSS-based page layouts for 430÷ Small and Medium Enterprises (SMEs).,frontend development
+845,"Performed on code revicws and bug fixes, reducing technical debt by 30% within the first quarter.",frontend development
+846," Mentored 5 junior front end developers on JavaScript and Redux and trained on the documentation practices used within the organization. Highly involved in the entire product development process from ideation to development and improvement for features, reaching over 250,000 users.",frontend development
+847,"Relocated a multi-page user experience into a single page application, improving customer engagement by 12%.",frontend development
+848,"Designed multiple dynamic and browser compatible pages using HTML5, CSS3, Javascript (React, Redux).",frontend development
+849,Collaborated with UX/UI design teams to improve checkout flow; increased conversion rates by 20%.,frontend development
+850,"Analyzed impact and effectiveness of in-app UI changeson customer retention; identified features of customer behavior and recommended additional menu modifications [R, MySQL, Chart JS]",frontend development
+851,Worked alongside three peers to build a real time voice visualization website based on JavaScript within 36 hours.,frontend development
+852,"Built a web application MPV for a dropship management platform with 75+ business customers to create, manage and monitor deliveries.",frontend development
+853,Updated a cooking application with 6000+ monthly active users to allow the uploading of audio and video content using Redux.,frontend development
+854,"Developed RESTful APIs used within the company to serve data based on dynamically chosen user inputs for a web application with over 275,000 concurrent users.",backend development
+855,Built unit testing infrastructure for a client application resulting in reduced number of user-reported bugs by 10% every month.,backend development
+856,"Developed an internal tool to automate QA and monitor customer facing web applications, resulting in an improved click through rate by 7%.",frontend development
+857,Worked alongside 2 developers to implement APIs which helped the internal analytics team to increase the reporting speed by 24%.,frontend development
+858,"Built responsive websites for 40+ customers using semantic HTML5, JavaScript, ReactS, and CSS compiled using maven and webpack build tools.",frontend development
+859,"Created Java OSGi bundles for cache invalidation, REST APIs, and web form response handling in the first 30 days of employment.",frontend development
+860,Managed CI/CD solution for a 7-man development team using the CircleCI tool and AWS Lambda functions.,frontend development
+861,Developed code that deals with large data sets by rendering components on Ul and optimizing calls to minimize HTTP requests by 80%.,frontend development
+862,"Promoted better component lifecycle practices, which increased turnaround speed by 74%, an improvement from previous years.",frontend development
+863,Collaborated with 10+ senior team members to upgrade the websites of 150+ customers to catch up with changing industry standards.,frontend development
+864,"Pioneered using isomorphic React and Node.js for 40+ web applications, which decreased load times by 69%.",frontend development
+865,"Conducted testing, installation, configuration, and troubleshooting of 30+ software programs within one week of joining the team.",frontend development
+866,"Developed product tours with React for a new feature, improving customer adoption by 25% leading to increased revenue by SIM.",frontend development
+867,"Created a compatible, custom client dashboard, reducing support tickets by 45%.",frontend development
+868,Worked with UX/UI design teams to improve existing applications and increase conversion rates by 20%.,frontend development
+869,"Designed multiple dynamic and browser compatible pages using HTML5, CSS3, Javascript (React, Redux).",frontend development
+870,"Developed new Angular components for the customer facing web application, improving the average user time on page by 2 minutes.",frontend development
+871,"Built extensive test coverage for all new features, reducing the number of customer complaints by 10%.",frontend development
+872,"Built cross-browser compatible and accessibility compliant websites, resulting in 22% faster load time than industry average.",frontend development
+873,"Produced multiple visual elements of web applications by translating UI/UX design wireframes into code, producing high quality markup using HTML5 and CSS3.",frontend development
+874,Worked closely with an agile team of 10 members and provided end-to-end solutions for clients.,frontend development
+875,"Revamped UI and app interface for the customer-facing e-commerce site of W, leading to 200K unique visitors per week.",frontend development
+876,"Automated image optimization using Grunt, minified JS, and CSS; reduced page load times by 86%; received early promotion ahead of schedule.",frontend development
+877,Created HTML email templates that improved email CTR rates by 65% for 23 weeks consecutively.,frontend development
+878,"Spearheaded redesign of the company's flagship mobile app, which increased downloads by 40% in less than 30 days on the job.",frontend development
+879,"Implemented new website features including conditional logic, data filters and pricing models",frontend development
+880,Improved our global search engine ranking by +200 by implementing Google’s Page Speed toolkit,frontend development
+881,Increased revenue through upsells and cross-selling,frontend development
+882,Improved customer satisfaction score by +24% (based on performance metrics),frontend development
+883,"Performed statistical analyses for reports and projects relating to potentially sensitive information loss, such as business strategies and clients",frontend development
+884,"Organized and maintained data for all employees, including employee data, contact information and skills",frontend development
+885,Supervised the assistance of 3 new employees,frontend development
+886,Developed new web and mobile applications that have been deployed across multiple platforms,frontend development
+887,"Responsible for the design and maintenance of the company's website, including marketing site, promotional site, blog, sales site and customer service site",frontend development
+888,Repaired and maintained all company websites in a timely manner,frontend development
+889,Managed a team of 4 front-end developers and designers,frontend development
+890,"Created new applications from scratch using HTML, CSS and JavaScript",frontend development
+891,Responsible for maintaining all company websites in a timely manner,frontend development
+892,"Built, maintained and integrated the company's new website for a cost savings of $5,000",frontend development
+893,"Was responsible for the creation of more than 5,500 lines of code, a new PHP framework, and a new front-end UI framework to create a new responsive website",frontend development
+894,"Created and maintained new tools, including a new CMS, a new file management system and a new workflow system",frontend development
+895,Converted the old website from HTML to a new responsive HTML5 framework,frontend development
+896,"Oversee back-end development using PHP to maintain website integrity, security and efficiency.",backend development
+897,"Utilize such technologies as ASP.NET MVC, HTML5, JavaScript and SQL Server 2012 to develop new applications.",backend development
+898,Build databases and table structures following architecture methodology for web applications,backend development
+899,Create powerful Content Management Systems to serve as interface for client.,backend development
+900,Developed and maintained backend services for web and mobile applications,backend development
+901,Created APIs and optimized database queries for better performance,backend development
+902,Worked with the team to develop new features and enhance existing ones,backend development
+903,Provided technical support and troubleshooting to other team members,backend development
+904,"Designed, developed, and tested back-end systems for web applications",backend development
+905,Debugged and optimized existing code for better performance,backend development
+906,Implemented new features and functionalities based on customer requirements,backend development
+907,Provided technical support to clients and maintained documentation,backend development
+908,Developed and implemented a new backend system to handle customer data for a large e-commerce website.,backend development
+909,Designed and implemented a new RESTful API for a mobile application.,backend development
+910,Built a custom backend system for a web-based video streaming application.,backend development
+911,Developed and maintained a web-based customer management system.,backend development
+912,Created and maintained backend services for a large-scale web application.,backend development
+913,Developed and deployed a fully automated data warehouse system.,backend development
+914,Implemented and maintained a secure authentication system for a web application.,backend development
+915,Designed and developed a custom RESTful API for a mobile application.,backend development
+916,Built a custom backend system for a web-based inventory management application.,backend development
+917,Developed and maintained a web-based payment processing system.,backend development
+918,Solid understanding of backend development technologies and frameworks,backend development
+919,"Experience working with databases such as MySQL, MongoDB, and Oracle",backend development
+920,"Proficiency in coding languages like Java, Python, or C#",backend development
+921,In-depth knowledge of object-oriented programming (OOP) principles,backend development
+922,Experience developing RESTful APIs and web services,backend development
+923,"Familiarity with version control systems such as Git, SVN, and Mercurial",backend development
+924,Web applications backend developer on Java 8/11 with Spring.,backend development
+925,Developing features and supporting a high-performance time-series database.,backend development
+926,Developed backends from scratch for multiple products.,backend development
+927,"Had experience in project-managing a small team consisting of a frontend developer, backend developer, and QA.",backend development
+928,Developing the core business logic of a web app backend;,backend development
+929,"Building and streaming charts (market data, bars, linear);",backend development
+930,Building and streaming order books;,backend development
+931,Implementing SSO support using OAuth2.,backend development
+932,Database designed and developed for website career stage.,backend development
+933,Data modeled tables and their relationships.,backend development
+934,Developed stored procedures to prepopulate dropdown lists.,backend development
+935,"Developed User Registration Web Page employing HTML5 and PHP to implement Resume upload with dropdown menus, checkboxes, Radio Buttons, Text Areas, and other input controls.",backend development
+936,Unit tested each component of resume application.,backend development
+937,Worked with phpMyAdmin tool Yahoo web hosting platform.,backend development
+938,"Cleaned up existing data duplication and inconsistencies, with automation where possible.",backend development
+939,Entered system was based on MVC architecture implemented using the Spring MVC framework.,backend development
+940,Involved in DB design.,backend development
+941,Wrote SQL scripts to create DB tables.,backend development
+942,Generated Hibernate Entities and JPA repositories.,backend development
+943,Wrote HQL's when needed.,backend development
+944,Developed the Rest Services.,backend development
+945,Deployed applications to servers.,backend development
+946,Built a website that beautifully populates data sent by the app to the MySQL database.,backend development
+947,Visualized in an Open Street Heatmap which helps us understand bike traffic in Oregon.,backend development
+948,Built various front-end and backend prototypes and then converted them into real websites.,backend development
+949,"Did graphic designs and made flyers, logos, and banners.",backend development
+950,"Used PHP, JS, MySQL, Bootstrap Google Maps APIs, Open Streep Map, and Android SDK.",backend development
+951,"Involved in the design, analysis, development, testing, deployment, and support phase of the application.",backend development
+952,Checked statistical tests and results for appropriate use and accuracy,backend development
+953,"Developed custom NoSQL database usage for organizing, maintaining, and polling API/data per hour, per day, per account.",backend development
+954,"Developed a custom filtering system for records per cycle to account for inaccuracies, miscataloging, and lack of structured data from API sources from over 200 independent accounts.",backend development
+955,Designated 'Bloom' Status on API for the advancement of the use of Data.,backend development
+956,Responsible for finding and having retail products removed from shelves of accounts due to testing being invalid and impossible.,backend development
+957,"Created an entirely new product line, created a new database system, learned No SQL, had medical items removed for flawed specifications/testing, allowed competitive pricing analysis faster than any tool previous.",backend development
+958,"Used Programming, data analysis, No SQL, database programming, Ruby, BASH, FTP, etc.",backend development
+959,Responsible for all phases of product development from conception to implementation.,backend development
+960,"Took sole responsibility for architecting and implementing the backend which managed social media API querying, cached API data, maintained historical and real-time datasets, stored user app data, and calculated popularity and demographic metrics.",backend development
+961,"Strategized API querying methodologies for Facebook, Instagram, and Foursquare based on documentation, privacy settings, and API exploration.",backend development
+962,"Achieved 76% cross-validation accuracy for facial gender recognition of Instagram images by leveraging facial feature detection, facial orientation detection, and OpenCV fisher faces algorithm.",backend development
+963,"Enabled the extraction of social metric data from Instagram photos, which was the most concentrated source of demographic information.",backend development
+964,"Participated in the entire application lifecycle, focusing on coding and debugging.",backend development
+965,Led developer for startup Peelur Inc.,backend development
+966,Worked closely with the iOS team to implement mobile-related API calls.,backend development
+967,"Led Backend engineer in charge of API, eCommerce, and some mobile development.",backend development
+968,"Implemented full Platform API in NodeJS to support IoT devices of various classes using HapiJS, MongoDB, and Amazon Kinesis.",backend development
+969,"Wrote tests, implemented CI, performed load testing.",backend development
+970,Re-implemented Platform API in Golang and PostgreSQL with Amazon Kinesis integration and integration with custom Websockets solution implemented in Golang.,backend development
+971,Tested various IoT real-time video streaming solutions.,backend development
+972,"Implemented prototype using Wowza, AWS Cloudfront, and Video.JS player.",backend development
+973,"Used Software Architecture, Node.JS, Golang, Swift, PHP.",backend development
+974,"Designed, implemented, and maintained various back-end applications, libraries, and utilities on Ubuntu using C/C++.",backend development
+975,"Designed, implemented, and maintained the web-based administration user interface on Eclipse using the GWT framework.",backend development
+976,"Worked with QA and Support and write shell scripts or C/C++ command-line utilities to solve customer issues, including volume management, encryption, and decryption, RAID configuration, database modification, etc.",backend development
+977,"Fixed bugs and rewrite code of various components in the system, including web interface, backup, disaster recovery, routing, job scheduling, JBoss, PACS, HL7, etc.",backend development
+978,Collaborated with developers and third-party vendors to integrate our product with others to meet customers' needs.,backend development
+979,Worked with QA and Support to create and maintain several Wiki pages for internal uses.,backend development
+980,Designed and implemented the entire database schema for the project in MySQL.,backend development
+981,"Tested and modified JDBC API, helped accomplished data retrieval using K-nearest Neighbor (KNN).",backend development
+982,Used Spark for the machine learning library and Cassandra for the data processing.,backend development
+983,"Built a search engine with crawler, index, page rank algorithm components in Python.",backend development
+984,Crawled data from social websites and organized relationships into a social network for further research.,backend development
+985,Diagnosed and troubleshoot backend issues in production.,backend development
+986,"Maintained integrations with external services, such as Stripe, Iterable, Mapbox, and our campground partners.",backend development
+987,Updated and maintained existing API functionality.,backend development
+988,"Developed and evaluated algorithms using machine learning and statistical modelling techniques to increase performance, quality, data management, and accuracy.",machine learning 
+989,"Designed lean proofs of concepts (POC) to answer targeted business questions. Explored and worked with a wide range of proprietary, interesting data stores. Applied existing methods or developed new methods.",machine learning 
+990,Worked with Adobe's research teams to take cutting-edge research and turn it into excellent products and services.,machine learning 
+991,"Developed, simulated, tested, and improved algorithms for estimating electrical load and generation.",machine learning 
+992,Consulted with managers to determine and refine machine learning objectives and developed ML algorithms to analyze huge volumes of historical data to make predictions.,machine learning 
+993,Designed machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.,machine learning 
+994,"Solved complex problems with multi-layered data sets, as well as optimized existing machine learning libraries and frameworks.",machine learning 
+995,"Developed and integrated large-scale, distributed machine leaming system lifecycles utilising cutting-edge open source",machine learning 
+996,technologies.,machine learning 
+997,Created software that helps you increase your rate of experimentation and make better decisions on what to explore next.,machine learning 
+998,"Improved distributed cloud GPU training approaches for deep leaming models, including data distribution editing, data quality improvements, and representation learning with self-supervision",machine learning 
+999,Collaborated with multi-disciplinary product development teams to find possibilities for performance improvement and incorporate trained models.,machine learning 
+1000,"Developed a machine learning pipeline and trained models with the end-to-end Bayesian segmentation setwork, resulting in a $400000 annual savings.",machine learning 
+1001,"Expertise in using PyTorch, TensorFlow, and Keras to train and deploy CNN, LSTM, and other Sequence models on Azure and AWS",machine learning 
+1002,"Experienced in python data manipulation for loading and extraction as well as with python libraries such as NumPy, SciPy and Pandas for data analysis and numerical computations.",machine learning 
+1003," Highly skilled in using pandas, NumPy, Seaborn, SciPy, matplotlib, sci kit learn, NLTK in Python for developing various machine learning algorithms.",machine learning 
+1004,"Proficient in machine learning and deep learning skills for multiple applications including Computer Vision, Recommendation Systems and Natural Language Processing",machine learning 
+1005,Strong coding ability both in producing clean and efficient code as well as debugging and understanding large code bases,machine learning 
+1006,"Extensive hands-on experience and high proficiency with structures, semi-structured and unstructured data, using a broad range of data science programming languages and big data tools including R, Python, Spark, SQL, Scikit Learn, Hadoop Map Reduce",machine learning 
+1007,Design scalable machine learning algorithms to enable self-driving software to identify safe and efficient routes.,machine learning 
+1008,Created image processing algorithms and toolkits to enable systems to quickly analyze data from multiple sources.,machine learning 
+1009,"Played a key role in development of next-generation software, transforming concepts into early-stage prototypes.",machine learning 
+1010,Lauded for proactively identifying risks and partnering with colleagues to devise effective solutions.,machine learning 
+1011,Built statistical models using Bayesian inference and other ML methods to analyze trading data and predict market trends.,machine learning 
+1012,"Leveraged knowledge of TensorFlow, Scikit-learn, and Keras to develop neural network models based on deep learning and data mining technologies.",machine learning 
+1013,"Delivered presentations to senior executives and stakeholders on strategies to improve profitability and reduce risks using ML, AI, and natural language processing.",machine learning 
+1014,"Demonstrated expertise in managing and operating cloud services on platforms such as AWS, Azure, Google Cloud, or others.",cloud engineer
+1015,Experience in provisioning and scaling resources on cloud platforms to meet business requirements.,cloud engineer
+1016,"Proficient in creating, maintaining, and version-controlling infrastructure using tools like Terraform, CloudFormation, or Azure Resource Manager templates.",cloud engineer
+1017,Demonstrated ability to automate cloud resource provisioning and configuration.,cloud engineer
+1018,Collaborated with DevOps teams to design and implement CI/CD pipelines for deploying applications and infrastructure.,cloud engineer
+1019,Automated routine operational tasks and implemented monitoring and alerting solutions.,cloud engineer
+1020,"Implemented security best practices, including identity and access management (IAM), encryption, and compliance controls.",cloud engineer
+1021,"Conducted security assessments, vulnerability scanning, and threat modeling for cloud resources.",cloud engineer
+1022,"Designed and optimized cloud architectures for high availability, scalability, and cost-efficiency.",cloud engineer
+1023,Implemented performance monitoring and tuning strategies for cloud-based applications.,cloud engineer
+1024,Experience with container technologies like Docker and container orchestration platforms like Kubernetes.,cloud engineer
+1025,Orchestrated containerized applications on cloud services or in hybrid environments.,cloud engineer
+1026,"Managed cloud cost and resource usage, implementing cost-saving strategies like reserved instances, spot instances, and resource tagging.",cloud engineer
+1027,"Collaborated effectively with cross-functional teams, including developers, system administrators, and other cloud engineers.",cloud engineer
+1028,Communicated technical concepts to non-technical stakeholders.,cloud engineer
+1029,Developed and tested disaster recovery plans and backup strategies for cloud-based applications and data.,cloud engineer
+1030,"Maintained thorough documentation of cloud infrastructure, configurations, and procedures.",cloud engineer
+1031,"Shared knowledge through internal training, documentation, or mentorship programs.",cloud engineer
+1032,"Proficient in diagnosing and resolving cloud-related incidents, minimizing downtime and impact on operations.",cloud engineer
+1033,"Highlight any relevant cloud certifications (e.g., AWS Certified Solutions Architect, Azure Administrator) and continuous learning initiatives.",cloud engineer
+1034,"Design, implement, and maintain cloud-based solutions using AWS, Azure, and/or GCP",cloud engineer
+1035,Monitor and optimize cloud infrastructure performance,cloud engineer
+1036,Develop and maintain automation scripts for cloud deployments,cloud engineer
+1037,Troubleshoot and resolve cloud-related issues,cloud engineer
+1038,Implement security controls and best practices for cloud environments,cloud engineer
+1039,"Manage cloud resources, including storage, compute, and networking",cloud engineer
+1040,Manage and maintain cloud-based databases,cloud engineer
+1041,Develop and maintain cloud-based applications,cloud engineer
+1042,Design and implement disaster recovery plans,cloud engineer
+1043,Develop and maintain cloud cost optimization strategies,cloud engineer
+1044,Research and evaluate new cloud technologies and services,cloud engineer
+1045,Provide technical guidance and support to other teams,cloud engineer
+1046,"Designed and implemented disaster recovery plans for a major e-commerce platform, reducing downtime by 50% and increasing customer satisfaction by 20%.",cloud engineer
+1047,"Developed and maintained automation scripts for cloud deployments, resulting in a 30% reduction in deployment time and a 25% increase in team productivity.",cloud engineer
+1048,"Provided technical guidance and support to other teams, resulting in a 40% reduction in cloud-related issues and a 15% increase in overall system performance.",cloud engineer
+1049,"Managed and maintained cloud-based databases for a healthcare organization, ensuring compliance with HIPAA regulations and reducing data breaches by 60%.",cloud engineer
+1050,"Implemented security controls and best practices for cloud environments, resulting in a 75% reduction in security incidents and a 20% increase in customer trust.",cloud engineer
+1051,"Research and evaluated new cloud technologies and services, leading to the adoption of a new cloud provider and a 30% reduction in cloud costs.",cloud engineer
+1052,"Designed and implemented cloud-based solutions using AWS, Azure, and GCP for a financial services company, resulting in a 40% increase in system reliability and a 25% reduction in operational costs.",cloud engineer
+1053,"Monitored and optimized cloud infrastructure performance, resulting in a 50% reduction in downtime and a 20% increase in system performance.",cloud engineer
+1056,"Developed and maintained cloud cost optimization strategies, resulting in a 30% reduction in cloud costs and a 15% increase in ROI.",cloud engineer
+1057,"Developed and deployed a cloud-based application using AWS, resulting in a 25% increase in application performance and a 20% reduction in operational costs.",cloud engineer
+1058,"Implemented Infrastructure as Code (IaC) tools such as Terraform and Ansible to automate cloud-based deployments, reducing deployment time by 50% and minimizing human error.",cloud engineer
+1059,"Collaborated with cross-functional teams to develop and maintain cloud security best practices, resulting in a 30% improvement in overall security posture.",cloud engineer
+1060,"Optimized cloud-based applications and services for performance and scalability using monitoring and logging solutions, resulting in a 40% increase in application availability and a 15% reduction in downtime.",cloud engineer
+1061,"Developed and maintained cloud-based disaster recovery plans, ensuring business continuity in the event of a disaster and reducing recovery time by 60%.",cloud engineer
+1062,"Researched and evaluated new cloud technologies and services, implementing new solutions that improved team efficiency by 25% and reduced costs by 20%.",cloud engineer
+1063,"Developed and deployed a cloud-based application using Azure, resulting in a 30% increase in application performance and a 25% reduction in operational costs.",cloud engineer
+1064,"Implemented DevOps best practices such as continuous integration and continuous delivery (CI/CD) pipelines, reducing software release times by 50% and minimizing production issues by 30%.",cloud engineer
+1065,"Collaborated with cross-functional teams to optimize cloud infrastructure using CloudFormation, resulting in a 20% reduction in infrastructure costs and a 15% increase in scalability.",cloud engineer
+1066,"Proficient in developing apps for mobile platforms such as iOS (Swift or Objective-C), Android (Java or Kotlin), or cross-platform development (e.g., React Native, Flutter).",app development
+1067,"Experience in creating apps for various device types, including smartphones, tablets, and wearables.",app development
+1068,"Developed and maintained mobile applications, including user interface design, coding, testing, and debugging.",app development
+1069,Utilized platform-specific SDKs and tools to create feature-rich and user-friendly apps.,app development
+1070,Collaborated with UX/UI designers to implement intuitive and visually appealing user interfaces.,app development
+1071,Demonstrated knowledge of mobile design principles and user-centered design.,app development
+1072,"Integrated with external APIs and web services to access data and functionality, enabling app features such as social media sharing, payment processing, and geolocation.",app development
+1073,"Optimized app performance, including startup times, responsiveness, and memory usage.",app development
+1074,Conducted performance profiling and implemented improvements.,app development
+1075,"Conducted thorough testing, including unit testing, integration testing, and user acceptance testing, to ensure app functionality and reliability.",app development
+1076,Addressed and resolved bugs and issues in a timely manner.,app development
+1077,"Set up and maintained CI/CD pipelines for automating app builds, testing, and deployment.",app development
+1078,Ensured smooth and efficient release processes.,app development
+1079,"Utilized version control systems (e.g., Git) to manage app source code.",app development
+1080,"Collaborated effectively with cross-functional teams, including designers and backend developers.",app development
+1081,"Implemented security best practices, including encryption, secure authentication, and data protection, to safeguard user data.",app development
+1082,Addressed security vulnerabilities and stayed informed about mobile security threats.,app development
+1083,"Published apps on app stores (e.g., Apple App Store, Google Play Store) and managed the submission process, including adherence to store guidelines and requirements.",app development
+1084,"Responded to user feedback and support inquiries, addressing issues and enhancing user satisfaction.",app development
+1085,Managed app updates and bug fixes based on user feedback.,app development
+1086,"Integrated analytics tools to gather user data and track app usage, enabling data-driven decisions for improvements and feature enhancements.",app development
+1087,"Maintained documentation of app development processes, codebase, and configurations.",app development
+1088,Shared knowledge and best practices with team members and stakeholders.,app development
+1089,"Highlight any relevant certifications (e.g., Apple Developer Certification, Android Developer Certification) and ongoing learning initiatives to stay current in the rapidly evolving app development field.",app development
+1090,"Designed, developed, tested and deployed mobile applications using Kony APIs, Java, HTML, CSS, Javascript, Eclipse, Apache Tomcat Server, and Websphere.",app development
+1091,Extensively involved in migration of the forms from standard to flex forms.,app development
+1092,Implemented custom animations and transitions to flex containers and forms using Kony animation API.,app development
+1093,Involved in consuming the web services and controlling the request response with preprocessor and postprocessors.,app development
+1094," Implemented remote deposit check feature, which involves third-party vendors like MiSnap SDK, Passport, and Mitek etc.",app development
+1095, Created custom widgets using Javascript and Kony API to suffice the business requirement.,app development
+1096,"Written FFIS on Kony platform for IOS, Android platforms for achieving native features.",app development
+1097, Used MiSnap third-party library to implement the custom camera feature for remote deposit cheque.,app development
+1098, Used custom HTML and CSS to handle the Kony limitations when observed.,app development
+1099,"Developed an IFE flight application using Android/Java that replaces existing C++ application. This application provides users their flight data information, such as flight number, flight distance to destination and time to destination, flight ground speed, headwind speed, flight altitude, flight present position, and etc.",app development
+1100,"Worked with the PhoneGap SDK to publish a single HTML/CSS/JS ""Webview"" to multiple phone platforms. ",app development
+1101,Used Sencha touch and ext js for the mobile web interface development. Also used JSON and jquery for mobile application development. Worked with HTML 5 and CSS 3.,app development
+1102,"Developed HTML5 mobile application with HTML5, javascript, jQuery, JSON and Restful Web Service.",app development
+1103," Used JSP, Javascript, jQuery, Ajax, CSS3, and HTML5 as data and presentation layer technology.",app development
+1104,"Developed Ajax functionalities using frameworks like JSON, DOJO, and jQuery.",app development
+1105,Developing web application with Backbone.Js and PHP CodeIgniter framework.,app development
+1106,"Maintaining and developing mantis bug management system for internal usage, using MySQL/PHP, Bootstrap, Backbone.Js.",app development
+1107,Designing and implementing a Node.Js based mobile text and voice messaging app and its cloud backend.,app development
+1108,"Proficient in machine learning frameworks such as TensorFlow, PyTorch, or scikit-learn.",machine learning 
+1109,Developed and implemented machine learning models and algorithms for various applications.,machine learning 
+1110,"Expertise in data cleaning, preprocessing, and feature extraction to prepare data for machine learning models.",machine learning 
+1111,Implemented data transformation and dimensionality reduction techniques.,machine learning 
+1112,"Designed, trained, and fine-tuned machine learning models, including deep learning models like neural networks.",machine learning 
+1113,Conducted hyperparameter optimization and cross-validation to improve model performance.,machine learning 
+1114,"Specialized in NLP tasks such as sentiment analysis, text classification, and language modeling.",machine learning 
+1115,"Developed computer vision solutions for image classification, object detection, and image generation.",machine learning 
+1116,"Applied reinforcement learning algorithms to solve problems in areas like robotics, gaming, and autonomous systems.",machine learning 
+1117,Developed RL agents for decision-making in dynamic environments.,machine learning 
+1118,"Deployed machine learning models into production environments, creating APIs or integrating with applications.",machine learning 
+1119,"Ensured model scalability, monitoring, and maintenance for real-time predictions.",machine learning 
+1120,Experience with big data technologies like Apache Spark or Hadoop for handling large datasets.,machine learning 
+1121,Distributed computing skills for parallel processing and scalability.,machine learning 
+1122,"Evaluated model performance using appropriate metrics such as accuracy, precision, recall, F1-score, or AUC-ROC.",machine learning 
+1123,Conducted A/B testing and implemented model monitoring for drift detection.,machine learning 
+1124,Created visualizations to communicate data insights and model outputs effectively.,machine learning 
+1125,Utilized techniques for model interpretability and explainability.,machine learning 
+1126,"Collaborated with cross-functional teams, including data scientists, software engineers, and domain experts.",machine learning 
+1127,Communicated complex machine learning concepts to non-technical stakeholders.,machine learning 
+1128,"Contributed to research and development efforts, exploring new algorithms and technologies.",machine learning 
+1129,Stayed updated with the latest advancements in machine learning and AI.,machine learning 
+1130,"Addressed ethical considerations and bias in machine learning models, implementing fairness and bias mitigation techniques.",machine learning 
+1131,"Maintained documentation of machine learning experiments, model architectures, and best practices.",machine learning 
+1132,Shared knowledge through internal training sessions or research publications.,machine learning 
+1133,"Used machine learning and statistical modeling techniques to develop and evaluate algorithms to improve performance, quality, data management and accuracy ",machine learning 
+1134,Worked with Adobe’s research teams to take the state of the art in research and make great products and features ,machine learning 
+1135,"Developed, simulated, tested, and improved algorithms for predicting electrical load and generation ",machine learning 
+1136,"Designed lean proofs of concepts (POC) to answer targeted business questions. Explored and worked with a wide range of proprietary, interesting data stores. Applied existing methods or developed new methods.",machine learning 
+1137,Consulted with managers to determine and refine machine learning objectives. ,machine learning 
+1138,Designed machine learning systems and self-running artificial intelligence (AI) software to automate predictive models. ,machine learning 
+1139,Turned unstructured data into useful information by auto-tagging images and text-to-speech conversions. ,machine learning 
+1140,"Solved complex problems with multi-layered data sets, as well as optimized existing machine learning libraries and frameworks.",machine learning 
+1141, Developed ML algorithms to analyze huge volumes of historical data to make predictions. ,machine learning 
+1142,Develop machine learning models to solve complex problems,machine learning 
+1143,Design and implement algorithms for data analysis and machine learning,machine learning 
+1144,Develop and maintain machine learning pipelines,machine learning 
+1145,Research and evaluate new machine learning algorithms and technologies,machine learning 
+1146,Build and deploy machine learning models in production,machine learning 
+1147,Monitor and optimize machine learning models,machine learning 
+1148,"Collaborate with data scientists, engineers, and other stakeholders to develop machine learning solutions",machine learning 
+1149,Develop and maintain software libraries for machine learning,machine learning 
+1150,Develop and maintain machine learning infrastructure,machine learning 
+1151,Create and maintain documentation for machine learning models,machine learning 
+1152,Analyze and interpret data to identify trends and patterns,machine learning 
+1153,"Developed and implemented a machine learning model to predict customer churn, resulting in a 10% reduction in churn rate and a 5% increase in customer retention.",machine learning 
+1154,"Collaborated with data scientists and software engineers to optimize the performance of machine learning algorithms, achieving a 15% improvement in accuracy and a 20% reduction in processing time.",machine learning 
+1155,"Designed and implemented a data pre-processing pipeline to clean and transform raw data, improving the quality and reliability of input data for machine learning models.",machine learning 
+1156,"Proficient in cybersecurity frameworks and standards such as NIST Cybersecurity Framework, ISO 27001, or CIS Controls.",cyber security
+1157,"Applied these frameworks to assess, implement, and maintain security controls.",cyber security
+1158,"Conducted security assessments, vulnerability scans, and penetration testing to identify and mitigate security vulnerabilities.",cyber security
+1159,Developed and executed remediation plans to address identified vulnerabilities.,cyber security
+1160,Designed and implemented secure network architectures and infrastructure.,cyber security
+1161,Collaborated with architects and engineers to integrate security into system and application design.,cyber security
+1162,Developed incident response plans and procedures to address security incidents promptly.,cyber security
+1163,Implemented security information and event management (SIEM) systems for real-time threat detection.,cyber security
+1164,"Created and enforced security policies, procedures, and guidelines to ensure compliance with regulatory requirements.",cyber security
+1165,Conducted security audits and assessments to assess compliance and security posture.,cyber security
+1166,Designed and managed IAM systems to ensure appropriate access control and authentication.,cyber security
+1167,Implemented multi-factor authentication (MFA) and single sign-on (SSO) solutions.,cyber security
+1168,Conducted security awareness training for employees and stakeholders to promote security best practices.,cyber security
+1169,Fostered a security-conscious culture within the organization.,cyber security
+1170,Configured and managed firewall rules and policies.,cyber security
+1171,Deployed and maintained IDS/IPS systems for proactive threat mitigation.,cyber security
+1172,Implemented encryption mechanisms to protect sensitive data at rest and in transit.,cyber security
+1173,Deployed DLP solutions to monitor and prevent data leakage.,cyber security
+1174,"Ensured the security of cloud environments (e.g., AWS, Azure, Google Cloud) through configuration, monitoring, and compliance checks.",cyber security
+1175,Implemented security controls for serverless and containerized applications.,cyber security
+1176,"Led incident response efforts, including containment, eradication, and recovery.",cyber security
+1177,Collaborated with law enforcement and legal teams when necessary.,cyber security
+1178,Utilized threat intelligence feeds and conducted risk assessments to proactively identify emerging threats.,cyber security
+1179,Developed risk mitigation strategies and countermeasures.,cyber security
+1180,"Maintained comprehensive documentation of security policies, incidents, and remediation activities.",cyber security
+1181,Prepared and presented security reports to executives and stakeholders.,cyber security
+1182,Offered standby support for cyber security incident response in case of intrusion detection and implemented vulnerability assessment.,cyber security
+1183,Worked in close coordination with the information security analyst and other stakeholders related to Cyber Security related matters to identify security vulnerabilities.,cyber security
+1184,"Dealt with client concerns related to project execution, the impact on production services and quality of deliverables.",cyber security
+1185,"Monitored application security projects such as quality and timely delivery, consolidated reports and compared multiple vulnerabilities and different automated tools.",cyber security
+1186,"Made a note of any breakthrough firewalls and other security applications, developed and implemented information security standards, guidelines, and procedures.",cyber security
+1187,"Suggested recommendations for security threats, created security policies and ensured they were implemented with support and mitigation during implementation.",cyber security
+1188,"Provided security during software systems, networks, and data centers’ development stages.",cyber security
+1189,Examined and evaluated security strategies and defenses and created new defensive systems and protocols.,cyber security
+1190,Examined the defensive systems and security architecture and provided reports based on test results.,cyber security
+1191,"Participated in upgrading security measures for data protection which involved planning, implementing, managing, monitoring and securing the systems.",cyber security
+1192,Ensured that data and infrastructure were protected by enabling the appropriate security controls using appropriate security software.,cyber security
+1193,Supported the cyber security team in presentation and demonstration of value to prospective and existing clients.,cyber security
+1194,Implemented the information security infrastructure and identified potential vulnerabilities that could lead to cyber-attacks.,cyber security
+1195,Installed physical access controls that reduced the security risks by 25%.,cyber security
+1196,Performed ethical hacking to determine which areas needed security to be upgraded to avoid future breaches.,cyber security
+1197,Worked with development team to harden business firewall.,cyber security
+1198,"Planned, developed, and implemented a robust backup system for all vital company data, reducing data loss to zero.",cyber security
+1199,"Installed system of physical access controls including POLP, badges, laptop locks, password vaults, and biometrics to cut risk 20%.",cyber security
+1200,"Cut sniffing and spoofing attacks to zero by implementing scheduled updates for Wi-Fi software, firmware, and hardware.",cyber security
+1201,Enforced regular password changes from all employees.,cyber security
+1202,Monitored and secured 30+ websites with 0 successful attacks.,cyber security
+1203,Worked with clients to find best cost-effective ways to minimize security risk. Helped slash risks by an average of 30%.,cyber security
+1204,"Lowered malware threats by 40% with use of ad blockers, switching users to Google Chrome, and implementing automatic updates.",cyber security
+1205,Oversee cloud infrastructure and security of company servers,cyber security
+1247,Recognize 250+ new viruses and malware while safeguarding and observing 60+ websites without any major attacks,cyber security
+1248,Slash security risks by 20% through installation of physical access controls,cyber security
+1277,Analyzed and presented vulnerability findings to help strategize the implementation of vendor patches (on both Windows and Linux operating systems).,cyber security
+1250,"Provided information security and threat management for a $13.6 billion banking institution with 150+ financial centers, mortgage centers, and 3000+ employees",cyber security
+1251,"Implemented multilayer security system for the institution, including enhanced anti-virus, anti-spam, and anti-spyware software, which reduced malware risk by 40%",cyber security
+1252,Applied and managed advanced patch management system for 2500+ desktop computers/workstations and 300+ file servers,cyber security
+1253,"Worked with internal and external audit groups to resolve regulatory issues to maintain compliance with regulatory requirements, including Sarbanes–Oxley reporting",cyber security
+1254,Regulated access to safeguard information in files by monitoring the use of data files,cyber security
+1255,"Conducted security assessments of institution’s site containing 50,000+ users",cyber security
+1256,"Ensure compliance with cyber security policies and procedures regarding documentation, labeling, asset tracking, and quality assurance",cyber security
+1283, Performed comprehensive investigations of cyber security breaches.,cyber security
+1258,"Assist in 50+ cybersecurity sustainment activities, including hardware and software change administration, account supervision, media protection, and user interface inspection",cyber security
+1276,Protected access to sensitive data by monitoring file usage.,cyber security
+1260,Administered daily security of company databases and performed other duties as assigned by internship manager,cyber security
+1261,"Conducted 15+ incident response investigations monthly for Classified Incidents, and ensured all classified systems complied with cybersecurity regulations",cyber security
+1275,Monitored and secured 20+ websites with 0 successful attacks.,cyber security
+1263,"Defined, developed, and operationalized 7 security metrics while employing classified systems to help protect data on running devices",cyber security
+1264,"Experience with penetration testing, architecture assessments, and vulnerability assessments",cyber security
+1265,Strong understanding of offensive and defensive cybersecurity concepts,cyber security
+1274,"Closely monitored cybersecurity trends in hardware, software, and protocol vulnerabilities and researched offensive and defensive tactics, techniques and procedures (TTP).",cyber security
+1267,"Working knowledge of operating systems (Linux, Microsoft Windows) and cloud infrastructure",cyber security
+1288, Updated cyber security protocol and developed effective training procedures.,cyber security
+1289, Educated management on how to prevent or minimize cyber security attacks.,cyber security
+1273,Collaborated with management and stakeholders to identify and document system security requirements.,cyber security
+1271,Performed audits on IT and OT systems to ensure compliance with cyber security policies (internal and regulatory).,cyber security
+1290,Identifying and remedying security threats and vulnerabilities,cyber security
+1291,"Developing and maintaining security policies, standards, and procedures",cyber security
+1292,Monitoring and analyzing system logs for security issues,cyber security
+1305,Performed vulnerability scans and penetration testing to identify and rectify security issues.,cyber security
+1296,Conducting security audits and penetration tests,cyber security
+1297,Providing security training and awareness to staff,cyber security
+1298,Investigating security breaches and other cyber security incidents,cyber security
+1299,Highly motivated Cyber Security Engineer with 10+ years of experience in network security and digital forensics.,cyber security
+1300,Experienced Cyber Security Engineer with 7+ years of experience in developing and maintaining secure IT systems.,cyber security
+1301,Skilled Cyber Security Engineer with 5+ years of experience in assessing and mitigating security threats.,cyber security
+1302,Competent Cyber Security Engineer with 4+ years of experience in identifying and resolving security vulnerabilities.,cyber security
+1303,Seasoned Cyber Security Engineer with 8+ years of experience in designing and implementing secure networks.,cyber security
+1307,"Monitored, analyzed and responded to security events, incidents and alerts.",cyber security
+1518,"Collected and analyzed data, created machine learning algorithms, and maintained and managed large databases.",machine learning 
+1522,"Work with Data Scientists and Product Managers to frame a problem, both mathematically and within the business. ",machine learning 
+1523,Deployed validated algorithms to  RTB system and developed techniques for monitoring and visualizing the performance of all deployed algorithms.,machine learning 
+1524,Worked closely with development teams to ensure accurate integration of machine learning models into firm platforms. ,machine learning 
+1525,"Developed high impact capabilities in data science and machine learning, and applied them to create new data-driven insights. ",machine learning 
+1526,"Created innovative and systematic investment signals and strategies based on a rigorous, peer-reviewed research process.",machine learning 
+1527,Developed a machine learning algorithm that increased the accuracy of predictions by 5%.,machine learning 
+1528,Implemented a new method for data pre-processing which decreased training time by 20%.,machine learning 
+1529,Created and trained a neural network that improved classification accuracy by 10%.,machine learning 
+1530,Wrote custom code to improve the efficiency of an existing machine learning algorithm by 15%.,machine learning 
+1531,Presented at international conference on methods for improving performance of predictive models.,machine learning 
+1532,Led the development of a machine learning algorithm that increased the accuracy of predictions by 5%.,machine learning 
+1533,Implemented a new method for training data that resulted in a 10% decrease in error rate.,machine learning 
+1534,Developed an innovative technique for dealing with missing data that improved prediction accuracy by 2%.,machine learning 
+1535,"Created and implemented several custom algorithms to solve unique problem sets, resulting in more accurate predictions across multiple datasets.",machine learning 
+1536,"Successfully engineered solutions to big data problems, allowing for analysis of larger datasets and improved performance on predictive models.",machine learning 
+1537,Developed a machine learning algorithm that increased the accuracy of predictions by 5%.,machine learning 
+1538,Trained a neural network to achieve 90% accuracy on a classification task.,machine learning 
+1539,Implemented a support vector machine that achieved 75% accuracy on a regression task.,machine learning 
+1540,Designed and implemented an unsupervised learning algorithm that decreased the error rate by 10%.,machine learning 
+1391,Create progress and complication reports for application development projects,app development
+1392,Consult on coding issues and remove issues from application code for a functional end product,app development
+1393,Skilled to develop application programming interfaces (APIs) to support mobile functionality,app development
+1394,"Proficient at suggesting and implementing new mobile products, applications and protocols",app development
+1395,"Remains abreast with the terminology, concepts and best practices for coding mobile apps",app development
+1396,"Completed 50+ ANDROID development projects, which includes analyzing user interface issues and creating manageable solutions to achieve clients’ business goals and reqAndroidrements",app development
+1397,"Manage and mentor 7+ junior ANDROID developers to improve their understanding of establishing ANDROID goals, priorities, and deliverables that align with product milestones",app development
+1455,Experience in implementing scoring models within Android,app development
+1456,"Experience with profile provisioning and key management (such as push notifications, mapping etc.)",app development
+1457,Hands on experience in developing innovative applications using modern technology platforms,app development
+1458,Experience with programming and debugging within a mobile platform (iOS),app development
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
