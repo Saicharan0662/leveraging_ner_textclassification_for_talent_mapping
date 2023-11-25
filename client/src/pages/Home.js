@@ -2,6 +2,9 @@ import React, { useState } from "react";
 import { pdfjs } from 'react-pdf';
 import { PieChart } from 'react-minimal-pie-chart';
 
+const title_list = ['app development', 'backend development', 'cloud engineer', 'cyber security', 'frontend development', 'machine learning']
+const color_list = ['purple', 'red', 'cyan', 'orange', 'green', 'yellow']
+
 pdfjs.GlobalWorkerOptions.workerSrc = new URL(
     'pdfjs-dist/build/pdf.worker.min.js',
     import.meta.url,
@@ -75,19 +78,28 @@ const Home = () => {
     return (
         <div>
             <h1>Resume Classifier</h1>
-            <div>
-                <input type="file" id='pdf-input' onChange={(e) => handleChange(e)} />
+            <div className="container">
+                <input type="file" id="pdf-input" onChange={(e) => handleChange(e)} />
 
-                <div style={{ width: "40%" }}>
+                <div class="chart-container">
                     {outputs && <PieChart
                         data={outputs}
                         animate={true}
-                        label={({ dataEntry }) => Math.round(dataEntry.value)}
                         labelStyle={{
-                            fontSize: "5px",
-                            fontWeight: 'bold'
+                            fontSize: "12px",
+                            fontWeight: 'bold',
+                            color: '#333',
                         }}
                     />}
+                </div>
+
+                <div class="colormap">
+                    {title_list.map((title, index) => (
+                        <div class="colormap-item">
+                            <div class="colormap-color" style={{ backgroundColor: color_list[index] }}></div>
+                            {title}
+                        </div>
+                    ))}
                 </div>
             </div>
         </div>
