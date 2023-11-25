@@ -18,7 +18,7 @@ nlp = spacy.load('en_core_web_sm')
 
 class NLP():
     def __init__(self):
-        self.model_path = r'G:\\project 3\\product\server\\NLP_Model\\finalized_model.sav'
+        self.model_path = r'G:\\project 3\\product\server\\NLP_Model\\model16_80.sav'
         self.stopwords = _stop_words.ENGLISH_STOP_WORDS
         self.lemmatizer = WordNetLemmatizer()
         self.tfidf_vectorizer = TfidfVectorizer(use_idf=True, max_features = 20000) 
@@ -54,7 +54,7 @@ class NLP():
         docs = tfidf_vectorizer_vectors.toarray()
 
         dense_tfidf_vectorizer_vectors = tfidf_vectorizer_vectors.toarray()
-        reshaped_data = np.zeros((dense_tfidf_vectorizer_vectors.shape[0], 2475))
+        reshaped_data = np.zeros((dense_tfidf_vectorizer_vectors.shape[0], 2410))
         reshaped_data[:, :dense_tfidf_vectorizer_vectors.shape[1]] = dense_tfidf_vectorizer_vectors
 
         return reshaped_data
@@ -70,7 +70,21 @@ class NLP():
             })
 
         return output
+    
+    def normalize_objects(self, data, new_min, new_max):
+        values = [obj['value'] for obj in data]
+        min_val = min(values)
+        max_val = max(values)
 
+        for obj in data:
+            obj['value'] = ((obj['value'] - min_val) / (max_val - min_val)) * (new_max - new_min) + new_min
+
+    def get_top_values(self, data, attribute_name):
+        data[4]['value'] = data[4]['value'] + data[0]['value']
+        sorted_data = sorted(data, key=lambda x: x[attribute_name], reverse=True)
+        top_values = sorted_data[:4]
+
+        return top_values
 
     def get_predictions(self, data_list):
 
@@ -109,6 +123,10 @@ class NLP():
 
             self.predictions = res
             self.formated_output = self.get_formated_output(self.predictions)
+
+            print(self.formated_output)
+            self.formated_output = self.get_top_values(self.formated_output, 'value')
+            # self.normalize_objects(self.formated_output, 0, 100)
 
             return self.formated_output
 
