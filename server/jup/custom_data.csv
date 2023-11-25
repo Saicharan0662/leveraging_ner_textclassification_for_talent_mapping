@@ -107,134 +107,134 @@ PostgreSQL database in Linux development environment",backend development
 104,Assessed UX and UI designs for technical feasibility.,frontend development
 105,Developed standard and ad hoc reports in graph format as required.,frontend development
 106,Collaborated with product team members to implement new feature developments.,frontend development
-107,Proven experience as application developer,app development
-108,Experience in designing and building applications,app development
-109,"Extensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)",app development
-110,"Deep knowledge of android, ios, etc.",app development
-111,"Familiarity with RESTful APIs and mobile libraries for networking, specifically in Retrofit, axios, Alamofire, etc.",app development
-112,Familiarity with push notifications and nderstanding mobile app design guidelines on each platform and being aware of their differences,app development
-113,"Proficiency in Kotlin, Java, Swift and Objective-C",app development
-114,Develop mobile applications for iOS and Android platforms,app development
-115,Design and implement user interfaces for mobile applications,app development
-116,Create and maintain technical documentation for mobile applications,app development
-117,Develop and maintain automated tests for mobile applications,app development
-118,Integrate mobile applications with backend services,app development
-119,Troubleshoot and debug mobile applications,app development
-120,Monitor and optimize mobile application performance,app development
-121,Implement security and data protection measures,app development
-122,"Collaborate with cross-functional teams to define, design, and ship new features",app development
-123,Implement automated build and deployment processes,app development
-124,Stay up-to-date with the latest mobile technologies and trends,app development
-125,"Developed and launched a mobile application that achieved a 4.5-star rating on both iOS and Android platforms, resulting in a 25% increase in user engagement and a 10% increase in revenue within the first six months.",app development
-126,Implemented automated testing processes that reduced the number of bugs by 50% and improved overall app performance by 30%.,app development
-127,"Collaborated with cross-functional teams to design and implement a new user interface, resulting in a 15% increase in user satisfaction and a 20% decrease in user churn rate.",app development
-128,"Developed and maintained technical documentation for mobile applications, resulting in a 20% increase in team productivity and a 10% decrease in development time.",app development
-129,"Monitored and optimized mobile application performance, resulting in a 15% increase in app speed and a 10% decrease in app crashes.",app development
-130,"Modernized CINC Manager"" mobile app using React-native and Realm DB for offline use in mobile and tablet devices",app development
-131,"Implemented use of mobile application without network using RealmDB and syncing the data updated or added in offline, to server when device connects back to network",app development
-132,Led & Redesigned the process of downloading data to the device within the app to improve the performance and reduce process inefficiencies,app development
-133,Implemented Google Maps in the application using Google Maps key and Google geocode key which enable user to view current location and also the desired locations,app development
-134,Implemented API calls in the front end where ever needed to get data from the server,app development
-135,Worked on the UI of the mobile application along with UX team to make it user-friendly along with UX experts,app development
-136,Deployed the app into App store and play store and make it live for the end users,app development
-137,"LeadSquared SDK and event analytics via Clevertap SDK, Fabric SDK",app development
-138,Introduced AES 256 bit encryption as well as encrypted video streaming through Google's Exoplayer.,app development
-139,"Technologies: IOS, Swift, RxSwift, Kotlin, OneSignal, AES 256, Exoplayer, Android Architecture Components",app development
-140,"Track your stock rates with the Live Trading NEPSE data. Create your portfolio and shares list. Also added various features of indices, floor sheet, rates information of various currency, commodities and bank interest rates.",app development
-141,"Dashboard functionality and backend database as Firebase Cloud store, and added authentication with Facebook SDK.",app development
-142,Designed and developed Material UI with Android X with full transitions animations for smoother and better feel.,app development
-143,Maintained a offline file storage for user database and background service of catching Live NEPSE Data actively.,app development
-144,Wrote clean and maintainable code working under multiple branches of version control GIT.,app development
-145,"2 years down the lane Currently, I am an Android Application Developer.",app development
-146,Product Owner of the Saudi Arabian Railways Android Mobile application which allows the user to book train tickets in the Kingdom of Saudi Arabia.,app development
-147,Developed Cross-Platform native applications for iOS and Android,app development
-148,"Developed Money Exchange application for National Exchange Qatar, Wallstreet Exchange Kuwait, Gulf Overseas Exchange Oman.",app development
-149,"Created custom widgets for displaying Pie, Line chart and Line graph.",app development
-150,Implemented MVVM pattern using Provider and Bloc patterns.,app development
-151,"Implemented security features like Biometric Authentication, SSL Pinning, Token base authentication and Code obfuscation.",app development
-152,"Integrated Payment gateways QPAY, KNET.",app development
-153,"Integrated Firebase Push notification, Firebase In app messaging.",app development
-154,Integrated backend REST API services along with other 3rd party services.,app development
-155,Received appreciation for developing first Cross-Platform application using Flutter with a short time span of 2 months.,app development
-156,"Designed and developed more than 8 mobile apps that are live on Play Store and Appstore. 4 of them used Native android development, 3 using Xamarin Forms and 1 using Xamarin Native",app development
-157,Member of the project LBC Cargo which were implemented more than 1000 branches.,app development
-158,Integrated Star I/O SDK for Card swiping and invoice printing.,app development
-159,Implemented MVVM architecture using Prism and AutoFac.,app development
-160,Integrated Facebook SDK,app development
-161,Implemented Entity Framework with SQL Encryption using 3rd Party plugins.,app development
-162,Integrated UrhoSharp 3D model rendering.,app development
-163,Integrated Push-notification in Xamarin Forms.,app development
-164,Integrated Akvache plugin for API caching for smooth user experience.,app development
-165,"Deployed core application solution that customized to clients requirements of color, design and language preferences.",app development
-166,Increased application performance by implementing optimized and Sanity-tested module every end of day,app development
-167,Mentor design team in order to revamp application design with new and better design and optimized user experience.,app development
-168,"Participating and mentoring mobile development team because of having core knowledge about business domain, to optimize our application resulting in efficient solution.",app development
-169,Developing applications and supporting through complete Software development life cycle SDLC,app development
-170,"Flutter Developer with complete responsibility of app work life cycle, Local Database Management, Design and Work Flow, Testing and Deployment on Google PlayStore, AppStore and Amazon AppStore.",app development
-171,"Translating code into user-friendly applications for all kinds of devices like phones and tablets, and is familiar with the newest technologies in the mobile world.",app development
-172,Implementing new services in the app on needed,app development
-173,Working with new or existing app using Flutter or Kotlin depends on client demands.,app development
-174,Troubleshoot Problems when a problem impacts the app services.,app development
-175,Track all Issues and document all issues and resolutions in detail.,app development
-176,Report Incidents When problems are too large or complex for quick troubleshooting.,app development
-177,Working on RITS Browser App using Kotlin and Java both language,app development
-178,Implementing new services in the app on needed,app development
-179,Creating APIs using PHP Slimframework,app development
-180,Working with new or existing app using Kotlin or Flutter depends on client demands.,app development
-181,"Implementing all kinds of Ads like Admob, Adcolony, Facebook Audience Network etc.",app development
-182,Troubleshoot Problems when a problem impacts the app services.,app development
-183,Track all Issues and document all issues and resolutions in detail.,app development
-184,Report Incidents When problems are too large or complex for quick troubleshooting.,app development
-185,"Worked on multiple applications for iOS and Android(using flutter) with backend and UI/UX teams, delivering the required features based on time estimations and planning.",app development
-186,"Ensure the best possible performance, quality and responsiveness of",app development
-187,the application.,app development
-188,Active listening and comprehend new ideas into application.,app development
-189,"Participated in Scrum meetings, as well as retrospectives with",app development
-190,members of the team.,app development
-191,"Conceptualize, design, develop and improve/maintain in-house",app development
-192,applications.,app development
-193,"Design, build and maintain high performance, reusable reliable Java.",app development
-194,code including UI and core functionality .,app development
-195,Explore and worked on hybrid applications.,app development
-196,"Design, develop, and maintain software applications using object-oriented programming languages",app development
-197,Develop and implement software solutions to meet customer requirements,app development
-198,Identify and troubleshoot software issues and develop solutions to resolve them,app development
-199,Develop and maintain software documentation,app development
-200,Develop and maintain unit tests,app development
-201,Develop and maintain automated tests,app development
-202,Collaborate with other developers to ensure code quality,app development
-203,Participate in code reviews,app development
-204,Research and evaluate new technologies and tools,app development
-205,Develop and maintain web services and APIs,app development
-206,Develop and maintain databases and data models,app development
-207,Developed and implemented a new software solution that reduced customer support tickets by 25% and increased customer satisfaction by 15%.,app development
-208,"Collaborated with a team of developers to improve the performance of an existing web service, resulting in a 30% reduction in response time and a 20% increase in user adoption.",app development
-209,"Identified and resolved a critical software issue that was causing system downtime, resulting in a 50% reduction in downtime and a 10% increase in system reliability.",app development
-210,Completed development of mobile application in React Native targeting Android and iOS platforms.,app development
-211,"Worked with Balsamiq, React Native, and Redux.",app development
-212,Developed a cross-platform mobile application using React Native.,app development
-213,"Developed Web API using NodeJS, ReactJS and React Native and hosted on multiple lead balances API instances.",app development
-214,"Involved in setting up the model, views and controllers and implementing using React Native Components.",app development
-215,"Assisted other application development staff by giving advice on the development standards, testing and analysis of the assignment.",app development
-216,Founded IT consulting firm which provides mobile application development and IT services.,app development
-217,Used Adobe Air and Flash Professionals in application development.,app development
-218,Facilitated customization of systems by encouraging software engineering team to adopt emerging standards for software application development architecture and tools.,app development
-219,Facilitated the customization of systems by encouraging software engineering team to adopt emerging standards for mobile application development architecture and tools.,app development
-220,Summer 2013 Worked with and presented to other students and professors on open source projects; mobile app development,app development
-221,Coordinated the negotiation of a new service and license agreement with YapTV Studios for social media App development.,app development
-222,Search and implementation of possible areas of improvement to deliver a better production in Android app development.,app development
-223,Self-motivated and proactive with skill in applying creative and critical thinking capabilities to Android app development.,app development
-224,"Consulted on business models, development processes, and design for various app development companies.",app development
-225,Worked as an application developer extensively with Objective C and Cocoa frameworks.,app development
-226,Created custom checklist and sharing through JSON libraries and connecting to SQ Lite database with the Objective C interfaces.,app development
-227,"Worked extensively with Objective C, Cocoa Touch frameworks and also used Swift for the new classes.",app development
-228,Implemented new classes in swift language and used the swift code in Objective C classes as well.,app development
-229,Started working with swift 2.0 version and changing code from objective C to swift.,app development
-230,"Implemented improvement in smooth swiping of the UI, also adding an improvement to the text editor, permitting easier input.",app development
-231,"Developed rich UI for the most of the modules in the application using RecyclerView, ViewPager and Navigation Drawer.",app development
-232,Build mobile games that connects to Google Play Games' server and In-app Billing service for UI enhancements.,app development
-233,"Designed levels, and UI for mobile app game to fit events in the represented book series.",app development
-234,Unified Android designers and Android app developers in the design of the UI screen with compound views.,app development
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
 235,Created a custom client dashboard that reduced support tickets by 50%,frontend development
 236,"Collaborated with the UX/UI design teams to improve the website and applications, increasing conversion rates by 25%",frontend development
 237,"Daily maintenance of code, debugging issues and solving clients problems",frontend development
@@ -362,7 +362,7 @@ implemented changes with Query library extensions, Ajax, and CSS",backend develo
 353,Mobilized cross-platform testing on 4 different web browsers and 3 standalone applications in web and cloud base,backend development
 354,Mobilized cross-platform testing on difterent wed browsers and 3 standalone applications in web and cloud base,backend development
 355,"Worked with a team of 15 developers on launch of Java based program, earned $2.7M in revenue",backend development
-356,Contributed to the development of over 10 web and mobile applications using Python and CSS,app development
+,,
 357,Launched a company-wide digitized filing system that led to an increase in efficiency for all departments by 20% on average,backend development
 358,"Streamline all offerings with a new responsive, mobile-first approach and strategy which increased mobile traffic by 35%",backend development
 359,Developed data access layer that supports connections to multiple databases using Entity Framework and Math.NET,backend development
@@ -827,23 +827,23 @@ implemented changes with Query library extensions, Ajax, and CSS",backend develo
 818,"Maintained, developed, and designed the public website for all 5 states on a weekly basis with TeamSite.",frontend development
 819,Developed and designed UI for a database of customer's health and created a secure login for over 100 members.,frontend development
 820,Designed assessment forms for different customer stages that cut processing time by 30%,frontend development
-821,"Utilized Swift and Objective -C to build a Gap Framework for 40+ iOS Mobile applications in Q1, Q2, and Q3 2021",app development
-822,"Created custom UI elements for brand visual identity based on native UIKit protocols, maintaining compatibility on 20+ devices and future iOS updates.",app development
-823,Examined codes from 260+ 3rd Party contractors and researched new technologies within 48 hours on the job.,app development
-824,Developed an employee-facing iOS app that enables account switching and feature toggling for 1400+ community content managers,app development
-825,Performed technical designs and implementation of 8+ complex iOS apps.,app development
-826,Collaborated with the scrum team of 5 to translate client requirements into implementable user stories.,app development
-827,Developed and launched apps in over 45 countries that earned featured mentions in the App Store.,app development
-828,"Improved the product quality by 10% through code reviews, writing unit tests, and collaborating with QA on implementing automation testing.",app development
-829,Achieved over 400k downloads on the App Store.,app development
-830,Supported the architect to improve the native iOS and tvOS codebase function by 15%.,app development
-831,Led the discovery phase of 10+ medium to large projects to come up with a high-level design.,app development
-832,Designed and developed 3 augmented reality apps that were downloaded over 50k times within the first two weeks after publishing.,app development
-833,Created and tested 20+ Android apps and games that brought in $200K within a 5-month period.,app development
-834,Designed a free Math app for kids that was downloaded over 300K times.,app development
-835,Collaborated with 5 designers and engineers to build 5 apps with 4+ star reviews,app development
-836,Applied knowledge of Android system frameworks to solve novel problems with 100% accuracy. ,app development
-837,Developed 5+ native Android applications and frameworks using Kotlin and Java.,app development
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
 838,"Developed responsive and interactive web applications using JavaScript, HTML, and CSS, increasing user engagement by 73%.",frontend development
 839,"Implemented robust fronted architecture and optimized code performance, which reduced page load time by 45 seconds.",frontend development
 840,"Collaborated with 10+ cross-functional teams to design and implement user-friendly interfaces, boosting customer satisfaction ratings by 23%.",frontend development
@@ -974,52 +974,52 @@ implemented changes with Query library extensions, Ajax, and CSS",backend develo
 965,Led developer for startup Peelur Inc.,backend development
 966,Worked closely with the iOS team to implement mobile-related API calls.,backend development
 967,"Led Backend engineer in charge of API, eCommerce, and some mobile development.",backend development
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
+968,"Implemented full Platform API in NodeJS to support IoT devices of various classes using HapiJS, MongoDB, and Amazon Kinesis.",backend development
+969,"Wrote tests, implemented CI, performed load testing.",backend development
+970,Re-implemented Platform API in Golang and PostgreSQL with Amazon Kinesis integration and integration with custom Websockets solution implemented in Golang.,backend development
+971,Tested various IoT real-time video streaming solutions.,backend development
+972,"Implemented prototype using Wowza, AWS Cloudfront, and Video.JS player.",backend development
+973,"Used Software Architecture, Node.JS, Golang, Swift, PHP.",backend development
+974,"Designed, implemented, and maintained various back-end applications, libraries, and utilities on Ubuntu using C/C++.",backend development
+975,"Designed, implemented, and maintained the web-based administration user interface on Eclipse using the GWT framework.",backend development
+976,"Worked with QA and Support and write shell scripts or C/C++ command-line utilities to solve customer issues, including volume management, encryption, and decryption, RAID configuration, database modification, etc.",backend development
+977,"Fixed bugs and rewrite code of various components in the system, including web interface, backup, disaster recovery, routing, job scheduling, JBoss, PACS, HL7, etc.",backend development
+978,Collaborated with developers and third-party vendors to integrate our product with others to meet customers' needs.,backend development
+979,Worked with QA and Support to create and maintain several Wiki pages for internal uses.,backend development
+980,Designed and implemented the entire database schema for the project in MySQL.,backend development
+981,"Tested and modified JDBC API, helped accomplished data retrieval using K-nearest Neighbor (KNN).",backend development
+982,Used Spark for the machine learning library and Cassandra for the data processing.,backend development
+983,"Built a search engine with crawler, index, page rank algorithm components in Python.",backend development
+984,Crawled data from social websites and organized relationships into a social network for further research.,backend development
+985,Diagnosed and troubleshoot backend issues in production.,backend development
+986,"Maintained integrations with external services, such as Stripe, Iterable, Mapbox, and our campground partners.",backend development
+987,Updated and maintained existing API functionality.,backend development
+988,"Developed and evaluated algorithms using machine learning and statistical modelling techniques to increase performance, quality, data management, and accuracy.",machine learning 
+989,"Designed lean proofs of concepts (POC) to answer targeted business questions. Explored and worked with a wide range of proprietary, interesting data stores. Applied existing methods or developed new methods.",machine learning 
+990,Worked with Adobe's research teams to take cutting-edge research and turn it into excellent products and services.,machine learning 
+991,"Developed, simulated, tested, and improved algorithms for estimating electrical load and generation.",machine learning 
+992,Consulted with managers to determine and refine machine learning objectives and developed ML algorithms to analyze huge volumes of historical data to make predictions.,machine learning 
+993,Designed machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.,machine learning 
+994,"Solved complex problems with multi-layered data sets, as well as optimized existing machine learning libraries and frameworks.",machine learning 
+995,"Developed and integrated large-scale, distributed machine leaming system lifecycles utilising cutting-edge open source",machine learning 
+996,technologies.,machine learning 
+997,Created software that helps you increase your rate of experimentation and make better decisions on what to explore next.,machine learning 
+998,"Improved distributed cloud GPU training approaches for deep leaming models, including data distribution editing, data quality improvements, and representation learning with self-supervision",machine learning 
+999,Collaborated with multi-disciplinary product development teams to find possibilities for performance improvement and incorporate trained models.,machine learning 
+1000,"Developed a machine learning pipeline and trained models with the end-to-end Bayesian segmentation setwork, resulting in a $400000 annual savings.",machine learning 
+1001,"Expertise in using PyTorch, TensorFlow, and Keras to train and deploy CNN, LSTM, and other Sequence models on Azure and AWS",machine learning 
+1002,"Experienced in python data manipulation for loading and extraction as well as with python libraries such as NumPy, SciPy and Pandas for data analysis and numerical computations.",machine learning 
+1003," Highly skilled in using pandas, NumPy, Seaborn, SciPy, matplotlib, sci kit learn, NLTK in Python for developing various machine learning algorithms.",machine learning 
+1004,"Proficient in machine learning and deep learning skills for multiple applications including Computer Vision, Recommendation Systems and Natural Language Processing",machine learning 
+1005,Strong coding ability both in producing clean and efficient code as well as debugging and understanding large code bases,machine learning 
+1006,"Extensive hands-on experience and high proficiency with structures, semi-structured and unstructured data, using a broad range of data science programming languages and big data tools including R, Python, Spark, SQL, Scikit Learn, Hadoop Map Reduce",machine learning 
+1007,Design scalable machine learning algorithms to enable self-driving software to identify safe and efficient routes.,machine learning 
+1008,Created image processing algorithms and toolkits to enable systems to quickly analyze data from multiple sources.,machine learning 
+1009,"Played a key role in development of next-generation software, transforming concepts into early-stage prototypes.",machine learning 
+1010,Lauded for proactively identifying risks and partnering with colleagues to devise effective solutions.,machine learning 
+1011,Built statistical models using Bayesian inference and other ML methods to analyze trading data and predict market trends.,machine learning 
+1012,"Leveraged knowledge of TensorFlow, Scikit-learn, and Keras to develop neural network models based on deep learning and data mining technologies.",machine learning 
+1013,"Delivered presentations to senior executives and stakeholders on strategies to improve profitability and reduce risks using ML, AI, and natural language processing.",machine learning 
 1014,"Demonstrated expertise in managing and operating cloud services on platforms such as AWS, Azure, Google Cloud, or others.",cloud engineer
 1015,Experience in provisioning and scaling resources on cloud platforms to meet business requirements.,cloud engineer
 1016,"Proficient in creating, maintaining, and version-controlling infrastructure using tools like Terraform, CloudFormation, or Azure Resource Manager templates.",cloud engineer
@@ -1040,6 +1040,36 @@ implemented changes with Query library extensions, Ajax, and CSS",backend develo
 1031,"Shared knowledge through internal training, documentation, or mentorship programs.",cloud engineer
 1032,"Proficient in diagnosing and resolving cloud-related incidents, minimizing downtime and impact on operations.",cloud engineer
 1033,"Highlight any relevant cloud certifications (e.g., AWS Certified Solutions Architect, Azure Administrator) and continuous learning initiatives.",cloud engineer
+1034,"Design, implement, and maintain cloud-based solutions using AWS, Azure, and/or GCP",cloud engineer
+1035,Monitor and optimize cloud infrastructure performance,cloud engineer
+1036,Develop and maintain automation scripts for cloud deployments,cloud engineer
+1037,Troubleshoot and resolve cloud-related issues,cloud engineer
+1038,Implement security controls and best practices for cloud environments,cloud engineer
+1039,"Manage cloud resources, including storage, compute, and networking",cloud engineer
+1040,Manage and maintain cloud-based databases,cloud engineer
+1041,Develop and maintain cloud-based applications,cloud engineer
+1042,Design and implement disaster recovery plans,cloud engineer
+1043,Develop and maintain cloud cost optimization strategies,cloud engineer
+1044,Research and evaluate new cloud technologies and services,cloud engineer
+1045,Provide technical guidance and support to other teams,cloud engineer
+1046,"Designed and implemented disaster recovery plans for a major e-commerce platform, reducing downtime by 50% and increasing customer satisfaction by 20%.",cloud engineer
+1047,"Developed and maintained automation scripts for cloud deployments, resulting in a 30% reduction in deployment time and a 25% increase in team productivity.",cloud engineer
+1048,"Provided technical guidance and support to other teams, resulting in a 40% reduction in cloud-related issues and a 15% increase in overall system performance.",cloud engineer
+1049,"Managed and maintained cloud-based databases for a healthcare organization, ensuring compliance with HIPAA regulations and reducing data breaches by 60%.",cloud engineer
+1050,"Implemented security controls and best practices for cloud environments, resulting in a 75% reduction in security incidents and a 20% increase in customer trust.",cloud engineer
+1051,"Research and evaluated new cloud technologies and services, leading to the adoption of a new cloud provider and a 30% reduction in cloud costs.",cloud engineer
+1052,"Designed and implemented cloud-based solutions using AWS, Azure, and GCP for a financial services company, resulting in a 40% increase in system reliability and a 25% reduction in operational costs.",cloud engineer
+1053,"Monitored and optimized cloud infrastructure performance, resulting in a 50% reduction in downtime and a 20% increase in system performance.",cloud engineer
+1056,"Developed and maintained cloud cost optimization strategies, resulting in a 30% reduction in cloud costs and a 15% increase in ROI.",cloud engineer
+1057,"Developed and deployed a cloud-based application using AWS, resulting in a 25% increase in application performance and a 20% reduction in operational costs.",cloud engineer
+1058,"Implemented Infrastructure as Code (IaC) tools such as Terraform and Ansible to automate cloud-based deployments, reducing deployment time by 50% and minimizing human error.",cloud engineer
+1059,"Collaborated with cross-functional teams to develop and maintain cloud security best practices, resulting in a 30% improvement in overall security posture.",cloud engineer
+1060,"Optimized cloud-based applications and services for performance and scalability using monitoring and logging solutions, resulting in a 40% increase in application availability and a 15% reduction in downtime.",cloud engineer
+1061,"Developed and maintained cloud-based disaster recovery plans, ensuring business continuity in the event of a disaster and reducing recovery time by 60%.",cloud engineer
+1062,"Researched and evaluated new cloud technologies and services, implementing new solutions that improved team efficiency by 25% and reduced costs by 20%.",cloud engineer
+1063,"Developed and deployed a cloud-based application using Azure, resulting in a 30% increase in application performance and a 25% reduction in operational costs.",cloud engineer
+1064,"Implemented DevOps best practices such as continuous integration and continuous delivery (CI/CD) pipelines, reducing software release times by 50% and minimizing production issues by 30%.",cloud engineer
+1065,"Collaborated with cross-functional teams to optimize cloud infrastructure using CloudFormation, resulting in a 20% reduction in infrastructure costs and a 15% increase in scalability.",cloud engineer
 ,,
 ,,
 ,,
@@ -1070,48 +1100,18 @@ implemented changes with Query library extensions, Ajax, and CSS",backend develo
 ,,
 ,,
 ,,
-1066,"Proficient in developing apps for mobile platforms such as iOS (Swift or Objective-C), Android (Java or Kotlin), or cross-platform development (e.g., React Native, Flutter).",app development
-1067,"Experience in creating apps for various device types, including smartphones, tablets, and wearables.",app development
-1068,"Developed and maintained mobile applications, including user interface design, coding, testing, and debugging.",app development
-1069,Utilized platform-specific SDKs and tools to create feature-rich and user-friendly apps.,app development
-1070,Collaborated with UX/UI designers to implement intuitive and visually appealing user interfaces.,app development
-1071,Demonstrated knowledge of mobile design principles and user-centered design.,app development
-1072,"Integrated with external APIs and web services to access data and functionality, enabling app features such as social media sharing, payment processing, and geolocation.",app development
-1073,"Optimized app performance, including startup times, responsiveness, and memory usage.",app development
-1074,Conducted performance profiling and implemented improvements.,app development
-1075,"Conducted thorough testing, including unit testing, integration testing, and user acceptance testing, to ensure app functionality and reliability.",app development
-1076,Addressed and resolved bugs and issues in a timely manner.,app development
-1077,"Set up and maintained CI/CD pipelines for automating app builds, testing, and deployment.",app development
-1078,Ensured smooth and efficient release processes.,app development
-1079,"Utilized version control systems (e.g., Git) to manage app source code.",app development
-1080,"Collaborated effectively with cross-functional teams, including designers and backend developers.",app development
-1081,"Implemented security best practices, including encryption, secure authentication, and data protection, to safeguard user data.",app development
-1082,Addressed security vulnerabilities and stayed informed about mobile security threats.,app development
-1083,"Published apps on app stores (e.g., Apple App Store, Google Play Store) and managed the submission process, including adherence to store guidelines and requirements.",app development
-1084,"Responded to user feedback and support inquiries, addressing issues and enhancing user satisfaction.",app development
-1085,Managed app updates and bug fixes based on user feedback.,app development
-1086,"Integrated analytics tools to gather user data and track app usage, enabling data-driven decisions for improvements and feature enhancements.",app development
-1087,"Maintained documentation of app development processes, codebase, and configurations.",app development
-1088,Shared knowledge and best practices with team members and stakeholders.,app development
-1089,"Highlight any relevant certifications (e.g., Apple Developer Certification, Android Developer Certification) and ongoing learning initiatives to stay current in the rapidly evolving app development field.",app development
-1090,"Designed, developed, tested and deployed mobile applications using Kony APIs, Java, HTML, CSS, Javascript, Eclipse, Apache Tomcat Server, and Websphere.",app development
-1091,Extensively involved in migration of the forms from standard to flex forms.,app development
-1092,Implemented custom animations and transitions to flex containers and forms using Kony animation API.,app development
-1093,Involved in consuming the web services and controlling the request response with preprocessor and postprocessors.,app development
-1094," Implemented remote deposit check feature, which involves third-party vendors like MiSnap SDK, Passport, and Mitek etc.",app development
-1095, Created custom widgets using Javascript and Kony API to suffice the business requirement.,app development
-1096,"Written FFIS on Kony platform for IOS, Android platforms for achieving native features.",app development
-1097, Used MiSnap third-party library to implement the custom camera feature for remote deposit cheque.,app development
-1098, Used custom HTML and CSS to handle the Kony limitations when observed.,app development
-1099,"Developed an IFE flight application using Android/Java that replaces existing C++ application. This application provides users their flight data information, such as flight number, flight distance to destination and time to destination, flight ground speed, headwind speed, flight altitude, flight present position, and etc.",app development
-1100,"Worked with the PhoneGap SDK to publish a single HTML/CSS/JS ""Webview"" to multiple phone platforms. ",app development
-1101,Used Sencha touch and ext js for the mobile web interface development. Also used JSON and jquery for mobile application development. Worked with HTML 5 and CSS 3.,app development
-1102,"Developed HTML5 mobile application with HTML5, javascript, jQuery, JSON and Restful Web Service.",app development
-1103," Used JSP, Javascript, jQuery, Ajax, CSS3, and HTML5 as data and presentation layer technology.",app development
-1104,"Developed Ajax functionalities using frameworks like JSON, DOJO, and jQuery.",app development
-1105,Developing web application with Backbone.Js and PHP CodeIgniter framework.,app development
-1106,"Maintaining and developing mantis bug management system for internal usage, using MySQL/PHP, Bootstrap, Backbone.Js.",app development
-1107,Designing and implementing a Node.Js based mobile text and voice messaging app and its cloud backend.,app development
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
 1108,"Proficient in machine learning frameworks such as TensorFlow, PyTorch, or scikit-learn.",machine learning 
 1109,Developed and implemented machine learning models and algorithms for various applications.,machine learning 
 1110,"Expertise in data cleaning, preprocessing, and feature extraction to prepare data for machine learning models.",machine learning 
@@ -1268,14 +1268,3 @@ implemented changes with Query library extensions, Ajax, and CSS",backend develo
 1538,Trained a neural network to achieve 90% accuracy on a classification task.,machine learning 
 1539,Implemented a support vector machine that achieved 75% accuracy on a regression task.,machine learning 
 1540,Designed and implemented an unsupervised learning algorithm that decreased the error rate by 10%.,machine learning 
-1391,Create progress and complication reports for application development projects,app development
-1392,Consult on coding issues and remove issues from application code for a functional end product,app development
-1393,Skilled to develop application programming interfaces (APIs) to support mobile functionality,app development
-1394,"Proficient at suggesting and implementing new mobile products, applications and protocols",app development
-1395,"Remains abreast with the terminology, concepts and best practices for coding mobile apps",app development
-1396,"Completed 50+ ANDROID development projects, which includes analyzing user interface issues and creating manageable solutions to achieve clients’ business goals and reqAndroidrements",app development
-1397,"Manage and mentor 7+ junior ANDROID developers to improve their understanding of establishing ANDROID goals, priorities, and deliverables that align with product milestones",app development
-1455,Experience in implementing scoring models within Android,app development
-1456,"Experience with profile provisioning and key management (such as push notifications, mapping etc.)",app development
-1457,Hands on experience in developing innovative applications using modern technology platforms,app development
-1458,Experience with programming and debugging within a mobile platform (iOS),app development

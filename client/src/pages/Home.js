@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { pdfjs } from 'react-pdf';
 import { PieChart } from 'react-minimal-pie-chart';
 
-const title_list = ['app development', 'backend development', 'cloud engineer', 'cyber security', 'frontend development', 'machine learning']
-const color_list = ['purple', 'red', 'cyan', 'orange', 'green', 'yellow']
+const title_list = ['backend development', 'cloud engineer', 'cyber security', 'frontend development', 'machine learning']
+const color_list = ['purple', 'red', 'cyan', 'orange', 'green']
 
 pdfjs.GlobalWorkerOptions.workerSrc = new URL(
     'pdfjs-dist/build/pdf.worker.min.js',

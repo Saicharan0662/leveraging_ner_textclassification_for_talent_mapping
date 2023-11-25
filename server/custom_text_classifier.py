@@ -18,14 +18,14 @@ nlp = spacy.load('en_core_web_sm')
 
 class NLP():
     def __init__(self):
-        self.model_path = r'G:\\project 3\\product\server\\NLP_Model\\model16_80.sav'
+        self.model_path = r'G:\\project 3\\product\server\\NLP_Model\\model274_80.sav' #77.6
         self.stopwords = _stop_words.ENGLISH_STOP_WORDS
         self.lemmatizer = WordNetLemmatizer()
         self.tfidf_vectorizer = TfidfVectorizer(use_idf=True, max_features = 20000) 
         self.predictions = []
         self.formated_output = []
-        self.title_list = ['app development', 'backend development', 'cloud engineer', 'cyber security', 'frontend development', 'machine learning']
-        self.color_list = ['purple', 'red', 'cyan', 'orange', 'green', 'yellow']
+        self.title_list = ['backend development', 'cloud engineer', 'cyber security', 'frontend development', 'machine learning']
+        self.color_list = ['purple', 'red', 'cyan', 'orange', 'green']
 
     def clean(self, doc):
         text_no_namedentities = []
@@ -54,7 +54,7 @@ class NLP():
         docs = tfidf_vectorizer_vectors.toarray()
 
         dense_tfidf_vectorizer_vectors = tfidf_vectorizer_vectors.toarray()
-        reshaped_data = np.zeros((dense_tfidf_vectorizer_vectors.shape[0], 2410))
+        reshaped_data = np.zeros((dense_tfidf_vectorizer_vectors.shape[0], 2224))
         reshaped_data[:, :dense_tfidf_vectorizer_vectors.shape[1]] = dense_tfidf_vectorizer_vectors
 
         return reshaped_data
@@ -80,7 +80,7 @@ class NLP():
             obj['value'] = ((obj['value'] - min_val) / (max_val - min_val)) * (new_max - new_min) + new_min
 
     def get_top_values(self, data, attribute_name):
-        data[4]['value'] = data[4]['value'] + data[0]['value']
+        # data[4]['value'] = data[4]['value'] + data[0]['value']
         sorted_data = sorted(data, key=lambda x: x[attribute_name], reverse=True)
         top_values = sorted_data[:4]
 
@@ -104,7 +104,7 @@ class NLP():
 
         try:
             
-            res = [0]*6
+            res = [0]*5
             for data in data_list:
                 if not data:
                     continue
@@ -116,16 +116,16 @@ class NLP():
                 text = self.preprocess_data(data)
                 pred = model.predict(text)
                 pred = pred[0]
-                # print("Predictions: ", pred)
+                print("Predictions: ", pred)
                 
-                for i in range(6):
+                for i in range(5):
                     res[i] += pred[i]
 
             self.predictions = res
             self.formated_output = self.get_formated_output(self.predictions)
 
             print(self.formated_output)
-            self.formated_output = self.get_top_values(self.formated_output, 'value')
+            # self.formated_output = self.get_top_values(self.formated_output, 'value')
             # self.normalize_objects(self.formated_output, 0, 100)
 
             return self.formated_output
