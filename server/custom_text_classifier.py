@@ -68,7 +68,6 @@ class NLP():
                 "value": item,
                 "color": self.color_list[index]
             })
-
         return output
     
     def normalize_objects(self, data, new_min, new_max):
@@ -105,6 +104,7 @@ class NLP():
         try:
             
             res = [0]*5
+            count = 0
             for data in data_list:
                 if not data:
                     continue
@@ -120,13 +120,30 @@ class NLP():
                 
                 for i in range(5):
                     res[i] += pred[i]
+                    # res[i] = res[i]/2
+
+                count += 1
+
+
+            print("res: ", res)
+            # print(sum(res))
+            # print(count)
+            for i in range(5):
+                res[i] = res[i]/count 
 
             self.predictions = res
             self.formated_output = self.get_formated_output(self.predictions)
 
-            print(self.formated_output)
+            # print(self.formated_output)
+            # print(sum(self.formated_output))
             # self.formated_output = self.get_top_values(self.formated_output, 'value')
             # self.normalize_objects(self.formated_output, 0, 100)
+
+            # sum_acc = 0
+            # for val in self.formated_output:
+            #     sum_acc += val['value']
+
+            # print(sum_acc)
 
             return self.formated_output
 

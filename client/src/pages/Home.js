@@ -85,8 +85,9 @@ const Home = () => {
                     {outputs && <PieChart
                         data={outputs}
                         animate={true}
+                        label={({ dataEntry }) => `${Math.round(dataEntry.value * 100)}%`}
                         labelStyle={{
-                            fontSize: "12px",
+                            fontSize: "7px",
                             fontWeight: 'bold',
                             color: '#333',
                         }}

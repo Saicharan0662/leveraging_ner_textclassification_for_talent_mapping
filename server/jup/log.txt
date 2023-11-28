@@ -1,301 +1,5003 @@
-Accuracy from evaluate: 75.35% in iteration: 0
-Accuracy from evaluate: 73.49% in iteration: 1
-Accuracy from evaluate: 75.35% in iteration: 2
+Accuracy from evaluate: 73.95% in iteration: 0
+Precision: 0.7436% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 74.42% in iteration: 1
+Precision: 0.7467% 
+Recall: 0.7442% 
+f1_score: 0.7444
+
+Accuracy from evaluate: 73.95% in iteration: 2
+Precision: 0.7465% 
+Recall: 0.7395% 
+f1_score: 0.7380
+
 Accuracy from evaluate: 71.63% in iteration: 3
-Accuracy from evaluate: 74.88% in iteration: 4
+Precision: 0.7352% 
+Recall: 0.7163% 
+f1_score: 0.7204
+
+Accuracy from evaluate: 74.42% in iteration: 4
+Precision: 0.7477% 
+Recall: 0.7442% 
+f1_score: 0.7434
+
 Accuracy from evaluate: 72.56% in iteration: 5
-Accuracy from evaluate: 73.95% in iteration: 6
-Accuracy from evaluate: 69.30% in iteration: 7
-Accuracy from evaluate: 76.28% in iteration: 8
-Accuracy from evaluate: 73.95% in iteration: 9
-Accuracy from evaluate: 74.88% in iteration: 10
-Accuracy from evaluate: 74.88% in iteration: 11
-Accuracy from evaluate: 72.56% in iteration: 12
-Accuracy from evaluate: 72.56% in iteration: 13
-Accuracy from evaluate: 73.02% in iteration: 14
-Accuracy from evaluate: 74.42% in iteration: 15
-Accuracy from evaluate: 73.95% in iteration: 16
-Accuracy from evaluate: 71.63% in iteration: 17
-Accuracy from evaluate: 71.16% in iteration: 18
-Accuracy from evaluate: 73.02% in iteration: 19
-Accuracy from evaluate: 74.42% in iteration: 20
-Accuracy from evaluate: 75.81% in iteration: 21
-Accuracy from evaluate: 75.81% in iteration: 22
-Accuracy from evaluate: 71.63% in iteration: 23
-Accuracy from evaluate: 75.81% in iteration: 24
+Precision: 0.7274% 
+Recall: 0.7256% 
+f1_score: 0.7219
+
+Accuracy from evaluate: 72.56% in iteration: 6
+Precision: 0.7344% 
+Recall: 0.7256% 
+f1_score: 0.7273
+
+Accuracy from evaluate: 74.88% in iteration: 7
+Precision: 0.7569% 
+Recall: 0.7488% 
+f1_score: 0.7504
+
+Accuracy from evaluate: 76.74% in iteration: 8
+Precision: 0.7714% 
+Recall: 0.7674% 
+f1_score: 0.7685
+
+Accuracy from evaluate: 75.81% in iteration: 9
+Precision: 0.7607% 
+Recall: 0.7581% 
+f1_score: 0.7577
+
+Accuracy from evaluate: 74.42% in iteration: 10
+Precision: 0.7507% 
+Recall: 0.7442% 
+f1_score: 0.7461
+
+Accuracy from evaluate: 70.70% in iteration: 11
+Precision: 0.7182% 
+Recall: 0.7070% 
+f1_score: 0.7097
+
+Accuracy from evaluate: 75.81% in iteration: 12
+Precision: 0.7657% 
+Recall: 0.7581% 
+f1_score: 0.7601
+
+Accuracy from evaluate: 74.88% in iteration: 13
+Precision: 0.7595% 
+Recall: 0.7488% 
+f1_score: 0.7488
+
+Accuracy from evaluate: 72.09% in iteration: 14
+Precision: 0.7317% 
+Recall: 0.7209% 
+f1_score: 0.7217
+
+Accuracy from evaluate: 73.49% in iteration: 15
+Precision: 0.7399% 
+Recall: 0.7349% 
+f1_score: 0.7343
+
+Accuracy from evaluate: 74.42% in iteration: 16
+Precision: 0.7477% 
+Recall: 0.7442% 
+f1_score: 0.7434
+
+Accuracy from evaluate: 71.16% in iteration: 17
+Precision: 0.7170% 
+Recall: 0.7116% 
+f1_score: 0.7111
+
+Accuracy from evaluate: 73.02% in iteration: 18
+Precision: 0.7389% 
+Recall: 0.7302% 
+f1_score: 0.7325
+
+Accuracy from evaluate: 76.28% in iteration: 19
+Precision: 0.7641% 
+Recall: 0.7628% 
+f1_score: 0.7616
+
+Accuracy from evaluate: 73.02% in iteration: 20
+Precision: 0.7353% 
+Recall: 0.7302% 
+f1_score: 0.7293
+
+Accuracy from evaluate: 74.42% in iteration: 21
+Precision: 0.7485% 
+Recall: 0.7442% 
+f1_score: 0.7426
+
+Accuracy from evaluate: 76.28% in iteration: 22
+Precision: 0.7663% 
+Recall: 0.7628% 
+f1_score: 0.7640
+
+Accuracy from evaluate: 74.88% in iteration: 23
+Precision: 0.7535% 
+Recall: 0.7488% 
+f1_score: 0.7488
+
+Accuracy from evaluate: 74.42% in iteration: 24
+Precision: 0.7532% 
+Recall: 0.7442% 
+f1_score: 0.7461
+
 Accuracy from evaluate: 72.56% in iteration: 25
-Accuracy from evaluate: 72.09% in iteration: 26
-Accuracy from evaluate: 69.77% in iteration: 27
-Accuracy from evaluate: 73.95% in iteration: 28
-Accuracy from evaluate: 70.70% in iteration: 29
-Accuracy from evaluate: 76.28% in iteration: 30
+Precision: 0.7344% 
+Recall: 0.7256% 
+f1_score: 0.7256
+
+Accuracy from evaluate: 73.02% in iteration: 26
+Precision: 0.7371% 
+Recall: 0.7302% 
+f1_score: 0.7314
+
+Accuracy from evaluate: 72.56% in iteration: 27
+Precision: 0.7306% 
+Recall: 0.7256% 
+f1_score: 0.7248
+
+Accuracy from evaluate: 74.88% in iteration: 28
+Precision: 0.7508% 
+Recall: 0.7488% 
+f1_score: 0.7470
+
+Accuracy from evaluate: 71.63% in iteration: 29
+Precision: 0.7303% 
+Recall: 0.7163% 
+f1_score: 0.7186
+
+Accuracy from evaluate: 72.56% in iteration: 30
+Precision: 0.7354% 
+Recall: 0.7256% 
+f1_score: 0.7268
+
 Accuracy from evaluate: 73.49% in iteration: 31
-Accuracy from evaluate: 76.28% in iteration: 32
-Accuracy from evaluate: 77.21% in iteration: 33
-Accuracy from evaluate: 73.02% in iteration: 34
-Accuracy from evaluate: 73.49% in iteration: 35
-Accuracy from evaluate: 75.35% in iteration: 36
-Accuracy from evaluate: 74.42% in iteration: 37
-Accuracy from evaluate: 69.77% in iteration: 38
-Accuracy from evaluate: 68.84% in iteration: 39
-Accuracy from evaluate: 74.88% in iteration: 40
-Accuracy from evaluate: 70.70% in iteration: 41
-Accuracy from evaluate: 71.16% in iteration: 42
-Accuracy from evaluate: 75.81% in iteration: 43
-Accuracy from evaluate: 69.77% in iteration: 44
-Accuracy from evaluate: 70.70% in iteration: 45
-Accuracy from evaluate: 73.49% in iteration: 46
-Accuracy from evaluate: 75.81% in iteration: 47
-Accuracy from evaluate: 68.84% in iteration: 48
-Accuracy from evaluate: 73.95% in iteration: 49
-Accuracy from evaluate: 72.09% in iteration: 50
-Accuracy from evaluate: 70.23% in iteration: 51
-Accuracy from evaluate: 75.35% in iteration: 52
+Precision: 0.7377% 
+Recall: 0.7349% 
+f1_score: 0.7345
+
+Accuracy from evaluate: 75.81% in iteration: 32
+Precision: 0.7598% 
+Recall: 0.7581% 
+f1_score: 0.7577
+
+Accuracy from evaluate: 72.56% in iteration: 33
+Precision: 0.7375% 
+Recall: 0.7256% 
+f1_score: 0.7269
+
+Accuracy from evaluate: 71.63% in iteration: 34
+Precision: 0.7345% 
+Recall: 0.7163% 
+f1_score: 0.7199
+
+Accuracy from evaluate: 68.84% in iteration: 35
+Precision: 0.6997% 
+Recall: 0.6884% 
+f1_score: 0.6916
+
+Accuracy from evaluate: 70.23% in iteration: 36
+Precision: 0.7087% 
+Recall: 0.7023% 
+f1_score: 0.7031
+
+Accuracy from evaluate: 75.35% in iteration: 37
+Precision: 0.7595% 
+Recall: 0.7535% 
+f1_score: 0.7545
+
+Accuracy from evaluate: 69.30% in iteration: 38
+Precision: 0.7151% 
+Recall: 0.6930% 
+f1_score: 0.6980
+
+Accuracy from evaluate: 76.74% in iteration: 39
+Precision: 0.7738% 
+Recall: 0.7674% 
+f1_score: 0.7687
+
+Accuracy from evaluate: 73.95% in iteration: 40
+Precision: 0.7491% 
+Recall: 0.7395% 
+f1_score: 0.7411
+
+Accuracy from evaluate: 72.09% in iteration: 41
+Precision: 0.7253% 
+Recall: 0.7209% 
+f1_score: 0.7208
+
+Accuracy from evaluate: 74.42% in iteration: 42
+Precision: 0.7437% 
+Recall: 0.7442% 
+f1_score: 0.7427
+
+Accuracy from evaluate: 72.09% in iteration: 43
+Precision: 0.7408% 
+Recall: 0.7209% 
+f1_score: 0.7258
+
+Accuracy from evaluate: 72.56% in iteration: 44
+Precision: 0.7271% 
+Recall: 0.7256% 
+f1_score: 0.7252
+
+Accuracy from evaluate: 73.02% in iteration: 45
+Precision: 0.7388% 
+Recall: 0.7302% 
+f1_score: 0.7328
+
+Accuracy from evaluate: 76.28% in iteration: 46
+Precision: 0.7644% 
+Recall: 0.7628% 
+f1_score: 0.7631
+
+Accuracy from evaluate: 70.23% in iteration: 47
+Precision: 0.7063% 
+Recall: 0.7023% 
+f1_score: 0.7016
+
+Accuracy from evaluate: 77.21% in iteration: 48
+Precision: 0.7746% 
+Recall: 0.7721% 
+f1_score: 0.7727
+
+Accuracy from evaluate: 71.63% in iteration: 49
+Precision: 0.7229% 
+Recall: 0.7163% 
+f1_score: 0.7164
+
+Accuracy from evaluate: 77.21% in iteration: 50
+Precision: 0.7754% 
+Recall: 0.7721% 
+f1_score: 0.7725
+
+Accuracy from evaluate: 74.42% in iteration: 51
+Precision: 0.7480% 
+Recall: 0.7442% 
+f1_score: 0.7441
+
+Accuracy from evaluate: 71.63% in iteration: 52
+Precision: 0.7323% 
+Recall: 0.7163% 
+f1_score: 0.7198
+
 Accuracy from evaluate: 71.63% in iteration: 53
-Accuracy from evaluate: 75.35% in iteration: 54
-Accuracy from evaluate: 73.95% in iteration: 55
-Accuracy from evaluate: 72.56% in iteration: 56
-Accuracy from evaluate: 69.77% in iteration: 57
-Accuracy from evaluate: 70.70% in iteration: 58
-Accuracy from evaluate: 71.63% in iteration: 59
-Accuracy from evaluate: 75.81% in iteration: 60
+Precision: 0.7226% 
+Recall: 0.7163% 
+f1_score: 0.7172
+
+Accuracy from evaluate: 72.56% in iteration: 54
+Precision: 0.7196% 
+Recall: 0.7256% 
+f1_score: 0.7198
+
+Accuracy from evaluate: 75.81% in iteration: 55
+Precision: 0.7611% 
+Recall: 0.7581% 
+f1_score: 0.7561
+
+Accuracy from evaluate: 73.49% in iteration: 56
+Precision: 0.7397% 
+Recall: 0.7349% 
+f1_score: 0.7350
+
+Accuracy from evaluate: 72.09% in iteration: 57
+Precision: 0.7317% 
+Recall: 0.7209% 
+f1_score: 0.7228
+
+Accuracy from evaluate: 67.91% in iteration: 58
+Precision: 0.6904% 
+Recall: 0.6791% 
+f1_score: 0.6824
+
+Accuracy from evaluate: 75.35% in iteration: 59
+Precision: 0.7592% 
+Recall: 0.7535% 
+f1_score: 0.7546
+
+Accuracy from evaluate: 72.56% in iteration: 60
+Precision: 0.7370% 
+Recall: 0.7256% 
+f1_score: 0.7280
+
 Accuracy from evaluate: 70.23% in iteration: 61
-Accuracy from evaluate: 73.95% in iteration: 62
-Accuracy from evaluate: 74.88% in iteration: 63
-Accuracy from evaluate: 74.88% in iteration: 64
-Accuracy from evaluate: 72.56% in iteration: 65
-Accuracy from evaluate: 71.16% in iteration: 66
-Accuracy from evaluate: 73.49% in iteration: 67
-Accuracy from evaluate: 77.21% in iteration: 68
+Precision: 0.7184% 
+Recall: 0.7023% 
+f1_score: 0.7059
+
+Accuracy from evaluate: 69.77% in iteration: 62
+Precision: 0.7094% 
+Recall: 0.6977% 
+f1_score: 0.7000
+
+Accuracy from evaluate: 75.81% in iteration: 63
+Precision: 0.7555% 
+Recall: 0.7581% 
+f1_score: 0.7559
+
+Accuracy from evaluate: 73.02% in iteration: 64
+Precision: 0.7331% 
+Recall: 0.7302% 
+f1_score: 0.7272
+
+Accuracy from evaluate: 74.88% in iteration: 65
+Precision: 0.7515% 
+Recall: 0.7488% 
+f1_score: 0.7489
+
+Accuracy from evaluate: 72.09% in iteration: 66
+Precision: 0.7288% 
+Recall: 0.7209% 
+f1_score: 0.7226
+
+Accuracy from evaluate: 71.63% in iteration: 67
+Precision: 0.7249% 
+Recall: 0.7163% 
+f1_score: 0.7173
+
+Accuracy from evaluate: 73.95% in iteration: 68
+Precision: 0.7491% 
+Recall: 0.7395% 
+f1_score: 0.7402
+
 Accuracy from evaluate: 76.28% in iteration: 69
-Accuracy from evaluate: 73.95% in iteration: 70
-Accuracy from evaluate: 73.49% in iteration: 71
-Accuracy from evaluate: 75.81% in iteration: 72
-Accuracy from evaluate: 74.88% in iteration: 73
-Accuracy from evaluate: 73.49% in iteration: 74
+Precision: 0.7667% 
+Recall: 0.7628% 
+f1_score: 0.7627
+
+Accuracy from evaluate: 74.88% in iteration: 70
+Precision: 0.7536% 
+Recall: 0.7488% 
+f1_score: 0.7491
+
+Accuracy from evaluate: 74.42% in iteration: 71
+Precision: 0.7447% 
+Recall: 0.7442% 
+f1_score: 0.7423
+
+Accuracy from evaluate: 73.49% in iteration: 72
+Precision: 0.7368% 
+Recall: 0.7349% 
+f1_score: 0.7314
+
+Accuracy from evaluate: 74.42% in iteration: 73
+Precision: 0.7452% 
+Recall: 0.7442% 
+f1_score: 0.7429
+
+Accuracy from evaluate: 72.09% in iteration: 74
+Precision: 0.7262% 
+Recall: 0.7209% 
+f1_score: 0.7215
+
 Accuracy from evaluate: 72.09% in iteration: 75
-Accuracy from evaluate: 73.02% in iteration: 76
+Precision: 0.7296% 
+Recall: 0.7209% 
+f1_score: 0.7232
+
+Accuracy from evaluate: 76.74% in iteration: 76
+Precision: 0.7682% 
+Recall: 0.7674% 
+f1_score: 0.7666
+
 Accuracy from evaluate: 73.02% in iteration: 77
-Accuracy from evaluate: 70.23% in iteration: 78
-Accuracy from evaluate: 77.21% in iteration: 79
-Accuracy from evaluate: 73.95% in iteration: 80
-Accuracy from evaluate: 73.95% in iteration: 81
-Accuracy from evaluate: 75.81% in iteration: 82
-Accuracy from evaluate: 71.16% in iteration: 83
-Accuracy from evaluate: 69.77% in iteration: 84
-Accuracy from evaluate: 73.95% in iteration: 85
-Accuracy from evaluate: 72.09% in iteration: 86
-Accuracy from evaluate: 74.88% in iteration: 87
-Accuracy from evaluate: 69.77% in iteration: 88
-Accuracy from evaluate: 74.42% in iteration: 89
-Accuracy from evaluate: 75.35% in iteration: 90
-Accuracy from evaluate: 74.42% in iteration: 91
-Accuracy from evaluate: 70.70% in iteration: 92
-Accuracy from evaluate: 76.28% in iteration: 93
-Accuracy from evaluate: 71.63% in iteration: 94
-Accuracy from evaluate: 72.09% in iteration: 95
-Accuracy from evaluate: 73.02% in iteration: 96
-Accuracy from evaluate: 73.49% in iteration: 97
-Accuracy from evaluate: 73.02% in iteration: 98
-Accuracy from evaluate: 71.63% in iteration: 99
-Accuracy from evaluate: 71.63% in iteration: 100
-Accuracy from evaluate: 71.63% in iteration: 101
-Accuracy from evaluate: 70.23% in iteration: 102
-Accuracy from evaluate: 73.49% in iteration: 103
-Accuracy from evaluate: 73.02% in iteration: 104
-Accuracy from evaluate: 73.49% in iteration: 105
-Accuracy from evaluate: 73.02% in iteration: 106
-Accuracy from evaluate: 74.88% in iteration: 107
-Accuracy from evaluate: 72.09% in iteration: 108
-Accuracy from evaluate: 72.56% in iteration: 109
-Accuracy from evaluate: 71.16% in iteration: 110
-Accuracy from evaluate: 73.95% in iteration: 111
-Accuracy from evaluate: 73.49% in iteration: 112
-Accuracy from evaluate: 76.28% in iteration: 113
-Accuracy from evaluate: 72.56% in iteration: 114
-Accuracy from evaluate: 74.88% in iteration: 115
-Accuracy from evaluate: 69.77% in iteration: 116
+Precision: 0.7422% 
+Recall: 0.7302% 
+f1_score: 0.7343
+
+Accuracy from evaluate: 73.02% in iteration: 78
+Precision: 0.7357% 
+Recall: 0.7302% 
+f1_score: 0.7294
+
+Accuracy from evaluate: 72.56% in iteration: 79
+Precision: 0.7359% 
+Recall: 0.7256% 
+f1_score: 0.7272
+
+Accuracy from evaluate: 77.67% in iteration: 80
+Precision: 0.7823% 
+Recall: 0.7767% 
+f1_score: 0.7778
+
+Accuracy from evaluate: 74.88% in iteration: 81
+Precision: 0.7570% 
+Recall: 0.7488% 
+f1_score: 0.7509
+
+Accuracy from evaluate: 68.84% in iteration: 82
+Precision: 0.6950% 
+Recall: 0.6884% 
+f1_score: 0.6887
+
+Accuracy from evaluate: 72.09% in iteration: 83
+Precision: 0.7306% 
+Recall: 0.7209% 
+f1_score: 0.7231
+
+Accuracy from evaluate: 70.70% in iteration: 84
+Precision: 0.7139% 
+Recall: 0.7070% 
+f1_score: 0.7085
+
+Accuracy from evaluate: 71.63% in iteration: 85
+Precision: 0.7165% 
+Recall: 0.7163% 
+f1_score: 0.7155
+
+Accuracy from evaluate: 71.63% in iteration: 86
+Precision: 0.7216% 
+Recall: 0.7163% 
+f1_score: 0.7172
+
+Accuracy from evaluate: 70.23% in iteration: 87
+Precision: 0.7145% 
+Recall: 0.7023% 
+f1_score: 0.7062
+
+Accuracy from evaluate: 70.70% in iteration: 88
+Precision: 0.7150% 
+Recall: 0.7070% 
+f1_score: 0.7077
+
+Accuracy from evaluate: 66.98% in iteration: 89
+Precision: 0.6852% 
+Recall: 0.6698% 
+f1_score: 0.6729
+
+Accuracy from evaluate: 73.95% in iteration: 90
+Precision: 0.7438% 
+Recall: 0.7395% 
+f1_score: 0.7393
+
+Accuracy from evaluate: 73.95% in iteration: 91
+Precision: 0.7389% 
+Recall: 0.7395% 
+f1_score: 0.7371
+
+Accuracy from evaluate: 72.56% in iteration: 92
+Precision: 0.7341% 
+Recall: 0.7256% 
+f1_score: 0.7276
+
+Accuracy from evaluate: 73.49% in iteration: 93
+Precision: 0.7418% 
+Recall: 0.7349% 
+f1_score: 0.7334
+
+Accuracy from evaluate: 75.35% in iteration: 94
+Precision: 0.7546% 
+Recall: 0.7535% 
+f1_score: 0.7523
+
+Accuracy from evaluate: 75.35% in iteration: 95
+Precision: 0.7603% 
+Recall: 0.7535% 
+f1_score: 0.7545
+
+Accuracy from evaluate: 72.56% in iteration: 96
+Precision: 0.7295% 
+Recall: 0.7256% 
+f1_score: 0.7261
+
+Accuracy from evaluate: 71.63% in iteration: 97
+Precision: 0.7210% 
+Recall: 0.7163% 
+f1_score: 0.7166
+
+Accuracy from evaluate: 71.63% in iteration: 98
+Precision: 0.7252% 
+Recall: 0.7163% 
+f1_score: 0.7183
+
+Accuracy from evaluate: 76.74% in iteration: 99
+Precision: 0.7708% 
+Recall: 0.7674% 
+f1_score: 0.7683
+
+Accuracy from evaluate: 74.88% in iteration: 100
+Precision: 0.7523% 
+Recall: 0.7488% 
+f1_score: 0.7475
+
+Accuracy from evaluate: 74.88% in iteration: 101
+Precision: 0.7519% 
+Recall: 0.7488% 
+f1_score: 0.7490
+
+Accuracy from evaluate: 77.21% in iteration: 102
+Precision: 0.7769% 
+Recall: 0.7721% 
+f1_score: 0.7715
+
+Accuracy from evaluate: 73.95% in iteration: 103
+Precision: 0.7374% 
+Recall: 0.7395% 
+f1_score: 0.7347
+
+Accuracy from evaluate: 73.95% in iteration: 104
+Precision: 0.7505% 
+Recall: 0.7395% 
+f1_score: 0.7413
+
+Accuracy from evaluate: 70.70% in iteration: 105
+Precision: 0.7184% 
+Recall: 0.7070% 
+f1_score: 0.7097
+
+Accuracy from evaluate: 73.49% in iteration: 106
+Precision: 0.7409% 
+Recall: 0.7349% 
+f1_score: 0.7363
+
+Accuracy from evaluate: 70.70% in iteration: 107
+Precision: 0.7187% 
+Recall: 0.7070% 
+f1_score: 0.7110
+
+Accuracy from evaluate: 71.63% in iteration: 108
+Precision: 0.7228% 
+Recall: 0.7163% 
+f1_score: 0.7172
+
+Accuracy from evaluate: 72.09% in iteration: 109
+Precision: 0.7333% 
+Recall: 0.7209% 
+f1_score: 0.7231
+
+Accuracy from evaluate: 69.30% in iteration: 110
+Precision: 0.7120% 
+Recall: 0.6930% 
+f1_score: 0.6983
+
+Accuracy from evaluate: 73.49% in iteration: 111
+Precision: 0.7374% 
+Recall: 0.7349% 
+f1_score: 0.7337
+
+Accuracy from evaluate: 72.56% in iteration: 112
+Precision: 0.7321% 
+Recall: 0.7256% 
+f1_score: 0.7260
+
+Accuracy from evaluate: 74.42% in iteration: 113
+Precision: 0.7473% 
+Recall: 0.7442% 
+f1_score: 0.7451
+
+Accuracy from evaluate: 72.09% in iteration: 114
+Precision: 0.7277% 
+Recall: 0.7209% 
+f1_score: 0.7212
+
+Accuracy from evaluate: 73.49% in iteration: 115
+Precision: 0.7489% 
+Recall: 0.7349% 
+f1_score: 0.7372
+
+Accuracy from evaluate: 75.81% in iteration: 116
+Precision: 0.7646% 
+Recall: 0.7581% 
+f1_score: 0.7598
+
 Accuracy from evaluate: 73.95% in iteration: 117
-Accuracy from evaluate: 72.56% in iteration: 118
-Accuracy from evaluate: 71.63% in iteration: 119
-Accuracy from evaluate: 73.02% in iteration: 120
-Accuracy from evaluate: 73.02% in iteration: 121
-Accuracy from evaluate: 76.28% in iteration: 122
-Accuracy from evaluate: 70.70% in iteration: 123
-Accuracy from evaluate: 73.02% in iteration: 124
-Accuracy from evaluate: 73.95% in iteration: 125
-Accuracy from evaluate: 70.70% in iteration: 126
-Accuracy from evaluate: 73.95% in iteration: 127
-Accuracy from evaluate: 72.56% in iteration: 128
-Accuracy from evaluate: 71.16% in iteration: 129
-Accuracy from evaluate: 75.35% in iteration: 130
-Accuracy from evaluate: 76.74% in iteration: 131
-Accuracy from evaluate: 71.16% in iteration: 132
-Accuracy from evaluate: 70.70% in iteration: 133
-Accuracy from evaluate: 73.95% in iteration: 134
-Accuracy from evaluate: 73.02% in iteration: 135
-Accuracy from evaluate: 73.02% in iteration: 136
+Precision: 0.7390% 
+Recall: 0.7395% 
+f1_score: 0.7362
+
+Accuracy from evaluate: 70.23% in iteration: 118
+Precision: 0.7093% 
+Recall: 0.7023% 
+f1_score: 0.7028
+
+Accuracy from evaluate: 71.16% in iteration: 119
+Precision: 0.7222% 
+Recall: 0.7116% 
+f1_score: 0.7138
+
+Accuracy from evaluate: 77.67% in iteration: 120
+Precision: 0.7763% 
+Recall: 0.7767% 
+f1_score: 0.7742
+
+Accuracy from evaluate: 71.16% in iteration: 121
+Precision: 0.7267% 
+Recall: 0.7116% 
+f1_score: 0.7145
+
+Accuracy from evaluate: 72.56% in iteration: 122
+Precision: 0.7282% 
+Recall: 0.7256% 
+f1_score: 0.7244
+
+Accuracy from evaluate: 76.28% in iteration: 123
+Precision: 0.7674% 
+Recall: 0.7628% 
+f1_score: 0.7636
+
+Accuracy from evaluate: 70.23% in iteration: 124
+Precision: 0.7186% 
+Recall: 0.7023% 
+f1_score: 0.7069
+
+Accuracy from evaluate: 74.42% in iteration: 125
+Precision: 0.7467% 
+Recall: 0.7442% 
+f1_score: 0.7437
+
+Accuracy from evaluate: 70.23% in iteration: 126
+Precision: 0.7148% 
+Recall: 0.7023% 
+f1_score: 0.7049
+
+Accuracy from evaluate: 69.77% in iteration: 127
+Precision: 0.7130% 
+Recall: 0.6977% 
+f1_score: 0.7002
+
+Accuracy from evaluate: 73.95% in iteration: 128
+Precision: 0.7427% 
+Recall: 0.7395% 
+f1_score: 0.7397
+
+Accuracy from evaluate: 71.63% in iteration: 129
+Precision: 0.7229% 
+Recall: 0.7163% 
+f1_score: 0.7157
+
+Accuracy from evaluate: 73.95% in iteration: 130
+Precision: 0.7452% 
+Recall: 0.7395% 
+f1_score: 0.7413
+
+Accuracy from evaluate: 72.09% in iteration: 131
+Precision: 0.7244% 
+Recall: 0.7209% 
+f1_score: 0.7177
+
+Accuracy from evaluate: 74.88% in iteration: 132
+Precision: 0.7542% 
+Recall: 0.7488% 
+f1_score: 0.7484
+
+Accuracy from evaluate: 72.56% in iteration: 133
+Precision: 0.7301% 
+Recall: 0.7256% 
+f1_score: 0.7249
+
+Accuracy from evaluate: 71.63% in iteration: 134
+Precision: 0.7210% 
+Recall: 0.7163% 
+f1_score: 0.7175
+
+Accuracy from evaluate: 73.95% in iteration: 135
+Precision: 0.7467% 
+Recall: 0.7395% 
+f1_score: 0.7396
+
+Accuracy from evaluate: 74.88% in iteration: 136
+Precision: 0.7592% 
+Recall: 0.7488% 
+f1_score: 0.7497
+
 Accuracy from evaluate: 72.09% in iteration: 137
-Accuracy from evaluate: 74.42% in iteration: 138
-Accuracy from evaluate: 75.81% in iteration: 139
-Accuracy from evaluate: 74.88% in iteration: 140
-Accuracy from evaluate: 72.56% in iteration: 141
-Accuracy from evaluate: 77.21% in iteration: 142
-Accuracy from evaluate: 74.88% in iteration: 143
-Accuracy from evaluate: 75.81% in iteration: 144
+Precision: 0.7339% 
+Recall: 0.7209% 
+f1_score: 0.7235
+
+Accuracy from evaluate: 73.02% in iteration: 138
+Precision: 0.7321% 
+Recall: 0.7302% 
+f1_score: 0.7281
+
+Accuracy from evaluate: 74.42% in iteration: 139
+Precision: 0.7481% 
+Recall: 0.7442% 
+f1_score: 0.7443
+
+Accuracy from evaluate: 72.09% in iteration: 140
+Precision: 0.7298% 
+Recall: 0.7209% 
+f1_score: 0.7221
+
+Accuracy from evaluate: 71.63% in iteration: 141
+Precision: 0.7212% 
+Recall: 0.7163% 
+f1_score: 0.7165
+
+Accuracy from evaluate: 74.88% in iteration: 142
+Precision: 0.7542% 
+Recall: 0.7488% 
+f1_score: 0.7488
+
+Accuracy from evaluate: 73.02% in iteration: 143
+Precision: 0.7376% 
+Recall: 0.7302% 
+f1_score: 0.7330
+
+Accuracy from evaluate: 70.70% in iteration: 144
+Precision: 0.7181% 
+Recall: 0.7070% 
+f1_score: 0.7065
+
 Accuracy from evaluate: 74.88% in iteration: 145
-Accuracy from evaluate: 71.63% in iteration: 146
-Accuracy from evaluate: 71.63% in iteration: 147
-Accuracy from evaluate: 75.81% in iteration: 148
-Accuracy from evaluate: 77.21% in iteration: 149
-Accuracy from evaluate: 72.56% in iteration: 150
-Accuracy from evaluate: 71.63% in iteration: 151
-Accuracy from evaluate: 74.42% in iteration: 152
-Accuracy from evaluate: 73.49% in iteration: 153
-Accuracy from evaluate: 75.81% in iteration: 154
-Accuracy from evaluate: 69.30% in iteration: 155
-Accuracy from evaluate: 74.88% in iteration: 156
-Accuracy from evaluate: 76.28% in iteration: 157
-Accuracy from evaluate: 70.23% in iteration: 158
-Accuracy from evaluate: 74.88% in iteration: 159
+Precision: 0.7586% 
+Recall: 0.7488% 
+f1_score: 0.7514
+
+Accuracy from evaluate: 73.95% in iteration: 146
+Precision: 0.7427% 
+Recall: 0.7395% 
+f1_score: 0.7383
+
+Accuracy from evaluate: 72.56% in iteration: 147
+Precision: 0.7314% 
+Recall: 0.7256% 
+f1_score: 0.7245
+
+Accuracy from evaluate: 72.56% in iteration: 148
+Precision: 0.7365% 
+Recall: 0.7256% 
+f1_score: 0.7271
+
+Accuracy from evaluate: 73.49% in iteration: 149
+Precision: 0.7327% 
+Recall: 0.7349% 
+f1_score: 0.7326
+
+Accuracy from evaluate: 72.09% in iteration: 150
+Precision: 0.7290% 
+Recall: 0.7209% 
+f1_score: 0.7221
+
+Accuracy from evaluate: 75.81% in iteration: 151
+Precision: 0.7632% 
+Recall: 0.7581% 
+f1_score: 0.7597
+
+Accuracy from evaluate: 72.09% in iteration: 152
+Precision: 0.7272% 
+Recall: 0.7209% 
+f1_score: 0.7203
+
+Accuracy from evaluate: 70.70% in iteration: 153
+Precision: 0.7294% 
+Recall: 0.7070% 
+f1_score: 0.7094
+
+Accuracy from evaluate: 73.02% in iteration: 154
+Precision: 0.7320% 
+Recall: 0.7302% 
+f1_score: 0.7296
+
+Accuracy from evaluate: 75.35% in iteration: 155
+Precision: 0.7639% 
+Recall: 0.7535% 
+f1_score: 0.7561
+
+Accuracy from evaluate: 72.09% in iteration: 156
+Precision: 0.7319% 
+Recall: 0.7209% 
+f1_score: 0.7239
+
+Accuracy from evaluate: 74.88% in iteration: 157
+Precision: 0.7654% 
+Recall: 0.7488% 
+f1_score: 0.7527
+
+Accuracy from evaluate: 72.56% in iteration: 158
+Precision: 0.7274% 
+Recall: 0.7256% 
+f1_score: 0.7251
+
+Accuracy from evaluate: 72.56% in iteration: 159
+Precision: 0.7271% 
+Recall: 0.7256% 
+f1_score: 0.7252
+
 Accuracy from evaluate: 75.81% in iteration: 160
-Accuracy from evaluate: 74.42% in iteration: 161
-Accuracy from evaluate: 72.56% in iteration: 162
+Precision: 0.7646% 
+Recall: 0.7581% 
+f1_score: 0.7595
+
+Accuracy from evaluate: 70.70% in iteration: 161
+Precision: 0.7136% 
+Recall: 0.7070% 
+f1_score: 0.7075
+
+Accuracy from evaluate: 74.88% in iteration: 162
+Precision: 0.7569% 
+Recall: 0.7488% 
+f1_score: 0.7508
+
 Accuracy from evaluate: 74.42% in iteration: 163
-Accuracy from evaluate: 73.95% in iteration: 164
-Accuracy from evaluate: 73.95% in iteration: 165
-Accuracy from evaluate: 75.81% in iteration: 166
-Accuracy from evaluate: 72.56% in iteration: 167
-Accuracy from evaluate: 73.02% in iteration: 168
-Accuracy from evaluate: 76.28% in iteration: 169
-Accuracy from evaluate: 71.63% in iteration: 170
-Accuracy from evaluate: 70.23% in iteration: 171
-Accuracy from evaluate: 74.42% in iteration: 172
-Accuracy from evaluate: 73.95% in iteration: 173
-Accuracy from evaluate: 74.88% in iteration: 174
-Accuracy from evaluate: 75.35% in iteration: 175
-Accuracy from evaluate: 72.09% in iteration: 176
-Accuracy from evaluate: 73.95% in iteration: 177
-Accuracy from evaluate: 74.42% in iteration: 178
-Accuracy from evaluate: 76.74% in iteration: 179
-Accuracy from evaluate: 74.88% in iteration: 180
+Precision: 0.7545% 
+Recall: 0.7442% 
+f1_score: 0.7437
+
+Accuracy from evaluate: 75.35% in iteration: 164
+Precision: 0.7590% 
+Recall: 0.7535% 
+f1_score: 0.7548
+
+Accuracy from evaluate: 76.28% in iteration: 165
+Precision: 0.7697% 
+Recall: 0.7628% 
+f1_score: 0.7639
+
+Accuracy from evaluate: 72.56% in iteration: 166
+Precision: 0.7281% 
+Recall: 0.7256% 
+f1_score: 0.7243
+
+Accuracy from evaluate: 75.35% in iteration: 167
+Precision: 0.7530% 
+Recall: 0.7535% 
+f1_score: 0.7515
+
+Accuracy from evaluate: 73.49% in iteration: 168
+Precision: 0.7358% 
+Recall: 0.7349% 
+f1_score: 0.7336
+
+Accuracy from evaluate: 72.09% in iteration: 169
+Precision: 0.7267% 
+Recall: 0.7209% 
+f1_score: 0.7211
+
+Accuracy from evaluate: 75.35% in iteration: 170
+Precision: 0.7581% 
+Recall: 0.7535% 
+f1_score: 0.7533
+
+Accuracy from evaluate: 72.56% in iteration: 171
+Precision: 0.7277% 
+Recall: 0.7256% 
+f1_score: 0.7237
+
+Accuracy from evaluate: 70.70% in iteration: 172
+Precision: 0.7154% 
+Recall: 0.7070% 
+f1_score: 0.7078
+
+Accuracy from evaluate: 71.63% in iteration: 173
+Precision: 0.7298% 
+Recall: 0.7163% 
+f1_score: 0.7192
+
+Accuracy from evaluate: 73.95% in iteration: 174
+Precision: 0.7453% 
+Recall: 0.7395% 
+f1_score: 0.7377
+
+Accuracy from evaluate: 73.49% in iteration: 175
+Precision: 0.7471% 
+Recall: 0.7349% 
+f1_score: 0.7368
+
+Accuracy from evaluate: 69.77% in iteration: 176
+Precision: 0.7130% 
+Recall: 0.6977% 
+f1_score: 0.7021
+
+Accuracy from evaluate: 73.02% in iteration: 177
+Precision: 0.7329% 
+Recall: 0.7302% 
+f1_score: 0.7292
+
+Accuracy from evaluate: 68.37% in iteration: 178
+Precision: 0.7009% 
+Recall: 0.6837% 
+f1_score: 0.6897
+
+Accuracy from evaluate: 70.70% in iteration: 179
+Precision: 0.7210% 
+Recall: 0.7070% 
+f1_score: 0.7111
+
+Accuracy from evaluate: 77.21% in iteration: 180
+Precision: 0.7779% 
+Recall: 0.7721% 
+f1_score: 0.7715
+
 Accuracy from evaluate: 75.35% in iteration: 181
-Accuracy from evaluate: 72.56% in iteration: 182
-Accuracy from evaluate: 74.88% in iteration: 183
-Accuracy from evaluate: 74.42% in iteration: 184
-Accuracy from evaluate: 73.02% in iteration: 185
-Accuracy from evaluate: 74.42% in iteration: 186
-Accuracy from evaluate: 75.81% in iteration: 187
-Accuracy from evaluate: 73.02% in iteration: 188
+Precision: 0.7603% 
+Recall: 0.7535% 
+f1_score: 0.7550
+
+Accuracy from evaluate: 73.02% in iteration: 182
+Precision: 0.7308% 
+Recall: 0.7302% 
+f1_score: 0.7267
+
+Accuracy from evaluate: 73.95% in iteration: 183
+Precision: 0.7453% 
+Recall: 0.7395% 
+f1_score: 0.7405
+
+Accuracy from evaluate: 70.23% in iteration: 184
+Precision: 0.7126% 
+Recall: 0.7023% 
+f1_score: 0.7035
+
+Accuracy from evaluate: 73.49% in iteration: 185
+Precision: 0.7466% 
+Recall: 0.7349% 
+f1_score: 0.7382
+
+Accuracy from evaluate: 73.49% in iteration: 186
+Precision: 0.7480% 
+Recall: 0.7349% 
+f1_score: 0.7390
+
+Accuracy from evaluate: 72.56% in iteration: 187
+Precision: 0.7374% 
+Recall: 0.7256% 
+f1_score: 0.7288
+
+Accuracy from evaluate: 71.63% in iteration: 188
+Precision: 0.7235% 
+Recall: 0.7163% 
+f1_score: 0.7177
+
 Accuracy from evaluate: 72.56% in iteration: 189
-Accuracy from evaluate: 73.95% in iteration: 190
-Accuracy from evaluate: 70.70% in iteration: 191
-Accuracy from evaluate: 73.02% in iteration: 192
-Accuracy from evaluate: 72.09% in iteration: 193
-Accuracy from evaluate: 73.02% in iteration: 194
-Accuracy from evaluate: 73.95% in iteration: 195
-Accuracy from evaluate: 73.49% in iteration: 196
-Accuracy from evaluate: 73.02% in iteration: 197
-Accuracy from evaluate: 74.88% in iteration: 198
-Accuracy from evaluate: 75.81% in iteration: 199
-Accuracy from evaluate: 73.95% in iteration: 200
+Precision: 0.7327% 
+Recall: 0.7256% 
+f1_score: 0.7267
+
+Accuracy from evaluate: 74.88% in iteration: 190
+Precision: 0.7497% 
+Recall: 0.7488% 
+f1_score: 0.7480
+
+Accuracy from evaluate: 72.09% in iteration: 191
+Precision: 0.7256% 
+Recall: 0.7209% 
+f1_score: 0.7195
+
+Accuracy from evaluate: 73.95% in iteration: 192
+Precision: 0.7447% 
+Recall: 0.7395% 
+f1_score: 0.7389
+
+Accuracy from evaluate: 77.67% in iteration: 193
+Precision: 0.7810% 
+Recall: 0.7767% 
+f1_score: 0.7771
+
+Accuracy from evaluate: 72.56% in iteration: 194
+Precision: 0.7375% 
+Recall: 0.7256% 
+f1_score: 0.7285
+
+Accuracy from evaluate: 74.88% in iteration: 195
+Precision: 0.7508% 
+Recall: 0.7488% 
+f1_score: 0.7478
+
+Accuracy from evaluate: 77.21% in iteration: 196
+Precision: 0.7763% 
+Recall: 0.7721% 
+f1_score: 0.7727
+
+Accuracy from evaluate: 77.21% in iteration: 197
+Precision: 0.7749% 
+Recall: 0.7721% 
+f1_score: 0.7720
+
+Accuracy from evaluate: 73.02% in iteration: 198
+Precision: 0.7390% 
+Recall: 0.7302% 
+f1_score: 0.7296
+
+Accuracy from evaluate: 72.09% in iteration: 199
+Precision: 0.7255% 
+Recall: 0.7209% 
+f1_score: 0.7224
+
+Accuracy from evaluate: 74.42% in iteration: 200
+Precision: 0.7493% 
+Recall: 0.7442% 
+f1_score: 0.7420
+
 Accuracy from evaluate: 73.02% in iteration: 201
-Accuracy from evaluate: 69.77% in iteration: 202
-Accuracy from evaluate: 72.09% in iteration: 203
+Precision: 0.7325% 
+Recall: 0.7302% 
+f1_score: 0.7294
+
+Accuracy from evaluate: 74.88% in iteration: 202
+Precision: 0.7585% 
+Recall: 0.7488% 
+f1_score: 0.7465
+
+Accuracy from evaluate: 69.77% in iteration: 203
+Precision: 0.7182% 
+Recall: 0.6977% 
+f1_score: 0.7024
+
 Accuracy from evaluate: 73.95% in iteration: 204
-Accuracy from evaluate: 72.56% in iteration: 205
-Accuracy from evaluate: 74.42% in iteration: 206
-Accuracy from evaluate: 71.16% in iteration: 207
-Accuracy from evaluate: 75.81% in iteration: 208
-Accuracy from evaluate: 74.88% in iteration: 209
-Accuracy from evaluate: 72.56% in iteration: 210
-Accuracy from evaluate: 72.56% in iteration: 211
-Accuracy from evaluate: 70.70% in iteration: 212
-Accuracy from evaluate: 74.88% in iteration: 213
-Accuracy from evaluate: 70.23% in iteration: 214
-Accuracy from evaluate: 77.21% in iteration: 215
-Accuracy from evaluate: 72.56% in iteration: 216
-Accuracy from evaluate: 75.35% in iteration: 217
-Accuracy from evaluate: 70.23% in iteration: 218
-Accuracy from evaluate: 72.56% in iteration: 219
-Accuracy from evaluate: 74.88% in iteration: 220
-Accuracy from evaluate: 72.56% in iteration: 221
-Accuracy from evaluate: 74.88% in iteration: 222
-Accuracy from evaluate: 73.95% in iteration: 223
-Accuracy from evaluate: 76.28% in iteration: 224
+Precision: 0.7450% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 73.49% in iteration: 205
+Precision: 0.7380% 
+Recall: 0.7349% 
+f1_score: 0.7347
+
+Accuracy from evaluate: 73.95% in iteration: 206
+Precision: 0.7445% 
+Recall: 0.7395% 
+f1_score: 0.7390
+
+Accuracy from evaluate: 72.56% in iteration: 207
+Precision: 0.7252% 
+Recall: 0.7256% 
+f1_score: 0.7237
+
+Accuracy from evaluate: 69.30% in iteration: 208
+Precision: 0.7070% 
+Recall: 0.6930% 
+f1_score: 0.6979
+
+Accuracy from evaluate: 72.09% in iteration: 209
+Precision: 0.7249% 
+Recall: 0.7209% 
+f1_score: 0.7204
+
+Accuracy from evaluate: 74.88% in iteration: 210
+Precision: 0.7591% 
+Recall: 0.7488% 
+f1_score: 0.7484
+
+Accuracy from evaluate: 72.09% in iteration: 211
+Precision: 0.7293% 
+Recall: 0.7209% 
+f1_score: 0.7217
+
+Accuracy from evaluate: 73.49% in iteration: 212
+Precision: 0.7442% 
+Recall: 0.7349% 
+f1_score: 0.7355
+
+Accuracy from evaluate: 72.09% in iteration: 213
+Precision: 0.7346% 
+Recall: 0.7209% 
+f1_score: 0.7243
+
+Accuracy from evaluate: 73.49% in iteration: 214
+Precision: 0.7369% 
+Recall: 0.7349% 
+f1_score: 0.7342
+
+Accuracy from evaluate: 73.95% in iteration: 215
+Precision: 0.7466% 
+Recall: 0.7395% 
+f1_score: 0.7389
+
+Accuracy from evaluate: 73.02% in iteration: 216
+Precision: 0.7344% 
+Recall: 0.7302% 
+f1_score: 0.7304
+
+Accuracy from evaluate: 72.56% in iteration: 217
+Precision: 0.7280% 
+Recall: 0.7256% 
+f1_score: 0.7258
+
+Accuracy from evaluate: 73.95% in iteration: 218
+Precision: 0.7426% 
+Recall: 0.7395% 
+f1_score: 0.7396
+
+Accuracy from evaluate: 71.16% in iteration: 219
+Precision: 0.7196% 
+Recall: 0.7116% 
+f1_score: 0.7129
+
+Accuracy from evaluate: 71.16% in iteration: 220
+Precision: 0.7209% 
+Recall: 0.7116% 
+f1_score: 0.7137
+
+Accuracy from evaluate: 75.35% in iteration: 221
+Precision: 0.7570% 
+Recall: 0.7535% 
+f1_score: 0.7537
+
+Accuracy from evaluate: 71.16% in iteration: 222
+Precision: 0.7219% 
+Recall: 0.7116% 
+f1_score: 0.7122
+
+Accuracy from evaluate: 71.16% in iteration: 223
+Precision: 0.7233% 
+Recall: 0.7116% 
+f1_score: 0.7151
+
+Accuracy from evaluate: 73.49% in iteration: 224
+Precision: 0.7380% 
+Recall: 0.7349% 
+f1_score: 0.7345
+
 Accuracy from evaluate: 71.63% in iteration: 225
-Accuracy from evaluate: 72.56% in iteration: 226
-Accuracy from evaluate: 71.16% in iteration: 227
-Accuracy from evaluate: 73.49% in iteration: 228
-Accuracy from evaluate: 71.63% in iteration: 229
-Accuracy from evaluate: 75.35% in iteration: 230
-Accuracy from evaluate: 73.95% in iteration: 231
-Accuracy from evaluate: 73.02% in iteration: 232
+Precision: 0.7187% 
+Recall: 0.7163% 
+f1_score: 0.7146
+
+Accuracy from evaluate: 73.02% in iteration: 226
+Precision: 0.7368% 
+Recall: 0.7302% 
+f1_score: 0.7317
+
+Accuracy from evaluate: 75.35% in iteration: 227
+Precision: 0.7551% 
+Recall: 0.7535% 
+f1_score: 0.7510
+
+Accuracy from evaluate: 68.37% in iteration: 228
+Precision: 0.6875% 
+Recall: 0.6837% 
+f1_score: 0.6839
+
+Accuracy from evaluate: 73.49% in iteration: 229
+Precision: 0.7447% 
+Recall: 0.7349% 
+f1_score: 0.7361
+
+Accuracy from evaluate: 76.74% in iteration: 230
+Precision: 0.7692% 
+Recall: 0.7674% 
+f1_score: 0.7669
+
+Accuracy from evaluate: 75.81% in iteration: 231
+Precision: 0.7631% 
+Recall: 0.7581% 
+f1_score: 0.7590
+
+Accuracy from evaluate: 75.35% in iteration: 232
+Precision: 0.7580% 
+Recall: 0.7535% 
+f1_score: 0.7541
+
 Accuracy from evaluate: 75.35% in iteration: 233
-Accuracy from evaluate: 74.42% in iteration: 234
-Accuracy from evaluate: 72.56% in iteration: 235
-Accuracy from evaluate: 73.49% in iteration: 236
-Accuracy from evaluate: 73.49% in iteration: 237
-Accuracy from evaluate: 69.30% in iteration: 238
-Accuracy from evaluate: 75.35% in iteration: 239
-Accuracy from evaluate: 75.81% in iteration: 240
-Accuracy from evaluate: 69.77% in iteration: 241
-Accuracy from evaluate: 70.70% in iteration: 242
-Accuracy from evaluate: 71.63% in iteration: 243
-Accuracy from evaluate: 73.95% in iteration: 244
-Accuracy from evaluate: 69.77% in iteration: 245
-Accuracy from evaluate: 72.56% in iteration: 246
-Accuracy from evaluate: 74.88% in iteration: 247
-Accuracy from evaluate: 73.02% in iteration: 248
-Accuracy from evaluate: 73.49% in iteration: 249
-Accuracy from evaluate: 75.81% in iteration: 250
-Accuracy from evaluate: 75.35% in iteration: 251
-Accuracy from evaluate: 77.21% in iteration: 252
-Accuracy from evaluate: 76.28% in iteration: 253
-Accuracy from evaluate: 71.63% in iteration: 254
-Accuracy from evaluate: 72.09% in iteration: 255
-Accuracy from evaluate: 69.77% in iteration: 256
-Accuracy from evaluate: 73.95% in iteration: 257
-Accuracy from evaluate: 76.28% in iteration: 258
-Accuracy from evaluate: 73.49% in iteration: 259
-Accuracy from evaluate: 75.35% in iteration: 260
-Accuracy from evaluate: 74.42% in iteration: 261
-Accuracy from evaluate: 73.95% in iteration: 262
-Accuracy from evaluate: 69.77% in iteration: 263
+Precision: 0.7583% 
+Recall: 0.7535% 
+f1_score: 0.7534
+
+Accuracy from evaluate: 70.70% in iteration: 234
+Precision: 0.7297% 
+Recall: 0.7070% 
+f1_score: 0.7117
+
+Accuracy from evaluate: 69.77% in iteration: 235
+Precision: 0.7132% 
+Recall: 0.6977% 
+f1_score: 0.7014
+
+Accuracy from evaluate: 76.74% in iteration: 236
+Precision: 0.7703% 
+Recall: 0.7674% 
+f1_score: 0.7672
+
+Accuracy from evaluate: 72.56% in iteration: 237
+Precision: 0.7275% 
+Recall: 0.7256% 
+f1_score: 0.7217
+
+Accuracy from evaluate: 75.35% in iteration: 238
+Precision: 0.7597% 
+Recall: 0.7535% 
+f1_score: 0.7547
+
+Accuracy from evaluate: 73.95% in iteration: 239
+Precision: 0.7448% 
+Recall: 0.7395% 
+f1_score: 0.7393
+
+Accuracy from evaluate: 73.02% in iteration: 240
+Precision: 0.7371% 
+Recall: 0.7302% 
+f1_score: 0.7310
+
+Accuracy from evaluate: 75.35% in iteration: 241
+Precision: 0.7515% 
+Recall: 0.7535% 
+f1_score: 0.7503
+
+Accuracy from evaluate: 73.49% in iteration: 242
+Precision: 0.7442% 
+Recall: 0.7349% 
+f1_score: 0.7349
+
+Accuracy from evaluate: 74.88% in iteration: 243
+Precision: 0.7472% 
+Recall: 0.7488% 
+f1_score: 0.7461
+
+Accuracy from evaluate: 74.42% in iteration: 244
+Precision: 0.7520% 
+Recall: 0.7442% 
+f1_score: 0.7457
+
+Accuracy from evaluate: 75.81% in iteration: 245
+Precision: 0.7587% 
+Recall: 0.7581% 
+f1_score: 0.7575
+
+Accuracy from evaluate: 71.16% in iteration: 246
+Precision: 0.7227% 
+Recall: 0.7116% 
+f1_score: 0.7138
+
+Accuracy from evaluate: 71.63% in iteration: 247
+Precision: 0.7215% 
+Recall: 0.7163% 
+f1_score: 0.7162
+
+Accuracy from evaluate: 73.49% in iteration: 248
+Precision: 0.7451% 
+Recall: 0.7349% 
+f1_score: 0.7376
+
+Accuracy from evaluate: 74.42% in iteration: 249
+Precision: 0.7415% 
+Recall: 0.7442% 
+f1_score: 0.7391
+
+Accuracy from evaluate: 70.70% in iteration: 250
+Precision: 0.7125% 
+Recall: 0.7070% 
+f1_score: 0.7067
+
+Accuracy from evaluate: 73.49% in iteration: 251
+Precision: 0.7371% 
+Recall: 0.7349% 
+f1_score: 0.7349
+
+Accuracy from evaluate: 69.30% in iteration: 252
+Precision: 0.7047% 
+Recall: 0.6930% 
+f1_score: 0.6963
+
+Accuracy from evaluate: 68.37% in iteration: 253
+Precision: 0.7114% 
+Recall: 0.6837% 
+f1_score: 0.6877
+
+Accuracy from evaluate: 73.95% in iteration: 254
+Precision: 0.7438% 
+Recall: 0.7395% 
+f1_score: 0.7378
+
+Accuracy from evaluate: 74.42% in iteration: 255
+Precision: 0.7497% 
+Recall: 0.7442% 
+f1_score: 0.7450
+
+Accuracy from evaluate: 73.49% in iteration: 256
+Precision: 0.7371% 
+Recall: 0.7349% 
+f1_score: 0.7342
+
+Accuracy from evaluate: 71.63% in iteration: 257
+Precision: 0.7213% 
+Recall: 0.7163% 
+f1_score: 0.7154
+
+Accuracy from evaluate: 74.88% in iteration: 258
+Precision: 0.7506% 
+Recall: 0.7488% 
+f1_score: 0.7454
+
+Accuracy from evaluate: 70.23% in iteration: 259
+Precision: 0.7124% 
+Recall: 0.7023% 
+f1_score: 0.7037
+
+Accuracy from evaluate: 73.95% in iteration: 260
+Precision: 0.7323% 
+Recall: 0.7395% 
+f1_score: 0.7324
+
+Accuracy from evaluate: 73.49% in iteration: 261
+Precision: 0.7485% 
+Recall: 0.7349% 
+f1_score: 0.7376
+
+Accuracy from evaluate: 72.56% in iteration: 262
+Precision: 0.7316% 
+Recall: 0.7256% 
+f1_score: 0.7262
+
+Accuracy from evaluate: 73.49% in iteration: 263
+Precision: 0.7425% 
+Recall: 0.7349% 
+f1_score: 0.7354
+
 Accuracy from evaluate: 73.02% in iteration: 264
-Accuracy from evaluate: 74.88% in iteration: 265
-Accuracy from evaluate: 75.81% in iteration: 266
-Accuracy from evaluate: 73.49% in iteration: 267
-Accuracy from evaluate: 73.95% in iteration: 268
-Accuracy from evaluate: 72.09% in iteration: 269
-Accuracy from evaluate: 70.23% in iteration: 270
-Accuracy from evaluate: 72.09% in iteration: 271
-Accuracy from evaluate: 76.74% in iteration: 272
-Accuracy from evaluate: 75.35% in iteration: 273
-Accuracy from evaluate: 77.67% in iteration: 274
-Accuracy from evaluate: 73.95% in iteration: 275
-Accuracy from evaluate: 75.35% in iteration: 276
-Accuracy from evaluate: 71.63% in iteration: 277
-Accuracy from evaluate: 74.88% in iteration: 278
-Accuracy from evaluate: 73.49% in iteration: 279
-Accuracy from evaluate: 72.09% in iteration: 280
-Accuracy from evaluate: 72.09% in iteration: 281
-Accuracy from evaluate: 70.23% in iteration: 282
-Accuracy from evaluate: 74.88% in iteration: 283
-Accuracy from evaluate: 73.49% in iteration: 284
-Accuracy from evaluate: 77.21% in iteration: 285
-Accuracy from evaluate: 76.28% in iteration: 286
-Accuracy from evaluate: 74.88% in iteration: 287
-Accuracy from evaluate: 76.28% in iteration: 288
-Accuracy from evaluate: 73.02% in iteration: 289
-Accuracy from evaluate: 67.44% in iteration: 290
-Accuracy from evaluate: 69.77% in iteration: 291
-Accuracy from evaluate: 76.28% in iteration: 292
-Accuracy from evaluate: 75.35% in iteration: 293
-Accuracy from evaluate: 73.95% in iteration: 294
-Accuracy from evaluate: 74.42% in iteration: 295
-Accuracy from evaluate: 69.77% in iteration: 296
-Accuracy from evaluate: 73.49% in iteration: 297
-Accuracy from evaluate: 73.49% in iteration: 298
-Accuracy from evaluate: 73.49% in iteration: 299
-Average accuracy: 73.42 Max accuracy found at iteration 274 with accuracy of 77.67441868782043
+Precision: 0.7362% 
+Recall: 0.7302% 
+f1_score: 0.7300
+
+Accuracy from evaluate: 73.02% in iteration: 265
+Precision: 0.7385% 
+Recall: 0.7302% 
+f1_score: 0.7320
+
+Accuracy from evaluate: 73.95% in iteration: 266
+Precision: 0.7420% 
+Recall: 0.7395% 
+f1_score: 0.7375
+
+Accuracy from evaluate: 73.02% in iteration: 267
+Precision: 0.7420% 
+Recall: 0.7302% 
+f1_score: 0.7335
+
+Accuracy from evaluate: 75.35% in iteration: 268
+Precision: 0.7586% 
+Recall: 0.7535% 
+f1_score: 0.7547
+
+Accuracy from evaluate: 70.23% in iteration: 269
+Precision: 0.7115% 
+Recall: 0.7023% 
+f1_score: 0.7028
+
+Accuracy from evaluate: 71.63% in iteration: 270
+Precision: 0.7191% 
+Recall: 0.7163% 
+f1_score: 0.7154
+
+Accuracy from evaluate: 76.28% in iteration: 271
+Precision: 0.7647% 
+Recall: 0.7628% 
+f1_score: 0.7628
+
+Accuracy from evaluate: 77.67% in iteration: 272
+Precision: 0.7819% 
+Recall: 0.7767% 
+f1_score: 0.7780
+
+Accuracy from evaluate: 73.02% in iteration: 273
+Precision: 0.7369% 
+Recall: 0.7302% 
+f1_score: 0.7311
+
+Accuracy from evaluate: 74.42% in iteration: 274
+Precision: 0.7460% 
+Recall: 0.7442% 
+f1_score: 0.7416
+
+Accuracy from evaluate: 74.88% in iteration: 275
+Precision: 0.7489% 
+Recall: 0.7488% 
+f1_score: 0.7446
+
+Accuracy from evaluate: 76.74% in iteration: 276
+Precision: 0.7675% 
+Recall: 0.7674% 
+f1_score: 0.7657
+
+Accuracy from evaluate: 74.42% in iteration: 277
+Precision: 0.7492% 
+Recall: 0.7442% 
+f1_score: 0.7448
+
+Accuracy from evaluate: 75.81% in iteration: 278
+Precision: 0.7614% 
+Recall: 0.7581% 
+f1_score: 0.7574
+
+Accuracy from evaluate: 69.77% in iteration: 279
+Precision: 0.7148% 
+Recall: 0.6977% 
+f1_score: 0.7008
+
+Accuracy from evaluate: 73.95% in iteration: 280
+Precision: 0.7442% 
+Recall: 0.7395% 
+f1_score: 0.7393
+
+Accuracy from evaluate: 73.49% in iteration: 281
+Precision: 0.7422% 
+Recall: 0.7349% 
+f1_score: 0.7341
+
+Accuracy from evaluate: 71.63% in iteration: 282
+Precision: 0.7283% 
+Recall: 0.7163% 
+f1_score: 0.7183
+
+Accuracy from evaluate: 72.56% in iteration: 283
+Precision: 0.7289% 
+Recall: 0.7256% 
+f1_score: 0.7250
+
+Accuracy from evaluate: 75.35% in iteration: 284
+Precision: 0.7610% 
+Recall: 0.7535% 
+f1_score: 0.7501
+
+Accuracy from evaluate: 77.67% in iteration: 285
+Precision: 0.7821% 
+Recall: 0.7767% 
+f1_score: 0.7782
+
+Accuracy from evaluate: 74.88% in iteration: 286
+Precision: 0.7578% 
+Recall: 0.7488% 
+f1_score: 0.7511
+
+Accuracy from evaluate: 76.28% in iteration: 287
+Precision: 0.7638% 
+Recall: 0.7628% 
+f1_score: 0.7607
+
+Accuracy from evaluate: 68.84% in iteration: 288
+Precision: 0.6812% 
+Recall: 0.6884% 
+f1_score: 0.6819
+
+Accuracy from evaluate: 73.49% in iteration: 289
+Precision: 0.7438% 
+Recall: 0.7349% 
+f1_score: 0.7345
+
+Accuracy from evaluate: 73.49% in iteration: 290
+Precision: 0.7391% 
+Recall: 0.7349% 
+f1_score: 0.7361
+
+Accuracy from evaluate: 71.63% in iteration: 291
+Precision: 0.7162% 
+Recall: 0.7163% 
+f1_score: 0.7140
+
+Accuracy from evaluate: 73.49% in iteration: 292
+Precision: 0.7402% 
+Recall: 0.7349% 
+f1_score: 0.7348
+
+Accuracy from evaluate: 74.42% in iteration: 293
+Precision: 0.7490% 
+Recall: 0.7442% 
+f1_score: 0.7443
+
+Accuracy from evaluate: 74.88% in iteration: 294
+Precision: 0.7472% 
+Recall: 0.7488% 
+f1_score: 0.7474
+
+Accuracy from evaluate: 73.49% in iteration: 295
+Precision: 0.7387% 
+Recall: 0.7349% 
+f1_score: 0.7329
+
+Accuracy from evaluate: 70.70% in iteration: 296
+Precision: 0.7147% 
+Recall: 0.7070% 
+f1_score: 0.7071
+
+Accuracy from evaluate: 72.09% in iteration: 297
+Precision: 0.7290% 
+Recall: 0.7209% 
+f1_score: 0.7226
+
+Accuracy from evaluate: 70.70% in iteration: 298
+Precision: 0.7206% 
+Recall: 0.7070% 
+f1_score: 0.7111
+
+Accuracy from evaluate: 75.81% in iteration: 299
+Precision: 0.7640% 
+Recall: 0.7581% 
+f1_score: 0.7592
+
+Accuracy from evaluate: 69.30% in iteration: 300
+Precision: 0.7280% 
+Recall: 0.6930% 
+f1_score: 0.7013
+
+Accuracy from evaluate: 70.70% in iteration: 301
+Precision: 0.7096% 
+Recall: 0.7070% 
+f1_score: 0.7067
+
+Accuracy from evaluate: 73.49% in iteration: 302
+Precision: 0.7460% 
+Recall: 0.7349% 
+f1_score: 0.7374
+
+Accuracy from evaluate: 71.63% in iteration: 303
+Precision: 0.7293% 
+Recall: 0.7163% 
+f1_score: 0.7197
+
+Accuracy from evaluate: 75.35% in iteration: 304
+Precision: 0.7549% 
+Recall: 0.7535% 
+f1_score: 0.7532
+
+Accuracy from evaluate: 71.16% in iteration: 305
+Precision: 0.7227% 
+Recall: 0.7116% 
+f1_score: 0.7130
+
+Accuracy from evaluate: 74.88% in iteration: 306
+Precision: 0.7534% 
+Recall: 0.7488% 
+f1_score: 0.7489
+
+Accuracy from evaluate: 74.42% in iteration: 307
+Precision: 0.7506% 
+Recall: 0.7442% 
+f1_score: 0.7451
+
+Accuracy from evaluate: 70.23% in iteration: 308
+Precision: 0.7083% 
+Recall: 0.7023% 
+f1_score: 0.7031
+
+Accuracy from evaluate: 71.63% in iteration: 309
+Precision: 0.7276% 
+Recall: 0.7163% 
+f1_score: 0.7180
+
+Accuracy from evaluate: 70.23% in iteration: 310
+Precision: 0.7130% 
+Recall: 0.7023% 
+f1_score: 0.7060
+
+Accuracy from evaluate: 75.35% in iteration: 311
+Precision: 0.7628% 
+Recall: 0.7535% 
+f1_score: 0.7547
+
+Accuracy from evaluate: 73.49% in iteration: 312
+Precision: 0.7389% 
+Recall: 0.7349% 
+f1_score: 0.7337
+
+Accuracy from evaluate: 70.70% in iteration: 313
+Precision: 0.7174% 
+Recall: 0.7070% 
+f1_score: 0.7079
+
+Accuracy from evaluate: 73.49% in iteration: 314
+Precision: 0.7392% 
+Recall: 0.7349% 
+f1_score: 0.7338
+
+Accuracy from evaluate: 75.35% in iteration: 315
+Precision: 0.7594% 
+Recall: 0.7535% 
+f1_score: 0.7533
+
+Accuracy from evaluate: 69.77% in iteration: 316
+Precision: 0.7158% 
+Recall: 0.6977% 
+f1_score: 0.7027
+
+Accuracy from evaluate: 73.02% in iteration: 317
+Precision: 0.7343% 
+Recall: 0.7302% 
+f1_score: 0.7309
+
+Accuracy from evaluate: 74.88% in iteration: 318
+Precision: 0.7562% 
+Recall: 0.7488% 
+f1_score: 0.7507
+
+Accuracy from evaluate: 72.56% in iteration: 319
+Precision: 0.7269% 
+Recall: 0.7256% 
+f1_score: 0.7244
+
+Accuracy from evaluate: 73.49% in iteration: 320
+Precision: 0.7359% 
+Recall: 0.7349% 
+f1_score: 0.7317
+
+Accuracy from evaluate: 74.88% in iteration: 321
+Precision: 0.7571% 
+Recall: 0.7488% 
+f1_score: 0.7512
+
+Accuracy from evaluate: 72.56% in iteration: 322
+Precision: 0.7383% 
+Recall: 0.7256% 
+f1_score: 0.7280
+
+Accuracy from evaluate: 66.98% in iteration: 323
+Precision: 0.6633% 
+Recall: 0.6698% 
+f1_score: 0.6606
+
+Accuracy from evaluate: 67.91% in iteration: 324
+Precision: 0.6922% 
+Recall: 0.6791% 
+f1_score: 0.6828
+
+Accuracy from evaluate: 68.84% in iteration: 325
+Precision: 0.7115% 
+Recall: 0.6884% 
+f1_score: 0.6937
+
+Accuracy from evaluate: 69.30% in iteration: 326
+Precision: 0.7063% 
+Recall: 0.6930% 
+f1_score: 0.6965
+
+Accuracy from evaluate: 72.56% in iteration: 327
+Precision: 0.7321% 
+Recall: 0.7256% 
+f1_score: 0.7263
+
+Accuracy from evaluate: 69.77% in iteration: 328
+Precision: 0.7091% 
+Recall: 0.6977% 
+f1_score: 0.7015
+
+Accuracy from evaluate: 76.74% in iteration: 329
+Precision: 0.7694% 
+Recall: 0.7674% 
+f1_score: 0.7676
+
+Accuracy from evaluate: 71.16% in iteration: 330
+Precision: 0.7199% 
+Recall: 0.7116% 
+f1_score: 0.7130
+
+Accuracy from evaluate: 73.02% in iteration: 331
+Precision: 0.7392% 
+Recall: 0.7302% 
+f1_score: 0.7307
+
+Accuracy from evaluate: 74.42% in iteration: 332
+Precision: 0.7452% 
+Recall: 0.7442% 
+f1_score: 0.7424
+
+Accuracy from evaluate: 77.21% in iteration: 333
+Precision: 0.7770% 
+Recall: 0.7721% 
+f1_score: 0.7723
+
+Accuracy from evaluate: 74.42% in iteration: 334
+Precision: 0.7500% 
+Recall: 0.7442% 
+f1_score: 0.7437
+
+Accuracy from evaluate: 73.02% in iteration: 335
+Precision: 0.7396% 
+Recall: 0.7302% 
+f1_score: 0.7312
+
+Accuracy from evaluate: 73.49% in iteration: 336
+Precision: 0.7394% 
+Recall: 0.7349% 
+f1_score: 0.7320
+
+Accuracy from evaluate: 73.49% in iteration: 337
+Precision: 0.7380% 
+Recall: 0.7349% 
+f1_score: 0.7331
+
+Accuracy from evaluate: 71.63% in iteration: 338
+Precision: 0.7315% 
+Recall: 0.7163% 
+f1_score: 0.7200
+
+Accuracy from evaluate: 76.28% in iteration: 339
+Precision: 0.7648% 
+Recall: 0.7628% 
+f1_score: 0.7629
+
+Accuracy from evaluate: 73.49% in iteration: 340
+Precision: 0.7395% 
+Recall: 0.7349% 
+f1_score: 0.7347
+
+Accuracy from evaluate: 74.42% in iteration: 341
+Precision: 0.7510% 
+Recall: 0.7442% 
+f1_score: 0.7455
+
+Accuracy from evaluate: 73.02% in iteration: 342
+Precision: 0.7331% 
+Recall: 0.7302% 
+f1_score: 0.7280
+
+Accuracy from evaluate: 77.21% in iteration: 343
+Precision: 0.7782% 
+Recall: 0.7721% 
+f1_score: 0.7737
+
+Accuracy from evaluate: 72.56% in iteration: 344
+Precision: 0.7431% 
+Recall: 0.7256% 
+f1_score: 0.7304
+
+Accuracy from evaluate: 72.09% in iteration: 345
+Precision: 0.7207% 
+Recall: 0.7209% 
+f1_score: 0.7195
+
+Accuracy from evaluate: 71.16% in iteration: 346
+Precision: 0.7111% 
+Recall: 0.7116% 
+f1_score: 0.7100
+
+Accuracy from evaluate: 71.63% in iteration: 347
+Precision: 0.7282% 
+Recall: 0.7163% 
+f1_score: 0.7190
+
+Accuracy from evaluate: 72.56% in iteration: 348
+Precision: 0.7314% 
+Recall: 0.7256% 
+f1_score: 0.7267
+
+Accuracy from evaluate: 74.88% in iteration: 349
+Precision: 0.7500% 
+Recall: 0.7488% 
+f1_score: 0.7488
+
+Accuracy from evaluate: 78.60% in iteration: 350
+Precision: 0.7898% 
+Recall: 0.7860% 
+f1_score: 0.7856
+
+Accuracy from evaluate: 73.95% in iteration: 351
+Precision: 0.7472% 
+Recall: 0.7395% 
+f1_score: 0.7419
+
+Accuracy from evaluate: 71.63% in iteration: 352
+Precision: 0.7250% 
+Recall: 0.7163% 
+f1_score: 0.7185
+
+Accuracy from evaluate: 73.49% in iteration: 353
+Precision: 0.7364% 
+Recall: 0.7349% 
+f1_score: 0.7321
+
+Accuracy from evaluate: 71.63% in iteration: 354
+Precision: 0.7263% 
+Recall: 0.7163% 
+f1_score: 0.7181
+
+Accuracy from evaluate: 67.44% in iteration: 355
+Precision: 0.6986% 
+Recall: 0.6744% 
+f1_score: 0.6819
+
+Accuracy from evaluate: 70.23% in iteration: 356
+Precision: 0.7117% 
+Recall: 0.7023% 
+f1_score: 0.7036
+
+Accuracy from evaluate: 72.09% in iteration: 357
+Precision: 0.7129% 
+Recall: 0.7209% 
+f1_score: 0.7151
+
+Accuracy from evaluate: 73.49% in iteration: 358
+Precision: 0.7316% 
+Recall: 0.7349% 
+f1_score: 0.7326
+
+Accuracy from evaluate: 72.56% in iteration: 359
+Precision: 0.7307% 
+Recall: 0.7256% 
+f1_score: 0.7264
+
+Accuracy from evaluate: 70.70% in iteration: 360
+Precision: 0.7255% 
+Recall: 0.7070% 
+f1_score: 0.7114
+
+Accuracy from evaluate: 74.88% in iteration: 361
+Precision: 0.7549% 
+Recall: 0.7488% 
+f1_score: 0.7480
+
+Accuracy from evaluate: 68.84% in iteration: 362
+Precision: 0.7011% 
+Recall: 0.6884% 
+f1_score: 0.6922
+
+Accuracy from evaluate: 76.74% in iteration: 363
+Precision: 0.7717% 
+Recall: 0.7674% 
+f1_score: 0.7668
+
+Accuracy from evaluate: 76.28% in iteration: 364
+Precision: 0.7655% 
+Recall: 0.7628% 
+f1_score: 0.7635
+
+Accuracy from evaluate: 78.14% in iteration: 365
+Precision: 0.7811% 
+Recall: 0.7814% 
+f1_score: 0.7802
+
+Accuracy from evaluate: 68.84% in iteration: 366
+Precision: 0.6981% 
+Recall: 0.6884% 
+f1_score: 0.6895
+
+Accuracy from evaluate: 73.49% in iteration: 367
+Precision: 0.7372% 
+Recall: 0.7349% 
+f1_score: 0.7341
+
+Accuracy from evaluate: 69.30% in iteration: 368
+Precision: 0.7062% 
+Recall: 0.6930% 
+f1_score: 0.6953
+
+Accuracy from evaluate: 75.35% in iteration: 369
+Precision: 0.7561% 
+Recall: 0.7535% 
+f1_score: 0.7538
+
+Accuracy from evaluate: 73.49% in iteration: 370
+Precision: 0.7421% 
+Recall: 0.7349% 
+f1_score: 0.7354
+
+Accuracy from evaluate: 71.63% in iteration: 371
+Precision: 0.7258% 
+Recall: 0.7163% 
+f1_score: 0.7188
+
+Accuracy from evaluate: 74.42% in iteration: 372
+Precision: 0.7492% 
+Recall: 0.7442% 
+f1_score: 0.7442
+
+Accuracy from evaluate: 72.09% in iteration: 373
+Precision: 0.7272% 
+Recall: 0.7209% 
+f1_score: 0.7188
+
+Accuracy from evaluate: 71.63% in iteration: 374
+Precision: 0.7224% 
+Recall: 0.7163% 
+f1_score: 0.7171
+
+Accuracy from evaluate: 72.56% in iteration: 375
+Precision: 0.7338% 
+Recall: 0.7256% 
+f1_score: 0.7268
+
+Accuracy from evaluate: 76.28% in iteration: 376
+Precision: 0.7662% 
+Recall: 0.7628% 
+f1_score: 0.7635
+
+Accuracy from evaluate: 75.81% in iteration: 377
+Precision: 0.7666% 
+Recall: 0.7581% 
+f1_score: 0.7600
+
+Accuracy from evaluate: 71.16% in iteration: 378
+Precision: 0.7272% 
+Recall: 0.7116% 
+f1_score: 0.7147
+
+Accuracy from evaluate: 70.23% in iteration: 379
+Precision: 0.7077% 
+Recall: 0.7023% 
+f1_score: 0.7020
+
+Accuracy from evaluate: 73.02% in iteration: 380
+Precision: 0.7345% 
+Recall: 0.7302% 
+f1_score: 0.7308
+
+Accuracy from evaluate: 76.28% in iteration: 381
+Precision: 0.7687% 
+Recall: 0.7628% 
+f1_score: 0.7636
+
+Accuracy from evaluate: 73.95% in iteration: 382
+Precision: 0.7477% 
+Recall: 0.7395% 
+f1_score: 0.7418
+
+Accuracy from evaluate: 72.56% in iteration: 383
+Precision: 0.7306% 
+Recall: 0.7256% 
+f1_score: 0.7244
+
+Accuracy from evaluate: 74.88% in iteration: 384
+Precision: 0.7525% 
+Recall: 0.7488% 
+f1_score: 0.7488
+
+Accuracy from evaluate: 72.09% in iteration: 385
+Precision: 0.7301% 
+Recall: 0.7209% 
+f1_score: 0.7231
+
+Accuracy from evaluate: 76.28% in iteration: 386
+Precision: 0.7661% 
+Recall: 0.7628% 
+f1_score: 0.7614
+
+Accuracy from evaluate: 73.02% in iteration: 387
+Precision: 0.7453% 
+Recall: 0.7302% 
+f1_score: 0.7342
+
+Accuracy from evaluate: 72.56% in iteration: 388
+Precision: 0.7364% 
+Recall: 0.7256% 
+f1_score: 0.7279
+
+Accuracy from evaluate: 78.14% in iteration: 389
+Precision: 0.7858% 
+Recall: 0.7814% 
+f1_score: 0.7822
+
+Accuracy from evaluate: 70.70% in iteration: 390
+Precision: 0.7336% 
+Recall: 0.7070% 
+f1_score: 0.7126
+
+Accuracy from evaluate: 72.09% in iteration: 391
+Precision: 0.7324% 
+Recall: 0.7209% 
+f1_score: 0.7230
+
+Accuracy from evaluate: 73.95% in iteration: 392
+Precision: 0.7360% 
+Recall: 0.7395% 
+f1_score: 0.7335
+
+Accuracy from evaluate: 73.49% in iteration: 393
+Precision: 0.7376% 
+Recall: 0.7349% 
+f1_score: 0.7342
+
+Accuracy from evaluate: 72.09% in iteration: 394
+Precision: 0.7270% 
+Recall: 0.7209% 
+f1_score: 0.7219
+
+Accuracy from evaluate: 69.30% in iteration: 395
+Precision: 0.6868% 
+Recall: 0.6930% 
+f1_score: 0.6883
+
+Accuracy from evaluate: 73.49% in iteration: 396
+Precision: 0.7398% 
+Recall: 0.7349% 
+f1_score: 0.7331
+
+Accuracy from evaluate: 73.49% in iteration: 397
+Precision: 0.7456% 
+Recall: 0.7349% 
+f1_score: 0.7381
+
+Accuracy from evaluate: 75.35% in iteration: 398
+Precision: 0.7607% 
+Recall: 0.7535% 
+f1_score: 0.7553
+
+Accuracy from evaluate: 73.95% in iteration: 399
+Precision: 0.7372% 
+Recall: 0.7395% 
+f1_score: 0.7356
+
+Accuracy from evaluate: 70.70% in iteration: 400
+Precision: 0.7133% 
+Recall: 0.7070% 
+f1_score: 0.7082
+
+Accuracy from evaluate: 74.42% in iteration: 401
+Precision: 0.7479% 
+Recall: 0.7442% 
+f1_score: 0.7445
+
+Accuracy from evaluate: 72.09% in iteration: 402
+Precision: 0.7339% 
+Recall: 0.7209% 
+f1_score: 0.7238
+
+Accuracy from evaluate: 74.42% in iteration: 403
+Precision: 0.7487% 
+Recall: 0.7442% 
+f1_score: 0.7444
+
+Accuracy from evaluate: 72.56% in iteration: 404
+Precision: 0.7229% 
+Recall: 0.7256% 
+f1_score: 0.7235
+
+Accuracy from evaluate: 72.56% in iteration: 405
+Precision: 0.7353% 
+Recall: 0.7256% 
+f1_score: 0.7285
+
+Accuracy from evaluate: 76.28% in iteration: 406
+Precision: 0.7682% 
+Recall: 0.7628% 
+f1_score: 0.7644
+
+Accuracy from evaluate: 75.35% in iteration: 407
+Precision: 0.7598% 
+Recall: 0.7535% 
+f1_score: 0.7545
+
+Accuracy from evaluate: 73.49% in iteration: 408
+Precision: 0.7417% 
+Recall: 0.7349% 
+f1_score: 0.7361
+
+Accuracy from evaluate: 73.49% in iteration: 409
+Precision: 0.7382% 
+Recall: 0.7349% 
+f1_score: 0.7334
+
+Accuracy from evaluate: 72.56% in iteration: 410
+Precision: 0.7286% 
+Recall: 0.7256% 
+f1_score: 0.7252
+
+Accuracy from evaluate: 68.84% in iteration: 411
+Precision: 0.6974% 
+Recall: 0.6884% 
+f1_score: 0.6913
+
+Accuracy from evaluate: 71.63% in iteration: 412
+Precision: 0.7276% 
+Recall: 0.7163% 
+f1_score: 0.7167
+
+Accuracy from evaluate: 73.49% in iteration: 413
+Precision: 0.7375% 
+Recall: 0.7349% 
+f1_score: 0.7351
+
+Accuracy from evaluate: 71.63% in iteration: 414
+Precision: 0.7206% 
+Recall: 0.7163% 
+f1_score: 0.7167
+
+Accuracy from evaluate: 74.88% in iteration: 415
+Precision: 0.7556% 
+Recall: 0.7488% 
+f1_score: 0.7491
+
+Accuracy from evaluate: 76.74% in iteration: 416
+Precision: 0.7720% 
+Recall: 0.7674% 
+f1_score: 0.7676
+
+Accuracy from evaluate: 72.09% in iteration: 417
+Precision: 0.7326% 
+Recall: 0.7209% 
+f1_score: 0.7226
+
+Accuracy from evaluate: 73.49% in iteration: 418
+Precision: 0.7451% 
+Recall: 0.7349% 
+f1_score: 0.7378
+
+Accuracy from evaluate: 74.42% in iteration: 419
+Precision: 0.7507% 
+Recall: 0.7442% 
+f1_score: 0.7459
+
+Accuracy from evaluate: 76.74% in iteration: 420
+Precision: 0.7698% 
+Recall: 0.7674% 
+f1_score: 0.7645
+
+Accuracy from evaluate: 73.95% in iteration: 421
+Precision: 0.7498% 
+Recall: 0.7395% 
+f1_score: 0.7375
+
+Accuracy from evaluate: 73.95% in iteration: 422
+Precision: 0.7434% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 71.16% in iteration: 423
+Precision: 0.7244% 
+Recall: 0.7116% 
+f1_score: 0.7139
+
+Accuracy from evaluate: 74.42% in iteration: 424
+Precision: 0.7434% 
+Recall: 0.7442% 
+f1_score: 0.7409
+
+Accuracy from evaluate: 78.60% in iteration: 425
+Precision: 0.7930% 
+Recall: 0.7860% 
+f1_score: 0.7847
+
+Accuracy from evaluate: 73.49% in iteration: 426
+Precision: 0.7385% 
+Recall: 0.7349% 
+f1_score: 0.7349
+
+Accuracy from evaluate: 76.28% in iteration: 427
+Precision: 0.7663% 
+Recall: 0.7628% 
+f1_score: 0.7621
+
+Accuracy from evaluate: 75.35% in iteration: 428
+Precision: 0.7592% 
+Recall: 0.7535% 
+f1_score: 0.7551
+
+Accuracy from evaluate: 73.02% in iteration: 429
+Precision: 0.7337% 
+Recall: 0.7302% 
+f1_score: 0.7287
+
+Accuracy from evaluate: 76.74% in iteration: 430
+Precision: 0.7693% 
+Recall: 0.7674% 
+f1_score: 0.7674
+
+Accuracy from evaluate: 77.21% in iteration: 431
+Precision: 0.7783% 
+Recall: 0.7721% 
+f1_score: 0.7726
+
+Accuracy from evaluate: 76.28% in iteration: 432
+Precision: 0.7654% 
+Recall: 0.7628% 
+f1_score: 0.7634
+
+Accuracy from evaluate: 73.02% in iteration: 433
+Precision: 0.7415% 
+Recall: 0.7302% 
+f1_score: 0.7317
+
+Accuracy from evaluate: 73.02% in iteration: 434
+Precision: 0.7312% 
+Recall: 0.7302% 
+f1_score: 0.7289
+
+Accuracy from evaluate: 73.49% in iteration: 435
+Precision: 0.7403% 
+Recall: 0.7349% 
+f1_score: 0.7326
+
+Accuracy from evaluate: 72.09% in iteration: 436
+Precision: 0.7284% 
+Recall: 0.7209% 
+f1_score: 0.7205
+
+Accuracy from evaluate: 73.49% in iteration: 437
+Precision: 0.7406% 
+Recall: 0.7349% 
+f1_score: 0.7356
+
+Accuracy from evaluate: 74.42% in iteration: 438
+Precision: 0.7440% 
+Recall: 0.7442% 
+f1_score: 0.7431
+
+Accuracy from evaluate: 76.74% in iteration: 439
+Precision: 0.7719% 
+Recall: 0.7674% 
+f1_score: 0.7684
+
+Accuracy from evaluate: 72.56% in iteration: 440
+Precision: 0.7397% 
+Recall: 0.7256% 
+f1_score: 0.7288
+
+Accuracy from evaluate: 73.95% in iteration: 441
+Precision: 0.7402% 
+Recall: 0.7395% 
+f1_score: 0.7384
+
+Accuracy from evaluate: 70.23% in iteration: 442
+Precision: 0.7087% 
+Recall: 0.7023% 
+f1_score: 0.7029
+
+Accuracy from evaluate: 74.88% in iteration: 443
+Precision: 0.7525% 
+Recall: 0.7488% 
+f1_score: 0.7470
+
+Accuracy from evaluate: 76.28% in iteration: 444
+Precision: 0.7637% 
+Recall: 0.7628% 
+f1_score: 0.7614
+
+Accuracy from evaluate: 76.74% in iteration: 445
+Precision: 0.7726% 
+Recall: 0.7674% 
+f1_score: 0.7687
+
+Accuracy from evaluate: 75.35% in iteration: 446
+Precision: 0.7590% 
+Recall: 0.7535% 
+f1_score: 0.7548
+
+Accuracy from evaluate: 76.28% in iteration: 447
+Precision: 0.7654% 
+Recall: 0.7628% 
+f1_score: 0.7631
+
+Accuracy from evaluate: 75.35% in iteration: 448
+Precision: 0.7597% 
+Recall: 0.7535% 
+f1_score: 0.7534
+
+Accuracy from evaluate: 73.02% in iteration: 449
+Precision: 0.7337% 
+Recall: 0.7302% 
+f1_score: 0.7303
+
+Accuracy from evaluate: 73.02% in iteration: 450
+Precision: 0.7364% 
+Recall: 0.7302% 
+f1_score: 0.7287
+
+Accuracy from evaluate: 72.56% in iteration: 451
+Precision: 0.7308% 
+Recall: 0.7256% 
+f1_score: 0.7262
+
+Accuracy from evaluate: 71.63% in iteration: 452
+Precision: 0.7229% 
+Recall: 0.7163% 
+f1_score: 0.7159
+
+Accuracy from evaluate: 72.56% in iteration: 453
+Precision: 0.7408% 
+Recall: 0.7256% 
+f1_score: 0.7300
+
+Accuracy from evaluate: 73.02% in iteration: 454
+Precision: 0.7376% 
+Recall: 0.7302% 
+f1_score: 0.7292
+
+Accuracy from evaluate: 75.35% in iteration: 455
+Precision: 0.7586% 
+Recall: 0.7535% 
+f1_score: 0.7522
+
+Accuracy from evaluate: 72.09% in iteration: 456
+Precision: 0.7276% 
+Recall: 0.7209% 
+f1_score: 0.7229
+
+Accuracy from evaluate: 75.35% in iteration: 457
+Precision: 0.7605% 
+Recall: 0.7535% 
+f1_score: 0.7534
+
+Accuracy from evaluate: 70.23% in iteration: 458
+Precision: 0.7057% 
+Recall: 0.7023% 
+f1_score: 0.7020
+
+Accuracy from evaluate: 76.74% in iteration: 459
+Precision: 0.7769% 
+Recall: 0.7674% 
+f1_score: 0.7704
+
+Accuracy from evaluate: 73.49% in iteration: 460
+Precision: 0.7340% 
+Recall: 0.7349% 
+f1_score: 0.7312
+
+Accuracy from evaluate: 72.56% in iteration: 461
+Precision: 0.7296% 
+Recall: 0.7256% 
+f1_score: 0.7257
+
+Accuracy from evaluate: 70.70% in iteration: 462
+Precision: 0.7210% 
+Recall: 0.7070% 
+f1_score: 0.7104
+
+Accuracy from evaluate: 74.88% in iteration: 463
+Precision: 0.7551% 
+Recall: 0.7488% 
+f1_score: 0.7488
+
+Accuracy from evaluate: 74.42% in iteration: 464
+Precision: 0.7448% 
+Recall: 0.7442% 
+f1_score: 0.7411
+
+Accuracy from evaluate: 71.16% in iteration: 465
+Precision: 0.7147% 
+Recall: 0.7116% 
+f1_score: 0.7115
+
+Accuracy from evaluate: 70.23% in iteration: 466
+Precision: 0.7180% 
+Recall: 0.7023% 
+f1_score: 0.7061
+
+Accuracy from evaluate: 76.74% in iteration: 467
+Precision: 0.7727% 
+Recall: 0.7674% 
+f1_score: 0.7677
+
+Accuracy from evaluate: 73.02% in iteration: 468
+Precision: 0.7346% 
+Recall: 0.7302% 
+f1_score: 0.7311
+
+Accuracy from evaluate: 72.09% in iteration: 469
+Precision: 0.7319% 
+Recall: 0.7209% 
+f1_score: 0.7233
+
+Accuracy from evaluate: 69.77% in iteration: 470
+Precision: 0.7094% 
+Recall: 0.6977% 
+f1_score: 0.7011
+
+Accuracy from evaluate: 74.42% in iteration: 471
+Precision: 0.7536% 
+Recall: 0.7442% 
+f1_score: 0.7471
+
+Accuracy from evaluate: 74.88% in iteration: 472
+Precision: 0.7565% 
+Recall: 0.7488% 
+f1_score: 0.7499
+
+Accuracy from evaluate: 74.88% in iteration: 473
+Precision: 0.7605% 
+Recall: 0.7488% 
+f1_score: 0.7483
+
+Accuracy from evaluate: 70.70% in iteration: 474
+Precision: 0.7165% 
+Recall: 0.7070% 
+f1_score: 0.7068
+
+Accuracy from evaluate: 74.42% in iteration: 475
+Precision: 0.7436% 
+Recall: 0.7442% 
+f1_score: 0.7432
+
+Accuracy from evaluate: 74.42% in iteration: 476
+Precision: 0.7490% 
+Recall: 0.7442% 
+f1_score: 0.7447
+
+Accuracy from evaluate: 73.02% in iteration: 477
+Precision: 0.7345% 
+Recall: 0.7302% 
+f1_score: 0.7295
+
+Accuracy from evaluate: 74.88% in iteration: 478
+Precision: 0.7546% 
+Recall: 0.7488% 
+f1_score: 0.7485
+
+Accuracy from evaluate: 72.56% in iteration: 479
+Precision: 0.7313% 
+Recall: 0.7256% 
+f1_score: 0.7264
+
+Accuracy from evaluate: 73.02% in iteration: 480
+Precision: 0.7348% 
+Recall: 0.7302% 
+f1_score: 0.7311
+
+Accuracy from evaluate: 76.28% in iteration: 481
+Precision: 0.7693% 
+Recall: 0.7628% 
+f1_score: 0.7637
+
+Accuracy from evaluate: 75.35% in iteration: 482
+Precision: 0.7579% 
+Recall: 0.7535% 
+f1_score: 0.7523
+
+Accuracy from evaluate: 74.88% in iteration: 483
+Precision: 0.7506% 
+Recall: 0.7488% 
+f1_score: 0.7481
+
+Accuracy from evaluate: 75.81% in iteration: 484
+Precision: 0.7589% 
+Recall: 0.7581% 
+f1_score: 0.7575
+
+Accuracy from evaluate: 73.49% in iteration: 485
+Precision: 0.7408% 
+Recall: 0.7349% 
+f1_score: 0.7358
+
+Accuracy from evaluate: 69.77% in iteration: 486
+Precision: 0.7142% 
+Recall: 0.6977% 
+f1_score: 0.7003
+
+Accuracy from evaluate: 74.42% in iteration: 487
+Precision: 0.7430% 
+Recall: 0.7442% 
+f1_score: 0.7413
+
+Accuracy from evaluate: 73.95% in iteration: 488
+Precision: 0.7432% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 69.77% in iteration: 489
+Precision: 0.6937% 
+Recall: 0.6977% 
+f1_score: 0.6935
+
+Accuracy from evaluate: 74.88% in iteration: 490
+Precision: 0.7568% 
+Recall: 0.7488% 
+f1_score: 0.7473
+
+Accuracy from evaluate: 75.35% in iteration: 491
+Precision: 0.7590% 
+Recall: 0.7535% 
+f1_score: 0.7545
+
+Accuracy from evaluate: 75.35% in iteration: 492
+Precision: 0.7588% 
+Recall: 0.7535% 
+f1_score: 0.7541
+
+Accuracy from evaluate: 73.49% in iteration: 493
+Precision: 0.7412% 
+Recall: 0.7349% 
+f1_score: 0.7355
+
+Accuracy from evaluate: 73.95% in iteration: 494
+Precision: 0.7371% 
+Recall: 0.7395% 
+f1_score: 0.7365
+
+Accuracy from evaluate: 74.88% in iteration: 495
+Precision: 0.7508% 
+Recall: 0.7488% 
+f1_score: 0.7489
+
+Accuracy from evaluate: 75.81% in iteration: 496
+Precision: 0.7638% 
+Recall: 0.7581% 
+f1_score: 0.7599
+
+Accuracy from evaluate: 73.49% in iteration: 497
+Precision: 0.7440% 
+Recall: 0.7349% 
+f1_score: 0.7370
+
+Accuracy from evaluate: 72.56% in iteration: 498
+Precision: 0.7217% 
+Recall: 0.7256% 
+f1_score: 0.7210
+
+Accuracy from evaluate: 71.16% in iteration: 499
+Precision: 0.7214% 
+Recall: 0.7116% 
+f1_score: 0.7135
+
+Accuracy from evaluate: 71.63% in iteration: 500
+Precision: 0.7163% 
+Recall: 0.7163% 
+f1_score: 0.7146
+
+Accuracy from evaluate: 71.63% in iteration: 501
+Precision: 0.7257% 
+Recall: 0.7163% 
+f1_score: 0.7186
+
+Accuracy from evaluate: 74.42% in iteration: 502
+Precision: 0.7543% 
+Recall: 0.7442% 
+f1_score: 0.7445
+
+Accuracy from evaluate: 77.21% in iteration: 503
+Precision: 0.7727% 
+Recall: 0.7721% 
+f1_score: 0.7709
+
+Accuracy from evaluate: 71.63% in iteration: 504
+Precision: 0.7208% 
+Recall: 0.7163% 
+f1_score: 0.7159
+
+Accuracy from evaluate: 71.63% in iteration: 505
+Precision: 0.7259% 
+Recall: 0.7163% 
+f1_score: 0.7184
+
+Accuracy from evaluate: 71.63% in iteration: 506
+Precision: 0.7244% 
+Recall: 0.7163% 
+f1_score: 0.7165
+
+Accuracy from evaluate: 73.49% in iteration: 507
+Precision: 0.7377% 
+Recall: 0.7349% 
+f1_score: 0.7328
+
+Accuracy from evaluate: 73.95% in iteration: 508
+Precision: 0.7439% 
+Recall: 0.7395% 
+f1_score: 0.7394
+
+Accuracy from evaluate: 72.56% in iteration: 509
+Precision: 0.7406% 
+Recall: 0.7256% 
+f1_score: 0.7298
+
+Accuracy from evaluate: 69.30% in iteration: 510
+Precision: 0.6966% 
+Recall: 0.6930% 
+f1_score: 0.6912
+
+Accuracy from evaluate: 72.56% in iteration: 511
+Precision: 0.7274% 
+Recall: 0.7256% 
+f1_score: 0.7246
+
+Accuracy from evaluate: 73.95% in iteration: 512
+Precision: 0.7517% 
+Recall: 0.7395% 
+f1_score: 0.7404
+
+Accuracy from evaluate: 71.16% in iteration: 513
+Precision: 0.7210% 
+Recall: 0.7116% 
+f1_score: 0.7137
+
+Accuracy from evaluate: 71.63% in iteration: 514
+Precision: 0.7271% 
+Recall: 0.7163% 
+f1_score: 0.7167
+
+Accuracy from evaluate: 72.56% in iteration: 515
+Precision: 0.7316% 
+Recall: 0.7256% 
+f1_score: 0.7253
+
+Accuracy from evaluate: 69.77% in iteration: 516
+Precision: 0.7121% 
+Recall: 0.6977% 
+f1_score: 0.7014
+
+Accuracy from evaluate: 72.56% in iteration: 517
+Precision: 0.7320% 
+Recall: 0.7256% 
+f1_score: 0.7263
+
+Accuracy from evaluate: 72.56% in iteration: 518
+Precision: 0.7284% 
+Recall: 0.7256% 
+f1_score: 0.7218
+
+Accuracy from evaluate: 74.42% in iteration: 519
+Precision: 0.7450% 
+Recall: 0.7442% 
+f1_score: 0.7436
+
+Accuracy from evaluate: 74.88% in iteration: 520
+Precision: 0.7579% 
+Recall: 0.7488% 
+f1_score: 0.7496
+
+Accuracy from evaluate: 73.95% in iteration: 521
+Precision: 0.7477% 
+Recall: 0.7395% 
+f1_score: 0.7405
+
+Accuracy from evaluate: 73.95% in iteration: 522
+Precision: 0.7464% 
+Recall: 0.7395% 
+f1_score: 0.7418
+
+Accuracy from evaluate: 74.42% in iteration: 523
+Precision: 0.7534% 
+Recall: 0.7442% 
+f1_score: 0.7459
+
+Accuracy from evaluate: 69.77% in iteration: 524
+Precision: 0.7130% 
+Recall: 0.6977% 
+f1_score: 0.7007
+
+Accuracy from evaluate: 73.02% in iteration: 525
+Precision: 0.7350% 
+Recall: 0.7302% 
+f1_score: 0.7306
+
+Accuracy from evaluate: 70.23% in iteration: 526
+Precision: 0.7102% 
+Recall: 0.7023% 
+f1_score: 0.7040
+
+Accuracy from evaluate: 69.30% in iteration: 527
+Precision: 0.7311% 
+Recall: 0.6930% 
+f1_score: 0.6998
+
+Accuracy from evaluate: 70.23% in iteration: 528
+Precision: 0.7019% 
+Recall: 0.7023% 
+f1_score: 0.6972
+
+Accuracy from evaluate: 75.81% in iteration: 529
+Precision: 0.7613% 
+Recall: 0.7581% 
+f1_score: 0.7574
+
+Accuracy from evaluate: 72.09% in iteration: 530
+Precision: 0.7317% 
+Recall: 0.7209% 
+f1_score: 0.7228
+
+Accuracy from evaluate: 74.88% in iteration: 531
+Precision: 0.7572% 
+Recall: 0.7488% 
+f1_score: 0.7495
+
+Accuracy from evaluate: 73.02% in iteration: 532
+Precision: 0.7289% 
+Recall: 0.7302% 
+f1_score: 0.7276
+
+Accuracy from evaluate: 73.02% in iteration: 533
+Precision: 0.7392% 
+Recall: 0.7302% 
+f1_score: 0.7305
+
+Accuracy from evaluate: 71.16% in iteration: 534
+Precision: 0.7240% 
+Recall: 0.7116% 
+f1_score: 0.7144
+
+Accuracy from evaluate: 75.81% in iteration: 535
+Precision: 0.7657% 
+Recall: 0.7581% 
+f1_score: 0.7600
+
+Accuracy from evaluate: 75.35% in iteration: 536
+Precision: 0.7555% 
+Recall: 0.7535% 
+f1_score: 0.7525
+
+Accuracy from evaluate: 73.49% in iteration: 537
+Precision: 0.7379% 
+Recall: 0.7349% 
+f1_score: 0.7350
+
+Accuracy from evaluate: 74.88% in iteration: 538
+Precision: 0.7520% 
+Recall: 0.7488% 
+f1_score: 0.7463
+
+Accuracy from evaluate: 74.88% in iteration: 539
+Precision: 0.7557% 
+Recall: 0.7488% 
+f1_score: 0.7486
+
+Accuracy from evaluate: 72.56% in iteration: 540
+Precision: 0.7379% 
+Recall: 0.7256% 
+f1_score: 0.7293
+
+Accuracy from evaluate: 73.02% in iteration: 541
+Precision: 0.7349% 
+Recall: 0.7302% 
+f1_score: 0.7300
+
+Accuracy from evaluate: 71.16% in iteration: 542
+Precision: 0.7192% 
+Recall: 0.7116% 
+f1_score: 0.7114
+
+Accuracy from evaluate: 73.95% in iteration: 543
+Precision: 0.7478% 
+Recall: 0.7395% 
+f1_score: 0.7402
+
+Accuracy from evaluate: 72.56% in iteration: 544
+Precision: 0.7233% 
+Recall: 0.7256% 
+f1_score: 0.7224
+
+Accuracy from evaluate: 73.02% in iteration: 545
+Precision: 0.7358% 
+Recall: 0.7302% 
+f1_score: 0.7288
+
+Accuracy from evaluate: 77.21% in iteration: 546
+Precision: 0.7796% 
+Recall: 0.7721% 
+f1_score: 0.7743
+
+Accuracy from evaluate: 72.09% in iteration: 547
+Precision: 0.7293% 
+Recall: 0.7209% 
+f1_score: 0.7230
+
+Accuracy from evaluate: 71.16% in iteration: 548
+Precision: 0.7226% 
+Recall: 0.7116% 
+f1_score: 0.7136
+
+Accuracy from evaluate: 74.88% in iteration: 549
+Precision: 0.7501% 
+Recall: 0.7488% 
+f1_score: 0.7465
+
+Accuracy from evaluate: 73.02% in iteration: 550
+Precision: 0.7349% 
+Recall: 0.7302% 
+f1_score: 0.7274
+
+Accuracy from evaluate: 74.88% in iteration: 551
+Precision: 0.7510% 
+Recall: 0.7488% 
+f1_score: 0.7477
+
+Accuracy from evaluate: 72.56% in iteration: 552
+Precision: 0.7242% 
+Recall: 0.7256% 
+f1_score: 0.7212
+
+Accuracy from evaluate: 71.16% in iteration: 553
+Precision: 0.7185% 
+Recall: 0.7116% 
+f1_score: 0.7124
+
+Accuracy from evaluate: 73.49% in iteration: 554
+Precision: 0.7353% 
+Recall: 0.7349% 
+f1_score: 0.7321
+
+Accuracy from evaluate: 75.35% in iteration: 555
+Precision: 0.7598% 
+Recall: 0.7535% 
+f1_score: 0.7550
+
+Accuracy from evaluate: 73.02% in iteration: 556
+Precision: 0.7302% 
+Recall: 0.7302% 
+f1_score: 0.7289
+
+Accuracy from evaluate: 73.02% in iteration: 557
+Precision: 0.7370% 
+Recall: 0.7302% 
+f1_score: 0.7309
+
+Accuracy from evaluate: 69.77% in iteration: 558
+Precision: 0.7109% 
+Recall: 0.6977% 
+f1_score: 0.7008
+
+Accuracy from evaluate: 72.56% in iteration: 559
+Precision: 0.7278% 
+Recall: 0.7256% 
+f1_score: 0.7253
+
+Accuracy from evaluate: 73.49% in iteration: 560
+Precision: 0.7386% 
+Recall: 0.7349% 
+f1_score: 0.7333
+
+Accuracy from evaluate: 69.30% in iteration: 561
+Precision: 0.7154% 
+Recall: 0.6930% 
+f1_score: 0.7001
+
+Accuracy from evaluate: 74.88% in iteration: 562
+Precision: 0.7602% 
+Recall: 0.7488% 
+f1_score: 0.7517
+
+Accuracy from evaluate: 71.63% in iteration: 563
+Precision: 0.7209% 
+Recall: 0.7163% 
+f1_score: 0.7159
+
+Accuracy from evaluate: 74.88% in iteration: 564
+Precision: 0.7543% 
+Recall: 0.7488% 
+f1_score: 0.7500
+
+Accuracy from evaluate: 70.23% in iteration: 565
+Precision: 0.7125% 
+Recall: 0.7023% 
+f1_score: 0.7055
+
+Accuracy from evaluate: 75.81% in iteration: 566
+Precision: 0.7634% 
+Recall: 0.7581% 
+f1_score: 0.7594
+
+Accuracy from evaluate: 71.63% in iteration: 567
+Precision: 0.7235% 
+Recall: 0.7163% 
+f1_score: 0.7145
+
+Accuracy from evaluate: 73.95% in iteration: 568
+Precision: 0.7417% 
+Recall: 0.7395% 
+f1_score: 0.7384
+
+Accuracy from evaluate: 68.37% in iteration: 569
+Precision: 0.6914% 
+Recall: 0.6837% 
+f1_score: 0.6851
+
+Accuracy from evaluate: 75.35% in iteration: 570
+Precision: 0.7557% 
+Recall: 0.7535% 
+f1_score: 0.7532
+
+Accuracy from evaluate: 71.63% in iteration: 571
+Precision: 0.7109% 
+Recall: 0.7163% 
+f1_score: 0.7110
+
+Accuracy from evaluate: 73.95% in iteration: 572
+Precision: 0.7468% 
+Recall: 0.7395% 
+f1_score: 0.7396
+
+Accuracy from evaluate: 73.95% in iteration: 573
+Precision: 0.7486% 
+Recall: 0.7395% 
+f1_score: 0.7392
+
+Accuracy from evaluate: 71.63% in iteration: 574
+Precision: 0.7306% 
+Recall: 0.7163% 
+f1_score: 0.7180
+
+Accuracy from evaluate: 74.42% in iteration: 575
+Precision: 0.7492% 
+Recall: 0.7442% 
+f1_score: 0.7447
+
+Accuracy from evaluate: 72.56% in iteration: 576
+Precision: 0.7283% 
+Recall: 0.7256% 
+f1_score: 0.7234
+
+Accuracy from evaluate: 73.49% in iteration: 577
+Precision: 0.7527% 
+Recall: 0.7349% 
+f1_score: 0.7397
+
+Accuracy from evaluate: 75.35% in iteration: 578
+Precision: 0.7574% 
+Recall: 0.7535% 
+f1_score: 0.7542
+
+Accuracy from evaluate: 76.28% in iteration: 579
+Precision: 0.7625% 
+Recall: 0.7628% 
+f1_score: 0.7606
+
+Accuracy from evaluate: 73.95% in iteration: 580
+Precision: 0.7386% 
+Recall: 0.7395% 
+f1_score: 0.7371
+
+Accuracy from evaluate: 72.56% in iteration: 581
+Precision: 0.7347% 
+Recall: 0.7256% 
+f1_score: 0.7264
+
+Accuracy from evaluate: 73.49% in iteration: 582
+Precision: 0.7348% 
+Recall: 0.7349% 
+f1_score: 0.7333
+
+Accuracy from evaluate: 72.09% in iteration: 583
+Precision: 0.7231% 
+Recall: 0.7209% 
+f1_score: 0.7199
+
+Accuracy from evaluate: 71.63% in iteration: 584
+Precision: 0.7278% 
+Recall: 0.7163% 
+f1_score: 0.7178
+
+Accuracy from evaluate: 74.42% in iteration: 585
+Precision: 0.7504% 
+Recall: 0.7442% 
+f1_score: 0.7450
+
+Accuracy from evaluate: 73.95% in iteration: 586
+Precision: 0.7518% 
+Recall: 0.7395% 
+f1_score: 0.7436
+
+Accuracy from evaluate: 74.42% in iteration: 587
+Precision: 0.7456% 
+Recall: 0.7442% 
+f1_score: 0.7435
+
+Accuracy from evaluate: 69.30% in iteration: 588
+Precision: 0.7047% 
+Recall: 0.6930% 
+f1_score: 0.6964
+
+Accuracy from evaluate: 76.74% in iteration: 589
+Precision: 0.7669% 
+Recall: 0.7674% 
+f1_score: 0.7660
+
+Accuracy from evaluate: 73.49% in iteration: 590
+Precision: 0.7455% 
+Recall: 0.7349% 
+f1_score: 0.7353
+
+Accuracy from evaluate: 74.42% in iteration: 591
+Precision: 0.7479% 
+Recall: 0.7442% 
+f1_score: 0.7439
+
+Accuracy from evaluate: 73.95% in iteration: 592
+Precision: 0.7421% 
+Recall: 0.7395% 
+f1_score: 0.7363
+
+Accuracy from evaluate: 71.16% in iteration: 593
+Precision: 0.7197% 
+Recall: 0.7116% 
+f1_score: 0.7129
+
+Accuracy from evaluate: 72.56% in iteration: 594
+Precision: 0.7317% 
+Recall: 0.7256% 
+f1_score: 0.7261
+
+Accuracy from evaluate: 73.02% in iteration: 595
+Precision: 0.7370% 
+Recall: 0.7302% 
+f1_score: 0.7310
+
+Accuracy from evaluate: 74.42% in iteration: 596
+Precision: 0.7466% 
+Recall: 0.7442% 
+f1_score: 0.7441
+
+Accuracy from evaluate: 73.49% in iteration: 597
+Precision: 0.7393% 
+Recall: 0.7349% 
+f1_score: 0.7337
+
+Accuracy from evaluate: 74.42% in iteration: 598
+Precision: 0.7506% 
+Recall: 0.7442% 
+f1_score: 0.7454
+
+Accuracy from evaluate: 72.56% in iteration: 599
+Precision: 0.7328% 
+Recall: 0.7256% 
+f1_score: 0.7274
+
+Accuracy from evaluate: 75.35% in iteration: 600
+Precision: 0.7583% 
+Recall: 0.7535% 
+f1_score: 0.7551
+
+Accuracy from evaluate: 73.49% in iteration: 601
+Precision: 0.7386% 
+Recall: 0.7349% 
+f1_score: 0.7331
+
+Accuracy from evaluate: 74.88% in iteration: 602
+Precision: 0.7505% 
+Recall: 0.7488% 
+f1_score: 0.7486
+
+Accuracy from evaluate: 71.63% in iteration: 603
+Precision: 0.7400% 
+Recall: 0.7163% 
+f1_score: 0.7224
+
+Accuracy from evaluate: 76.74% in iteration: 604
+Precision: 0.7753% 
+Recall: 0.7674% 
+f1_score: 0.7702
+
+Accuracy from evaluate: 69.30% in iteration: 605
+Precision: 0.7089% 
+Recall: 0.6930% 
+f1_score: 0.6974
+
+Accuracy from evaluate: 70.70% in iteration: 606
+Precision: 0.7221% 
+Recall: 0.7070% 
+f1_score: 0.7083
+
+Accuracy from evaluate: 74.42% in iteration: 607
+Precision: 0.7496% 
+Recall: 0.7442% 
+f1_score: 0.7458
+
+Accuracy from evaluate: 75.35% in iteration: 608
+Precision: 0.7585% 
+Recall: 0.7535% 
+f1_score: 0.7538
+
+Accuracy from evaluate: 74.88% in iteration: 609
+Precision: 0.7561% 
+Recall: 0.7488% 
+f1_score: 0.7508
+
+Accuracy from evaluate: 73.02% in iteration: 610
+Precision: 0.7366% 
+Recall: 0.7302% 
+f1_score: 0.7309
+
+Accuracy from evaluate: 75.35% in iteration: 611
+Precision: 0.7595% 
+Recall: 0.7535% 
+f1_score: 0.7554
+
+Accuracy from evaluate: 72.56% in iteration: 612
+Precision: 0.7257% 
+Recall: 0.7256% 
+f1_score: 0.7236
+
+Accuracy from evaluate: 76.28% in iteration: 613
+Precision: 0.7632% 
+Recall: 0.7628% 
+f1_score: 0.7625
+
+Accuracy from evaluate: 73.02% in iteration: 614
+Precision: 0.7304% 
+Recall: 0.7302% 
+f1_score: 0.7274
+
+Accuracy from evaluate: 75.81% in iteration: 615
+Precision: 0.7577% 
+Recall: 0.7581% 
+f1_score: 0.7547
+
+Accuracy from evaluate: 77.21% in iteration: 616
+Precision: 0.7779% 
+Recall: 0.7721% 
+f1_score: 0.7698
+
+Accuracy from evaluate: 72.56% in iteration: 617
+Precision: 0.7313% 
+Recall: 0.7256% 
+f1_score: 0.7251
+
+Accuracy from evaluate: 77.21% in iteration: 618
+Precision: 0.7785% 
+Recall: 0.7721% 
+f1_score: 0.7731
+
+Accuracy from evaluate: 76.74% in iteration: 619
+Precision: 0.7732% 
+Recall: 0.7674% 
+f1_score: 0.7687
+
+Accuracy from evaluate: 74.88% in iteration: 620
+Precision: 0.7552% 
+Recall: 0.7488% 
+f1_score: 0.7480
+
+Accuracy from evaluate: 75.81% in iteration: 621
+Precision: 0.7599% 
+Recall: 0.7581% 
+f1_score: 0.7579
+
+Accuracy from evaluate: 72.56% in iteration: 622
+Precision: 0.7378% 
+Recall: 0.7256% 
+f1_score: 0.7288
+
+Accuracy from evaluate: 73.95% in iteration: 623
+Precision: 0.7427% 
+Recall: 0.7395% 
+f1_score: 0.7403
+
+Accuracy from evaluate: 74.42% in iteration: 624
+Precision: 0.7513% 
+Recall: 0.7442% 
+f1_score: 0.7460
+
+Accuracy from evaluate: 73.49% in iteration: 625
+Precision: 0.7435% 
+Recall: 0.7349% 
+f1_score: 0.7375
+
+Accuracy from evaluate: 75.81% in iteration: 626
+Precision: 0.7627% 
+Recall: 0.7581% 
+f1_score: 0.7568
+
+Accuracy from evaluate: 73.95% in iteration: 627
+Precision: 0.7443% 
+Recall: 0.7395% 
+f1_score: 0.7391
+
+Accuracy from evaluate: 76.74% in iteration: 628
+Precision: 0.7695% 
+Recall: 0.7674% 
+f1_score: 0.7678
+
+Accuracy from evaluate: 73.95% in iteration: 629
+Precision: 0.7432% 
+Recall: 0.7395% 
+f1_score: 0.7386
+
+Accuracy from evaluate: 72.56% in iteration: 630
+Precision: 0.7279% 
+Recall: 0.7256% 
+f1_score: 0.7241
+
+Accuracy from evaluate: 77.67% in iteration: 631
+Precision: 0.7810% 
+Recall: 0.7767% 
+f1_score: 0.7775
+
+Accuracy from evaluate: 70.23% in iteration: 632
+Precision: 0.7103% 
+Recall: 0.7023% 
+f1_score: 0.7032
+
+Accuracy from evaluate: 74.88% in iteration: 633
+Precision: 0.7564% 
+Recall: 0.7488% 
+f1_score: 0.7494
+
+Accuracy from evaluate: 70.70% in iteration: 634
+Precision: 0.7203% 
+Recall: 0.7070% 
+f1_score: 0.7103
+
+Accuracy from evaluate: 74.42% in iteration: 635
+Precision: 0.7515% 
+Recall: 0.7442% 
+f1_score: 0.7454
+
+Accuracy from evaluate: 75.35% in iteration: 636
+Precision: 0.7533% 
+Recall: 0.7535% 
+f1_score: 0.7518
+
+Accuracy from evaluate: 73.49% in iteration: 637
+Precision: 0.7424% 
+Recall: 0.7349% 
+f1_score: 0.7360
+
+Accuracy from evaluate: 68.37% in iteration: 638
+Precision: 0.6973% 
+Recall: 0.6837% 
+f1_score: 0.6873
+
+Accuracy from evaluate: 71.16% in iteration: 639
+Precision: 0.7207% 
+Recall: 0.7116% 
+f1_score: 0.7123
+
+Accuracy from evaluate: 72.56% in iteration: 640
+Precision: 0.7273% 
+Recall: 0.7256% 
+f1_score: 0.7238
+
+Accuracy from evaluate: 76.28% in iteration: 641
+Precision: 0.7697% 
+Recall: 0.7628% 
+f1_score: 0.7633
+
+Accuracy from evaluate: 69.30% in iteration: 642
+Precision: 0.7031% 
+Recall: 0.6930% 
+f1_score: 0.6963
+
+Accuracy from evaluate: 69.30% in iteration: 643
+Precision: 0.7123% 
+Recall: 0.6930% 
+f1_score: 0.6963
+
+Accuracy from evaluate: 73.95% in iteration: 644
+Precision: 0.7422% 
+Recall: 0.7395% 
+f1_score: 0.7395
+
+Accuracy from evaluate: 74.88% in iteration: 645
+Precision: 0.7524% 
+Recall: 0.7488% 
+f1_score: 0.7476
+
+Accuracy from evaluate: 71.63% in iteration: 646
+Precision: 0.7160% 
+Recall: 0.7163% 
+f1_score: 0.7140
+
+Accuracy from evaluate: 75.81% in iteration: 647
+Precision: 0.7610% 
+Recall: 0.7581% 
+f1_score: 0.7589
+
+Accuracy from evaluate: 73.02% in iteration: 648
+Precision: 0.7388% 
+Recall: 0.7302% 
+f1_score: 0.7317
+
+Accuracy from evaluate: 71.16% in iteration: 649
+Precision: 0.7136% 
+Recall: 0.7116% 
+f1_score: 0.7104
+
+Accuracy from evaluate: 75.35% in iteration: 650
+Precision: 0.7600% 
+Recall: 0.7535% 
+f1_score: 0.7546
+
+Accuracy from evaluate: 73.02% in iteration: 651
+Precision: 0.7322% 
+Recall: 0.7302% 
+f1_score: 0.7276
+
+Accuracy from evaluate: 74.42% in iteration: 652
+Precision: 0.7467% 
+Recall: 0.7442% 
+f1_score: 0.7409
+
+Accuracy from evaluate: 73.49% in iteration: 653
+Precision: 0.7377% 
+Recall: 0.7349% 
+f1_score: 0.7339
+
+Accuracy from evaluate: 70.70% in iteration: 654
+Precision: 0.7069% 
+Recall: 0.7070% 
+f1_score: 0.7046
+
+Accuracy from evaluate: 74.88% in iteration: 655
+Precision: 0.7509% 
+Recall: 0.7488% 
+f1_score: 0.7483
+
+Accuracy from evaluate: 71.16% in iteration: 656
+Precision: 0.7187% 
+Recall: 0.7116% 
+f1_score: 0.7097
+
+Accuracy from evaluate: 71.63% in iteration: 657
+Precision: 0.7304% 
+Recall: 0.7163% 
+f1_score: 0.7189
+
+Accuracy from evaluate: 76.28% in iteration: 658
+Precision: 0.7695% 
+Recall: 0.7628% 
+f1_score: 0.7643
+
+Accuracy from evaluate: 73.02% in iteration: 659
+Precision: 0.7407% 
+Recall: 0.7302% 
+f1_score: 0.7320
+
+Accuracy from evaluate: 73.95% in iteration: 660
+Precision: 0.7387% 
+Recall: 0.7395% 
+f1_score: 0.7374
+
+Accuracy from evaluate: 75.81% in iteration: 661
+Precision: 0.7642% 
+Recall: 0.7581% 
+f1_score: 0.7598
+
+Accuracy from evaluate: 73.49% in iteration: 662
+Precision: 0.7455% 
+Recall: 0.7349% 
+f1_score: 0.7360
+
+Accuracy from evaluate: 75.35% in iteration: 663
+Precision: 0.7606% 
+Recall: 0.7535% 
+f1_score: 0.7552
+
+Accuracy from evaluate: 74.42% in iteration: 664
+Precision: 0.7542% 
+Recall: 0.7442% 
+f1_score: 0.7472
+
+Accuracy from evaluate: 74.42% in iteration: 665
+Precision: 0.7503% 
+Recall: 0.7442% 
+f1_score: 0.7455
+
+Accuracy from evaluate: 75.81% in iteration: 666
+Precision: 0.7589% 
+Recall: 0.7581% 
+f1_score: 0.7553
+
+Accuracy from evaluate: 72.56% in iteration: 667
+Precision: 0.7301% 
+Recall: 0.7256% 
+f1_score: 0.7245
+
+Accuracy from evaluate: 72.09% in iteration: 668
+Precision: 0.7421% 
+Recall: 0.7209% 
+f1_score: 0.7266
+
+Accuracy from evaluate: 73.95% in iteration: 669
+Precision: 0.7442% 
+Recall: 0.7395% 
+f1_score: 0.7399
+
+Accuracy from evaluate: 73.49% in iteration: 670
+Precision: 0.7423% 
+Recall: 0.7349% 
+f1_score: 0.7334
+
+Accuracy from evaluate: 72.09% in iteration: 671
+Precision: 0.7211% 
+Recall: 0.7209% 
+f1_score: 0.7194
+
+Accuracy from evaluate: 73.95% in iteration: 672
+Precision: 0.7459% 
+Recall: 0.7395% 
+f1_score: 0.7409
+
+Accuracy from evaluate: 72.56% in iteration: 673
+Precision: 0.7280% 
+Recall: 0.7256% 
+f1_score: 0.7245
+
+Accuracy from evaluate: 73.49% in iteration: 674
+Precision: 0.7396% 
+Recall: 0.7349% 
+f1_score: 0.7339
+
+Accuracy from evaluate: 71.63% in iteration: 675
+Precision: 0.7204% 
+Recall: 0.7163% 
+f1_score: 0.7127
+
+Accuracy from evaluate: 74.42% in iteration: 676
+Precision: 0.7441% 
+Recall: 0.7442% 
+f1_score: 0.7433
+
+Accuracy from evaluate: 70.70% in iteration: 677
+Precision: 0.7167% 
+Recall: 0.7070% 
+f1_score: 0.7097
+
+Accuracy from evaluate: 74.88% in iteration: 678
+Precision: 0.7533% 
+Recall: 0.7488% 
+f1_score: 0.7498
+
+Accuracy from evaluate: 68.37% in iteration: 679
+Precision: 0.7013% 
+Recall: 0.6837% 
+f1_score: 0.6849
+
+Accuracy from evaluate: 74.42% in iteration: 680
+Precision: 0.7433% 
+Recall: 0.7442% 
+f1_score: 0.7393
+
+Accuracy from evaluate: 71.63% in iteration: 681
+Precision: 0.7232% 
+Recall: 0.7163% 
+f1_score: 0.7164
+
+Accuracy from evaluate: 73.02% in iteration: 682
+Precision: 0.7389% 
+Recall: 0.7302% 
+f1_score: 0.7330
+
+Accuracy from evaluate: 75.35% in iteration: 683
+Precision: 0.7513% 
+Recall: 0.7535% 
+f1_score: 0.7513
+
+Accuracy from evaluate: 73.95% in iteration: 684
+Precision: 0.7467% 
+Recall: 0.7395% 
+f1_score: 0.7405
+
+Accuracy from evaluate: 73.95% in iteration: 685
+Precision: 0.7482% 
+Recall: 0.7395% 
+f1_score: 0.7410
+
+Accuracy from evaluate: 75.35% in iteration: 686
+Precision: 0.7533% 
+Recall: 0.7535% 
+f1_score: 0.7520
+
+Accuracy from evaluate: 71.63% in iteration: 687
+Precision: 0.7330% 
+Recall: 0.7163% 
+f1_score: 0.7197
+
+Accuracy from evaluate: 73.95% in iteration: 688
+Precision: 0.7456% 
+Recall: 0.7395% 
+f1_score: 0.7397
+
+Accuracy from evaluate: 72.56% in iteration: 689
+Precision: 0.7349% 
+Recall: 0.7256% 
+f1_score: 0.7256
+
+Accuracy from evaluate: 74.42% in iteration: 690
+Precision: 0.7477% 
+Recall: 0.7442% 
+f1_score: 0.7440
+
+Accuracy from evaluate: 74.42% in iteration: 691
+Precision: 0.7493% 
+Recall: 0.7442% 
+f1_score: 0.7442
+
+Accuracy from evaluate: 69.77% in iteration: 692
+Precision: 0.7061% 
+Recall: 0.6977% 
+f1_score: 0.6974
+
+Accuracy from evaluate: 70.23% in iteration: 693
+Precision: 0.7094% 
+Recall: 0.7023% 
+f1_score: 0.7014
+
+Accuracy from evaluate: 73.49% in iteration: 694
+Precision: 0.7404% 
+Recall: 0.7349% 
+f1_score: 0.7358
+
+Accuracy from evaluate: 68.84% in iteration: 695
+Precision: 0.7051% 
+Recall: 0.6884% 
+f1_score: 0.6907
+
+Accuracy from evaluate: 77.21% in iteration: 696
+Precision: 0.7763% 
+Recall: 0.7721% 
+f1_score: 0.7734
+
+Accuracy from evaluate: 75.35% in iteration: 697
+Precision: 0.7565% 
+Recall: 0.7535% 
+f1_score: 0.7503
+
+Accuracy from evaluate: 71.63% in iteration: 698
+Precision: 0.7213% 
+Recall: 0.7163% 
+f1_score: 0.7163
+
+Accuracy from evaluate: 74.88% in iteration: 699
+Precision: 0.7542% 
+Recall: 0.7488% 
+f1_score: 0.7481
+
+Accuracy from evaluate: 70.23% in iteration: 700
+Precision: 0.7096% 
+Recall: 0.7023% 
+f1_score: 0.7044
+
+Accuracy from evaluate: 70.23% in iteration: 701
+Precision: 0.7105% 
+Recall: 0.7023% 
+f1_score: 0.7052
+
+Accuracy from evaluate: 73.49% in iteration: 702
+Precision: 0.7429% 
+Recall: 0.7349% 
+f1_score: 0.7364
+
+Accuracy from evaluate: 78.14% in iteration: 703
+Precision: 0.7796% 
+Recall: 0.7814% 
+f1_score: 0.7798
+
+Accuracy from evaluate: 76.28% in iteration: 704
+Precision: 0.7672% 
+Recall: 0.7628% 
+f1_score: 0.7638
+
+Accuracy from evaluate: 72.09% in iteration: 705
+Precision: 0.7267% 
+Recall: 0.7209% 
+f1_score: 0.7212
+
+Accuracy from evaluate: 73.95% in iteration: 706
+Precision: 0.7450% 
+Recall: 0.7395% 
+f1_score: 0.7387
+
+Accuracy from evaluate: 73.95% in iteration: 707
+Precision: 0.7350% 
+Recall: 0.7395% 
+f1_score: 0.7356
+
+Accuracy from evaluate: 70.23% in iteration: 708
+Precision: 0.7349% 
+Recall: 0.7023% 
+f1_score: 0.7096
+
+Accuracy from evaluate: 73.95% in iteration: 709
+Precision: 0.7450% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 73.95% in iteration: 710
+Precision: 0.7422% 
+Recall: 0.7395% 
+f1_score: 0.7379
+
+Accuracy from evaluate: 73.02% in iteration: 711
+Precision: 0.7354% 
+Recall: 0.7302% 
+f1_score: 0.7291
+
+Accuracy from evaluate: 74.42% in iteration: 712
+Precision: 0.7517% 
+Recall: 0.7442% 
+f1_score: 0.7460
+
+Accuracy from evaluate: 69.77% in iteration: 713
+Precision: 0.7145% 
+Recall: 0.6977% 
+f1_score: 0.7023
+
+Accuracy from evaluate: 71.63% in iteration: 714
+Precision: 0.7284% 
+Recall: 0.7163% 
+f1_score: 0.7179
+
+Accuracy from evaluate: 73.95% in iteration: 715
+Precision: 0.7442% 
+Recall: 0.7395% 
+f1_score: 0.7407
+
+Accuracy from evaluate: 73.95% in iteration: 716
+Precision: 0.7430% 
+Recall: 0.7395% 
+f1_score: 0.7393
+
+Accuracy from evaluate: 70.70% in iteration: 717
+Precision: 0.7171% 
+Recall: 0.7070% 
+f1_score: 0.7081
+
+Accuracy from evaluate: 73.49% in iteration: 718
+Precision: 0.7334% 
+Recall: 0.7349% 
+f1_score: 0.7328
+
+Accuracy from evaluate: 70.23% in iteration: 719
+Precision: 0.7177% 
+Recall: 0.7023% 
+f1_score: 0.7063
+
+Accuracy from evaluate: 70.70% in iteration: 720
+Precision: 0.7177% 
+Recall: 0.7070% 
+f1_score: 0.7092
+
+Accuracy from evaluate: 76.28% in iteration: 721
+Precision: 0.7703% 
+Recall: 0.7628% 
+f1_score: 0.7651
+
+Accuracy from evaluate: 75.35% in iteration: 722
+Precision: 0.7592% 
+Recall: 0.7535% 
+f1_score: 0.7551
+
+Accuracy from evaluate: 72.09% in iteration: 723
+Precision: 0.7290% 
+Recall: 0.7209% 
+f1_score: 0.7207
+
+Accuracy from evaluate: 72.56% in iteration: 724
+Precision: 0.7362% 
+Recall: 0.7256% 
+f1_score: 0.7281
+
+Accuracy from evaluate: 75.81% in iteration: 725
+Precision: 0.7615% 
+Recall: 0.7581% 
+f1_score: 0.7584
+
+Accuracy from evaluate: 67.44% in iteration: 726
+Precision: 0.6933% 
+Recall: 0.6744% 
+f1_score: 0.6804
+
+Accuracy from evaluate: 73.49% in iteration: 727
+Precision: 0.7389% 
+Recall: 0.7349% 
+f1_score: 0.7356
+
+Accuracy from evaluate: 74.42% in iteration: 728
+Precision: 0.7488% 
+Recall: 0.7442% 
+f1_score: 0.7450
+
+Accuracy from evaluate: 70.23% in iteration: 729
+Precision: 0.7157% 
+Recall: 0.7023% 
+f1_score: 0.7043
+
+Accuracy from evaluate: 67.44% in iteration: 730
+Precision: 0.6937% 
+Recall: 0.6744% 
+f1_score: 0.6764
+
+Accuracy from evaluate: 75.35% in iteration: 731
+Precision: 0.7538% 
+Recall: 0.7535% 
+f1_score: 0.7514
+
+Accuracy from evaluate: 72.09% in iteration: 732
+Precision: 0.7256% 
+Recall: 0.7209% 
+f1_score: 0.7208
+
+Accuracy from evaluate: 74.88% in iteration: 733
+Precision: 0.7520% 
+Recall: 0.7488% 
+f1_score: 0.7471
+
+Accuracy from evaluate: 71.16% in iteration: 734
+Precision: 0.7299% 
+Recall: 0.7116% 
+f1_score: 0.7159
+
+Accuracy from evaluate: 71.16% in iteration: 735
+Precision: 0.7164% 
+Recall: 0.7116% 
+f1_score: 0.7087
+
+Accuracy from evaluate: 72.09% in iteration: 736
+Precision: 0.7264% 
+Recall: 0.7209% 
+f1_score: 0.7191
+
+Accuracy from evaluate: 73.02% in iteration: 737
+Precision: 0.7376% 
+Recall: 0.7302% 
+f1_score: 0.7328
+
+Accuracy from evaluate: 75.35% in iteration: 738
+Precision: 0.7645% 
+Recall: 0.7535% 
+f1_score: 0.7554
+
+Accuracy from evaluate: 76.74% in iteration: 739
+Precision: 0.7706% 
+Recall: 0.7674% 
+f1_score: 0.7681
+
+Accuracy from evaluate: 67.91% in iteration: 740
+Precision: 0.6916% 
+Recall: 0.6791% 
+f1_score: 0.6828
+
+Accuracy from evaluate: 73.02% in iteration: 741
+Precision: 0.7402% 
+Recall: 0.7302% 
+f1_score: 0.7325
+
+Accuracy from evaluate: 73.95% in iteration: 742
+Precision: 0.7472% 
+Recall: 0.7395% 
+f1_score: 0.7414
+
+Accuracy from evaluate: 72.09% in iteration: 743
+Precision: 0.7296% 
+Recall: 0.7209% 
+f1_score: 0.7219
+
+Accuracy from evaluate: 71.16% in iteration: 744
+Precision: 0.7161% 
+Recall: 0.7116% 
+f1_score: 0.7104
+
+Accuracy from evaluate: 73.02% in iteration: 745
+Precision: 0.7373% 
+Recall: 0.7302% 
+f1_score: 0.7311
+
+Accuracy from evaluate: 75.35% in iteration: 746
+Precision: 0.7590% 
+Recall: 0.7535% 
+f1_score: 0.7552
+
+Accuracy from evaluate: 75.35% in iteration: 747
+Precision: 0.7559% 
+Recall: 0.7535% 
+f1_score: 0.7526
+
+Accuracy from evaluate: 75.81% in iteration: 748
+Precision: 0.7612% 
+Recall: 0.7581% 
+f1_score: 0.7583
+
+Accuracy from evaluate: 74.88% in iteration: 749
+Precision: 0.7563% 
+Recall: 0.7488% 
+f1_score: 0.7509
+
+Accuracy from evaluate: 76.28% in iteration: 750
+Precision: 0.7652% 
+Recall: 0.7628% 
+f1_score: 0.7624
+
+Accuracy from evaluate: 74.88% in iteration: 751
+Precision: 0.7584% 
+Recall: 0.7488% 
+f1_score: 0.7500
+
+Accuracy from evaluate: 73.49% in iteration: 752
+Precision: 0.7465% 
+Recall: 0.7349% 
+f1_score: 0.7394
+
+Accuracy from evaluate: 76.28% in iteration: 753
+Precision: 0.7696% 
+Recall: 0.7628% 
+f1_score: 0.7643
+
+Accuracy from evaluate: 73.95% in iteration: 754
+Precision: 0.7436% 
+Recall: 0.7395% 
+f1_score: 0.7376
+
+Accuracy from evaluate: 73.02% in iteration: 755
+Precision: 0.7347% 
+Recall: 0.7302% 
+f1_score: 0.7313
+
+Accuracy from evaluate: 75.81% in iteration: 756
+Precision: 0.7652% 
+Recall: 0.7581% 
+f1_score: 0.7588
+
+Accuracy from evaluate: 74.42% in iteration: 757
+Precision: 0.7542% 
+Recall: 0.7442% 
+f1_score: 0.7458
+
+Accuracy from evaluate: 70.70% in iteration: 758
+Precision: 0.7181% 
+Recall: 0.7070% 
+f1_score: 0.7089
+
+Accuracy from evaluate: 71.63% in iteration: 759
+Precision: 0.7250% 
+Recall: 0.7163% 
+f1_score: 0.7181
+
+Accuracy from evaluate: 71.16% in iteration: 760
+Precision: 0.7233% 
+Recall: 0.7116% 
+f1_score: 0.7139
+
+Accuracy from evaluate: 73.02% in iteration: 761
+Precision: 0.7419% 
+Recall: 0.7302% 
+f1_score: 0.7317
+
+Accuracy from evaluate: 74.88% in iteration: 762
+Precision: 0.7537% 
+Recall: 0.7488% 
+f1_score: 0.7497
+
+Accuracy from evaluate: 73.02% in iteration: 763
+Precision: 0.7379% 
+Recall: 0.7302% 
+f1_score: 0.7307
+
+Accuracy from evaluate: 74.42% in iteration: 764
+Precision: 0.7468% 
+Recall: 0.7442% 
+f1_score: 0.7442
+
+Accuracy from evaluate: 73.49% in iteration: 765
+Precision: 0.7368% 
+Recall: 0.7349% 
+f1_score: 0.7328
+
+Accuracy from evaluate: 73.49% in iteration: 766
+Precision: 0.7417% 
+Recall: 0.7349% 
+f1_score: 0.7364
+
+Accuracy from evaluate: 73.49% in iteration: 767
+Precision: 0.7452% 
+Recall: 0.7349% 
+f1_score: 0.7375
+
+Accuracy from evaluate: 73.49% in iteration: 768
+Precision: 0.7393% 
+Recall: 0.7349% 
+f1_score: 0.7348
+
+Accuracy from evaluate: 69.77% in iteration: 769
+Precision: 0.7031% 
+Recall: 0.6977% 
+f1_score: 0.6970
+
+Accuracy from evaluate: 71.16% in iteration: 770
+Precision: 0.7231% 
+Recall: 0.7116% 
+f1_score: 0.7137
+
+Accuracy from evaluate: 74.42% in iteration: 771
+Precision: 0.7539% 
+Recall: 0.7442% 
+f1_score: 0.7466
+
+Accuracy from evaluate: 74.42% in iteration: 772
+Precision: 0.7552% 
+Recall: 0.7442% 
+f1_score: 0.7465
+
+Accuracy from evaluate: 73.49% in iteration: 773
+Precision: 0.7432% 
+Recall: 0.7349% 
+f1_score: 0.7349
+
+Accuracy from evaluate: 72.56% in iteration: 774
+Precision: 0.7396% 
+Recall: 0.7256% 
+f1_score: 0.7275
+
+Accuracy from evaluate: 67.91% in iteration: 775
+Precision: 0.6861% 
+Recall: 0.6791% 
+f1_score: 0.6812
+
+Accuracy from evaluate: 73.02% in iteration: 776
+Precision: 0.7408% 
+Recall: 0.7302% 
+f1_score: 0.7325
+
+Accuracy from evaluate: 72.56% in iteration: 777
+Precision: 0.7328% 
+Recall: 0.7256% 
+f1_score: 0.7252
+
+Accuracy from evaluate: 74.88% in iteration: 778
+Precision: 0.7587% 
+Recall: 0.7488% 
+f1_score: 0.7513
+
+Accuracy from evaluate: 74.42% in iteration: 779
+Precision: 0.7467% 
+Recall: 0.7442% 
+f1_score: 0.7437
+
+Accuracy from evaluate: 70.70% in iteration: 780
+Precision: 0.7090% 
+Recall: 0.7070% 
+f1_score: 0.7069
+
+Accuracy from evaluate: 70.23% in iteration: 781
+Precision: 0.7139% 
+Recall: 0.7023% 
+f1_score: 0.7049
+
+Accuracy from evaluate: 78.14% in iteration: 782
+Precision: 0.7804% 
+Recall: 0.7814% 
+f1_score: 0.7802
+
+Accuracy from evaluate: 71.16% in iteration: 783
+Precision: 0.7152% 
+Recall: 0.7116% 
+f1_score: 0.7101
+
+Accuracy from evaluate: 75.81% in iteration: 784
+Precision: 0.7631% 
+Recall: 0.7581% 
+f1_score: 0.7585
+
+Accuracy from evaluate: 73.49% in iteration: 785
+Precision: 0.7394% 
+Recall: 0.7349% 
+f1_score: 0.7347
+
+Accuracy from evaluate: 73.49% in iteration: 786
+Precision: 0.7329% 
+Recall: 0.7349% 
+f1_score: 0.7311
+
+Accuracy from evaluate: 72.56% in iteration: 787
+Precision: 0.7292% 
+Recall: 0.7256% 
+f1_score: 0.7260
+
+Accuracy from evaluate: 73.02% in iteration: 788
+Precision: 0.7343% 
+Recall: 0.7302% 
+f1_score: 0.7300
+
+Accuracy from evaluate: 73.95% in iteration: 789
+Precision: 0.7407% 
+Recall: 0.7395% 
+f1_score: 0.7365
+
+Accuracy from evaluate: 73.02% in iteration: 790
+Precision: 0.7403% 
+Recall: 0.7302% 
+f1_score: 0.7297
+
+Accuracy from evaluate: 73.02% in iteration: 791
+Precision: 0.7330% 
+Recall: 0.7302% 
+f1_score: 0.7274
+
+Accuracy from evaluate: 73.49% in iteration: 792
+Precision: 0.7369% 
+Recall: 0.7349% 
+f1_score: 0.7330
+
+Accuracy from evaluate: 71.63% in iteration: 793
+Precision: 0.7194% 
+Recall: 0.7163% 
+f1_score: 0.7170
+
+Accuracy from evaluate: 74.88% in iteration: 794
+Precision: 0.7493% 
+Recall: 0.7488% 
+f1_score: 0.7467
+
+Accuracy from evaluate: 73.49% in iteration: 795
+Precision: 0.7377% 
+Recall: 0.7349% 
+f1_score: 0.7323
+
+Accuracy from evaluate: 74.42% in iteration: 796
+Precision: 0.7473% 
+Recall: 0.7442% 
+f1_score: 0.7440
+
+Accuracy from evaluate: 75.81% in iteration: 797
+Precision: 0.7585% 
+Recall: 0.7581% 
+f1_score: 0.7572
+
+Accuracy from evaluate: 71.16% in iteration: 798
+Precision: 0.7223% 
+Recall: 0.7116% 
+f1_score: 0.7129
+
+Accuracy from evaluate: 70.70% in iteration: 799
+Precision: 0.7175% 
+Recall: 0.7070% 
+f1_score: 0.7097
+
+Accuracy from evaluate: 74.88% in iteration: 800
+Precision: 0.7559% 
+Recall: 0.7488% 
+f1_score: 0.7508
+
+Accuracy from evaluate: 73.02% in iteration: 801
+Precision: 0.7343% 
+Recall: 0.7302% 
+f1_score: 0.7303
+
+Accuracy from evaluate: 73.02% in iteration: 802
+Precision: 0.7376% 
+Recall: 0.7302% 
+f1_score: 0.7316
+
+Accuracy from evaluate: 72.56% in iteration: 803
+Precision: 0.7332% 
+Recall: 0.7256% 
+f1_score: 0.7268
+
+Accuracy from evaluate: 74.88% in iteration: 804
+Precision: 0.7496% 
+Recall: 0.7488% 
+f1_score: 0.7479
+
+Accuracy from evaluate: 71.63% in iteration: 805
+Precision: 0.7264% 
+Recall: 0.7163% 
+f1_score: 0.7180
+
+Accuracy from evaluate: 68.37% in iteration: 806
+Precision: 0.7061% 
+Recall: 0.6837% 
+f1_score: 0.6889
+
+Accuracy from evaluate: 76.28% in iteration: 807
+Precision: 0.7657% 
+Recall: 0.7628% 
+f1_score: 0.7617
+
+Accuracy from evaluate: 74.88% in iteration: 808
+Precision: 0.7544% 
+Recall: 0.7488% 
+f1_score: 0.7472
+
+Accuracy from evaluate: 77.21% in iteration: 809
+Precision: 0.7714% 
+Recall: 0.7721% 
+f1_score: 0.7700
+
+Accuracy from evaluate: 74.88% in iteration: 810
+Precision: 0.7585% 
+Recall: 0.7488% 
+f1_score: 0.7511
+
+Accuracy from evaluate: 73.49% in iteration: 811
+Precision: 0.7398% 
+Recall: 0.7349% 
+f1_score: 0.7346
+
+Accuracy from evaluate: 73.49% in iteration: 812
+Precision: 0.7370% 
+Recall: 0.7349% 
+f1_score: 0.7323
+
+Accuracy from evaluate: 73.95% in iteration: 813
+Precision: 0.7460% 
+Recall: 0.7395% 
+f1_score: 0.7411
+
+Accuracy from evaluate: 77.21% in iteration: 814
+Precision: 0.7773% 
+Recall: 0.7721% 
+f1_score: 0.7707
+
+Accuracy from evaluate: 71.16% in iteration: 815
+Precision: 0.7277% 
+Recall: 0.7116% 
+f1_score: 0.7132
+
+Accuracy from evaluate: 73.95% in iteration: 816
+Precision: 0.7504% 
+Recall: 0.7395% 
+f1_score: 0.7411
+
+Accuracy from evaluate: 76.74% in iteration: 817
+Precision: 0.7716% 
+Recall: 0.7674% 
+f1_score: 0.7686
+
+Accuracy from evaluate: 71.63% in iteration: 818
+Precision: 0.7298% 
+Recall: 0.7163% 
+f1_score: 0.7188
+
+Accuracy from evaluate: 75.35% in iteration: 819
+Precision: 0.7600% 
+Recall: 0.7535% 
+f1_score: 0.7538
+
+Accuracy from evaluate: 72.56% in iteration: 820
+Precision: 0.7261% 
+Recall: 0.7256% 
+f1_score: 0.7248
+
+Accuracy from evaluate: 72.56% in iteration: 821
+Precision: 0.7311% 
+Recall: 0.7256% 
+f1_score: 0.7251
+
+Accuracy from evaluate: 76.74% in iteration: 822
+Precision: 0.7714% 
+Recall: 0.7674% 
+f1_score: 0.7682
+
+Accuracy from evaluate: 74.88% in iteration: 823
+Precision: 0.7518% 
+Recall: 0.7488% 
+f1_score: 0.7497
+
+Accuracy from evaluate: 73.95% in iteration: 824
+Precision: 0.7456% 
+Recall: 0.7395% 
+f1_score: 0.7407
+
+Accuracy from evaluate: 75.81% in iteration: 825
+Precision: 0.7651% 
+Recall: 0.7581% 
+f1_score: 0.7599
+
+Accuracy from evaluate: 73.02% in iteration: 826
+Precision: 0.7381% 
+Recall: 0.7302% 
+f1_score: 0.7314
+
+Accuracy from evaluate: 75.81% in iteration: 827
+Precision: 0.7601% 
+Recall: 0.7581% 
+f1_score: 0.7575
+
+Accuracy from evaluate: 74.42% in iteration: 828
+Precision: 0.7535% 
+Recall: 0.7442% 
+f1_score: 0.7471
+
+Accuracy from evaluate: 70.23% in iteration: 829
+Precision: 0.7261% 
+Recall: 0.7023% 
+f1_score: 0.7052
+
+Accuracy from evaluate: 75.35% in iteration: 830
+Precision: 0.7618% 
+Recall: 0.7535% 
+f1_score: 0.7554
+
+Accuracy from evaluate: 73.49% in iteration: 831
+Precision: 0.7353% 
+Recall: 0.7349% 
+f1_score: 0.7336
+
+Accuracy from evaluate: 73.95% in iteration: 832
+Precision: 0.7407% 
+Recall: 0.7395% 
+f1_score: 0.7382
+
+Accuracy from evaluate: 70.23% in iteration: 833
+Precision: 0.7107% 
+Recall: 0.7023% 
+f1_score: 0.7035
+
+Accuracy from evaluate: 70.70% in iteration: 834
+Precision: 0.7081% 
+Recall: 0.7070% 
+f1_score: 0.7046
+
+Accuracy from evaluate: 73.95% in iteration: 835
+Precision: 0.7433% 
+Recall: 0.7395% 
+f1_score: 0.7389
+
+Accuracy from evaluate: 75.81% in iteration: 836
+Precision: 0.7636% 
+Recall: 0.7581% 
+f1_score: 0.7596
+
+Accuracy from evaluate: 71.16% in iteration: 837
+Precision: 0.7253% 
+Recall: 0.7116% 
+f1_score: 0.7145
+
+Accuracy from evaluate: 71.16% in iteration: 838
+Precision: 0.7198% 
+Recall: 0.7116% 
+f1_score: 0.7129
+
+Accuracy from evaluate: 73.95% in iteration: 839
+Precision: 0.7472% 
+Recall: 0.7395% 
+f1_score: 0.7379
+
+Accuracy from evaluate: 77.21% in iteration: 840
+Precision: 0.7740% 
+Recall: 0.7721% 
+f1_score: 0.7697
+
+Accuracy from evaluate: 76.74% in iteration: 841
+Precision: 0.7708% 
+Recall: 0.7674% 
+f1_score: 0.7683
+
+Accuracy from evaluate: 72.56% in iteration: 842
+Precision: 0.7343% 
+Recall: 0.7256% 
+f1_score: 0.7266
+
+Accuracy from evaluate: 73.95% in iteration: 843
+Precision: 0.7416% 
+Recall: 0.7395% 
+f1_score: 0.7392
+
+Accuracy from evaluate: 73.95% in iteration: 844
+Precision: 0.7449% 
+Recall: 0.7395% 
+f1_score: 0.7404
+
+Accuracy from evaluate: 75.35% in iteration: 845
+Precision: 0.7601% 
+Recall: 0.7535% 
+f1_score: 0.7550
+
+Accuracy from evaluate: 75.35% in iteration: 846
+Precision: 0.7605% 
+Recall: 0.7535% 
+f1_score: 0.7555
+
+Accuracy from evaluate: 71.63% in iteration: 847
+Precision: 0.7203% 
+Recall: 0.7163% 
+f1_score: 0.7170
+
+Accuracy from evaluate: 72.09% in iteration: 848
+Precision: 0.7291% 
+Recall: 0.7209% 
+f1_score: 0.7217
+
+Accuracy from evaluate: 72.09% in iteration: 849
+Precision: 0.7358% 
+Recall: 0.7209% 
+f1_score: 0.7244
+
+Accuracy from evaluate: 73.02% in iteration: 850
+Precision: 0.7339% 
+Recall: 0.7302% 
+f1_score: 0.7298
+
+Accuracy from evaluate: 74.42% in iteration: 851
+Precision: 0.7443% 
+Recall: 0.7442% 
+f1_score: 0.7423
+
+Accuracy from evaluate: 70.70% in iteration: 852
+Precision: 0.7180% 
+Recall: 0.7070% 
+f1_score: 0.7099
+
+Accuracy from evaluate: 69.77% in iteration: 853
+Precision: 0.6987% 
+Recall: 0.6977% 
+f1_score: 0.6955
+
+Accuracy from evaluate: 76.74% in iteration: 854
+Precision: 0.7716% 
+Recall: 0.7674% 
+f1_score: 0.7683
+
+Accuracy from evaluate: 71.63% in iteration: 855
+Precision: 0.7250% 
+Recall: 0.7163% 
+f1_score: 0.7191
+
+Accuracy from evaluate: 72.09% in iteration: 856
+Precision: 0.7224% 
+Recall: 0.7209% 
+f1_score: 0.7182
+
+Accuracy from evaluate: 73.95% in iteration: 857
+Precision: 0.7465% 
+Recall: 0.7395% 
+f1_score: 0.7399
+
+Accuracy from evaluate: 72.09% in iteration: 858
+Precision: 0.7313% 
+Recall: 0.7209% 
+f1_score: 0.7232
+
+Accuracy from evaluate: 74.88% in iteration: 859
+Precision: 0.7532% 
+Recall: 0.7488% 
+f1_score: 0.7491
+
+Accuracy from evaluate: 72.09% in iteration: 860
+Precision: 0.7313% 
+Recall: 0.7209% 
+f1_score: 0.7231
+
+Accuracy from evaluate: 77.21% in iteration: 861
+Precision: 0.7773% 
+Recall: 0.7721% 
+f1_score: 0.7714
+
+Accuracy from evaluate: 69.30% in iteration: 862
+Precision: 0.7171% 
+Recall: 0.6930% 
+f1_score: 0.6988
+
+Accuracy from evaluate: 72.09% in iteration: 863
+Precision: 0.7253% 
+Recall: 0.7209% 
+f1_score: 0.7193
+
+Accuracy from evaluate: 71.63% in iteration: 864
+Precision: 0.7192% 
+Recall: 0.7163% 
+f1_score: 0.7156
+
+Accuracy from evaluate: 71.16% in iteration: 865
+Precision: 0.7170% 
+Recall: 0.7116% 
+f1_score: 0.7124
+
+Accuracy from evaluate: 74.88% in iteration: 866
+Precision: 0.7533% 
+Recall: 0.7488% 
+f1_score: 0.7464
+
+Accuracy from evaluate: 71.63% in iteration: 867
+Precision: 0.7202% 
+Recall: 0.7163% 
+f1_score: 0.7158
+
+Accuracy from evaluate: 73.95% in iteration: 868
+Precision: 0.7396% 
+Recall: 0.7395% 
+f1_score: 0.7374
+
+Accuracy from evaluate: 74.42% in iteration: 869
+Precision: 0.7565% 
+Recall: 0.7442% 
+f1_score: 0.7464
+
+Accuracy from evaluate: 73.49% in iteration: 870
+Precision: 0.7402% 
+Recall: 0.7349% 
+f1_score: 0.7333
+
+Accuracy from evaluate: 72.09% in iteration: 871
+Precision: 0.7247% 
+Recall: 0.7209% 
+f1_score: 0.7208
+
+Accuracy from evaluate: 74.42% in iteration: 872
+Precision: 0.7530% 
+Recall: 0.7442% 
+f1_score: 0.7463
+
+Accuracy from evaluate: 70.70% in iteration: 873
+Precision: 0.7124% 
+Recall: 0.7070% 
+f1_score: 0.7045
+
+Accuracy from evaluate: 74.42% in iteration: 874
+Precision: 0.7424% 
+Recall: 0.7442% 
+f1_score: 0.7395
+
+Accuracy from evaluate: 74.88% in iteration: 875
+Precision: 0.7531% 
+Recall: 0.7488% 
+f1_score: 0.7480
+
+Accuracy from evaluate: 72.56% in iteration: 876
+Precision: 0.7313% 
+Recall: 0.7256% 
+f1_score: 0.7258
+
+Accuracy from evaluate: 74.42% in iteration: 877
+Precision: 0.7629% 
+Recall: 0.7442% 
+f1_score: 0.7492
+
+Accuracy from evaluate: 71.16% in iteration: 878
+Precision: 0.7344% 
+Recall: 0.7116% 
+f1_score: 0.7175
+
+Accuracy from evaluate: 72.56% in iteration: 879
+Precision: 0.7329% 
+Recall: 0.7256% 
+f1_score: 0.7269
+
+Accuracy from evaluate: 71.16% in iteration: 880
+Precision: 0.7204% 
+Recall: 0.7116% 
+f1_score: 0.7094
+
+Accuracy from evaluate: 73.02% in iteration: 881
+Precision: 0.7348% 
+Recall: 0.7302% 
+f1_score: 0.7295
+
+Accuracy from evaluate: 75.35% in iteration: 882
+Precision: 0.7568% 
+Recall: 0.7535% 
+f1_score: 0.7517
+
+Accuracy from evaluate: 72.09% in iteration: 883
+Precision: 0.7224% 
+Recall: 0.7209% 
+f1_score: 0.7187
+
+Accuracy from evaluate: 68.37% in iteration: 884
+Precision: 0.6946% 
+Recall: 0.6837% 
+f1_score: 0.6856
+
+Accuracy from evaluate: 74.42% in iteration: 885
+Precision: 0.7442% 
+Recall: 0.7442% 
+f1_score: 0.7392
+
+Accuracy from evaluate: 73.49% in iteration: 886
+Precision: 0.7401% 
+Recall: 0.7349% 
+f1_score: 0.7349
+
+Accuracy from evaluate: 73.02% in iteration: 887
+Precision: 0.7422% 
+Recall: 0.7302% 
+f1_score: 0.7330
+
+Accuracy from evaluate: 73.95% in iteration: 888
+Precision: 0.7429% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 76.74% in iteration: 889
+Precision: 0.7699% 
+Recall: 0.7674% 
+f1_score: 0.7671
+
+Accuracy from evaluate: 73.02% in iteration: 890
+Precision: 0.7351% 
+Recall: 0.7302% 
+f1_score: 0.7306
+
+Accuracy from evaluate: 70.23% in iteration: 891
+Precision: 0.7087% 
+Recall: 0.7023% 
+f1_score: 0.7022
+
+Accuracy from evaluate: 75.35% in iteration: 892
+Precision: 0.7605% 
+Recall: 0.7535% 
+f1_score: 0.7553
+
+Accuracy from evaluate: 70.23% in iteration: 893
+Precision: 0.7146% 
+Recall: 0.7023% 
+f1_score: 0.7061
+
+Accuracy from evaluate: 73.49% in iteration: 894
+Precision: 0.7494% 
+Recall: 0.7349% 
+f1_score: 0.7386
+
+Accuracy from evaluate: 73.95% in iteration: 895
+Precision: 0.7450% 
+Recall: 0.7395% 
+f1_score: 0.7405
+
+Accuracy from evaluate: 72.09% in iteration: 896
+Precision: 0.7264% 
+Recall: 0.7209% 
+f1_score: 0.7182
+
+Accuracy from evaluate: 69.30% in iteration: 897
+Precision: 0.7027% 
+Recall: 0.6930% 
+f1_score: 0.6946
+
+Accuracy from evaluate: 77.21% in iteration: 898
+Precision: 0.7753% 
+Recall: 0.7721% 
+f1_score: 0.7718
+
+Accuracy from evaluate: 73.95% in iteration: 899
+Precision: 0.7447% 
+Recall: 0.7395% 
+f1_score: 0.7409
+
+Accuracy from evaluate: 74.42% in iteration: 900
+Precision: 0.7512% 
+Recall: 0.7442% 
+f1_score: 0.7440
+
+Accuracy from evaluate: 73.49% in iteration: 901
+Precision: 0.7380% 
+Recall: 0.7349% 
+f1_score: 0.7324
+
+Accuracy from evaluate: 74.88% in iteration: 902
+Precision: 0.7521% 
+Recall: 0.7488% 
+f1_score: 0.7489
+
+Accuracy from evaluate: 75.35% in iteration: 903
+Precision: 0.7606% 
+Recall: 0.7535% 
+f1_score: 0.7545
+
+Accuracy from evaluate: 73.95% in iteration: 904
+Precision: 0.7419% 
+Recall: 0.7395% 
+f1_score: 0.7383
+
+Accuracy from evaluate: 73.02% in iteration: 905
+Precision: 0.7400% 
+Recall: 0.7302% 
+f1_score: 0.7321
+
+Accuracy from evaluate: 71.16% in iteration: 906
+Precision: 0.7245% 
+Recall: 0.7116% 
+f1_score: 0.7145
+
+Accuracy from evaluate: 74.88% in iteration: 907
+Precision: 0.7508% 
+Recall: 0.7488% 
+f1_score: 0.7483
+
+Accuracy from evaluate: 73.95% in iteration: 908
+Precision: 0.7454% 
+Recall: 0.7395% 
+f1_score: 0.7393
+
+Accuracy from evaluate: 75.35% in iteration: 909
+Precision: 0.7622% 
+Recall: 0.7535% 
+f1_score: 0.7565
+
+Accuracy from evaluate: 72.09% in iteration: 910
+Precision: 0.7448% 
+Recall: 0.7209% 
+f1_score: 0.7270
+
+Accuracy from evaluate: 73.95% in iteration: 911
+Precision: 0.7497% 
+Recall: 0.7395% 
+f1_score: 0.7431
+
+Accuracy from evaluate: 74.88% in iteration: 912
+Precision: 0.7537% 
+Recall: 0.7488% 
+f1_score: 0.7477
+
+Accuracy from evaluate: 71.16% in iteration: 913
+Precision: 0.7261% 
+Recall: 0.7116% 
+f1_score: 0.7152
+
+Accuracy from evaluate: 72.09% in iteration: 914
+Precision: 0.7248% 
+Recall: 0.7209% 
+f1_score: 0.7194
+
+Accuracy from evaluate: 71.16% in iteration: 915
+Precision: 0.7299% 
+Recall: 0.7116% 
+f1_score: 0.7164
+
+Accuracy from evaluate: 77.21% in iteration: 916
+Precision: 0.7735% 
+Recall: 0.7721% 
+f1_score: 0.7669
+
+Accuracy from evaluate: 71.16% in iteration: 917
+Precision: 0.7234% 
+Recall: 0.7116% 
+f1_score: 0.7152
+
+Accuracy from evaluate: 72.56% in iteration: 918
+Precision: 0.7344% 
+Recall: 0.7256% 
+f1_score: 0.7256
+
+Accuracy from evaluate: 70.23% in iteration: 919
+Precision: 0.7119% 
+Recall: 0.7023% 
+f1_score: 0.7034
+
+Accuracy from evaluate: 72.09% in iteration: 920
+Precision: 0.7255% 
+Recall: 0.7209% 
+f1_score: 0.7207
+
+Accuracy from evaluate: 71.16% in iteration: 921
+Precision: 0.7259% 
+Recall: 0.7116% 
+f1_score: 0.7154
+
+Accuracy from evaluate: 74.88% in iteration: 922
+Precision: 0.7513% 
+Recall: 0.7488% 
+f1_score: 0.7464
+
+Accuracy from evaluate: 75.81% in iteration: 923
+Precision: 0.7595% 
+Recall: 0.7581% 
+f1_score: 0.7582
+
+Accuracy from evaluate: 71.16% in iteration: 924
+Precision: 0.7253% 
+Recall: 0.7116% 
+f1_score: 0.7139
+
+Accuracy from evaluate: 74.42% in iteration: 925
+Precision: 0.7509% 
+Recall: 0.7442% 
+f1_score: 0.7461
+
+Accuracy from evaluate: 72.56% in iteration: 926
+Precision: 0.7338% 
+Recall: 0.7256% 
+f1_score: 0.7264
+
+Accuracy from evaluate: 75.35% in iteration: 927
+Precision: 0.7583% 
+Recall: 0.7535% 
+f1_score: 0.7546
+
+Accuracy from evaluate: 72.09% in iteration: 928
+Precision: 0.7252% 
+Recall: 0.7209% 
+f1_score: 0.7214
+
+Accuracy from evaluate: 67.91% in iteration: 929
+Precision: 0.6999% 
+Recall: 0.6791% 
+f1_score: 0.6814
+
+Accuracy from evaluate: 72.09% in iteration: 930
+Precision: 0.7308% 
+Recall: 0.7209% 
+f1_score: 0.7221
+
+Accuracy from evaluate: 72.56% in iteration: 931
+Precision: 0.7381% 
+Recall: 0.7256% 
+f1_score: 0.7281
+
+Accuracy from evaluate: 73.02% in iteration: 932
+Precision: 0.7378% 
+Recall: 0.7302% 
+f1_score: 0.7312
+
+Accuracy from evaluate: 73.95% in iteration: 933
+Precision: 0.7460% 
+Recall: 0.7395% 
+f1_score: 0.7406
+
+Accuracy from evaluate: 70.70% in iteration: 934
+Precision: 0.7167% 
+Recall: 0.7070% 
+f1_score: 0.7075
+
+Accuracy from evaluate: 74.88% in iteration: 935
+Precision: 0.7531% 
+Recall: 0.7488% 
+f1_score: 0.7471
+
+Accuracy from evaluate: 74.88% in iteration: 936
+Precision: 0.7557% 
+Recall: 0.7488% 
+f1_score: 0.7500
+
+Accuracy from evaluate: 74.42% in iteration: 937
+Precision: 0.7482% 
+Recall: 0.7442% 
+f1_score: 0.7427
+
+Accuracy from evaluate: 75.35% in iteration: 938
+Precision: 0.7554% 
+Recall: 0.7535% 
+f1_score: 0.7528
+
+Accuracy from evaluate: 76.74% in iteration: 939
+Precision: 0.7695% 
+Recall: 0.7674% 
+f1_score: 0.7680
+
+Accuracy from evaluate: 73.95% in iteration: 940
+Precision: 0.7442% 
+Recall: 0.7395% 
+f1_score: 0.7406
+
+Accuracy from evaluate: 73.49% in iteration: 941
+Precision: 0.7380% 
+Recall: 0.7349% 
+f1_score: 0.7330
+
+Accuracy from evaluate: 70.70% in iteration: 942
+Precision: 0.7163% 
+Recall: 0.7070% 
+f1_score: 0.7069
+
+Accuracy from evaluate: 73.95% in iteration: 943
+Precision: 0.7477% 
+Recall: 0.7395% 
+f1_score: 0.7398
+
+Accuracy from evaluate: 73.95% in iteration: 944
+Precision: 0.7408% 
+Recall: 0.7395% 
+f1_score: 0.7391
+
+Accuracy from evaluate: 77.21% in iteration: 945
+Precision: 0.7769% 
+Recall: 0.7721% 
+f1_score: 0.7733
+
+Accuracy from evaluate: 75.35% in iteration: 946
+Precision: 0.7582% 
+Recall: 0.7535% 
+f1_score: 0.7544
+
+Accuracy from evaluate: 74.42% in iteration: 947
+Precision: 0.7489% 
+Recall: 0.7442% 
+f1_score: 0.7455
+
+Accuracy from evaluate: 72.56% in iteration: 948
+Precision: 0.7367% 
+Recall: 0.7256% 
+f1_score: 0.7276
+
+Accuracy from evaluate: 73.95% in iteration: 949
+Precision: 0.7450% 
+Recall: 0.7395% 
+f1_score: 0.7414
+
+Accuracy from evaluate: 73.02% in iteration: 950
+Precision: 0.7347% 
+Recall: 0.7302% 
+f1_score: 0.7304
+
+Accuracy from evaluate: 74.42% in iteration: 951
+Precision: 0.7514% 
+Recall: 0.7442% 
+f1_score: 0.7428
+
+Accuracy from evaluate: 70.23% in iteration: 952
+Precision: 0.7140% 
+Recall: 0.7023% 
+f1_score: 0.7034
+
+Accuracy from evaluate: 72.56% in iteration: 953
+Precision: 0.7322% 
+Recall: 0.7256% 
+f1_score: 0.7267
+
+Accuracy from evaluate: 76.74% in iteration: 954
+Precision: 0.7671% 
+Recall: 0.7674% 
+f1_score: 0.7662
+
+Accuracy from evaluate: 74.42% in iteration: 955
+Precision: 0.7495% 
+Recall: 0.7442% 
+f1_score: 0.7442
+
+Accuracy from evaluate: 74.42% in iteration: 956
+Precision: 0.7495% 
+Recall: 0.7442% 
+f1_score: 0.7391
+
+Accuracy from evaluate: 70.23% in iteration: 957
+Precision: 0.7227% 
+Recall: 0.7023% 
+f1_score: 0.7041
+
+Accuracy from evaluate: 71.63% in iteration: 958
+Precision: 0.7212% 
+Recall: 0.7163% 
+f1_score: 0.7175
+
+Accuracy from evaluate: 75.81% in iteration: 959
+Precision: 0.7574% 
+Recall: 0.7581% 
+f1_score: 0.7561
+
+Accuracy from evaluate: 74.88% in iteration: 960
+Precision: 0.7542% 
+Recall: 0.7488% 
+f1_score: 0.7486
+
+Accuracy from evaluate: 74.42% in iteration: 961
+Precision: 0.7496% 
+Recall: 0.7442% 
+f1_score: 0.7452
+
+Accuracy from evaluate: 73.95% in iteration: 962
+Precision: 0.7472% 
+Recall: 0.7395% 
+f1_score: 0.7415
+
+Accuracy from evaluate: 75.81% in iteration: 963
+Precision: 0.7681% 
+Recall: 0.7581% 
+f1_score: 0.7602
+
+Accuracy from evaluate: 73.02% in iteration: 964
+Precision: 0.7278% 
+Recall: 0.7302% 
+f1_score: 0.7272
+
+Accuracy from evaluate: 72.56% in iteration: 965
+Precision: 0.7309% 
+Recall: 0.7256% 
+f1_score: 0.7262
+
+Accuracy from evaluate: 72.09% in iteration: 966
+Precision: 0.7269% 
+Recall: 0.7209% 
+f1_score: 0.7198
+
+Accuracy from evaluate: 72.09% in iteration: 967
+Precision: 0.7301% 
+Recall: 0.7209% 
+f1_score: 0.7228
+
+Accuracy from evaluate: 73.49% in iteration: 968
+Precision: 0.7451% 
+Recall: 0.7349% 
+f1_score: 0.7381
+
+Accuracy from evaluate: 73.02% in iteration: 969
+Precision: 0.7293% 
+Recall: 0.7302% 
+f1_score: 0.7273
+
+Accuracy from evaluate: 72.09% in iteration: 970
+Precision: 0.7206% 
+Recall: 0.7209% 
+f1_score: 0.7169
+
+Accuracy from evaluate: 75.81% in iteration: 971
+Precision: 0.7550% 
+Recall: 0.7581% 
+f1_score: 0.7555
+
+Accuracy from evaluate: 75.81% in iteration: 972
+Precision: 0.7607% 
+Recall: 0.7581% 
+f1_score: 0.7554
+
+Accuracy from evaluate: 70.70% in iteration: 973
+Precision: 0.7199% 
+Recall: 0.7070% 
+f1_score: 0.7100
+
+Accuracy from evaluate: 72.09% in iteration: 974
+Precision: 0.7316% 
+Recall: 0.7209% 
+f1_score: 0.7202
+
+Accuracy from evaluate: 73.49% in iteration: 975
+Precision: 0.7429% 
+Recall: 0.7349% 
+f1_score: 0.7351
+
+Accuracy from evaluate: 73.49% in iteration: 976
+Precision: 0.7400% 
+Recall: 0.7349% 
+f1_score: 0.7364
+
+Accuracy from evaluate: 75.35% in iteration: 977
+Precision: 0.7589% 
+Recall: 0.7535% 
+f1_score: 0.7552
+
+Accuracy from evaluate: 70.70% in iteration: 978
+Precision: 0.7271% 
+Recall: 0.7070% 
+f1_score: 0.7120
+
+Accuracy from evaluate: 71.63% in iteration: 979
+Precision: 0.7127% 
+Recall: 0.7163% 
+f1_score: 0.7118
+
+Accuracy from evaluate: 74.88% in iteration: 980
+Precision: 0.7492% 
+Recall: 0.7488% 
+f1_score: 0.7463
+
+Accuracy from evaluate: 74.88% in iteration: 981
+Precision: 0.7546% 
+Recall: 0.7488% 
+f1_score: 0.7473
+
+Accuracy from evaluate: 73.49% in iteration: 982
+Precision: 0.7478% 
+Recall: 0.7349% 
+f1_score: 0.7382
+
+Accuracy from evaluate: 71.16% in iteration: 983
+Precision: 0.7250% 
+Recall: 0.7116% 
+f1_score: 0.7151
+
+Accuracy from evaluate: 71.16% in iteration: 984
+Precision: 0.7238% 
+Recall: 0.7116% 
+f1_score: 0.7126
+
+Accuracy from evaluate: 71.16% in iteration: 985
+Precision: 0.7265% 
+Recall: 0.7116% 
+f1_score: 0.7165
+
+Accuracy from evaluate: 76.74% in iteration: 986
+Precision: 0.7684% 
+Recall: 0.7674% 
+f1_score: 0.7659
+
+Accuracy from evaluate: 71.16% in iteration: 987
+Precision: 0.7138% 
+Recall: 0.7116% 
+f1_score: 0.7102
+
+Accuracy from evaluate: 71.63% in iteration: 988
+Precision: 0.7180% 
+Recall: 0.7163% 
+f1_score: 0.7114
+
+Accuracy from evaluate: 72.56% in iteration: 989
+Precision: 0.7357% 
+Recall: 0.7256% 
+f1_score: 0.7253
+
+Accuracy from evaluate: 73.02% in iteration: 990
+Precision: 0.7354% 
+Recall: 0.7302% 
+f1_score: 0.7298
+
+Accuracy from evaluate: 72.56% in iteration: 991
+Precision: 0.7311% 
+Recall: 0.7256% 
+f1_score: 0.7257
+
+Accuracy from evaluate: 73.95% in iteration: 992
+Precision: 0.7405% 
+Recall: 0.7395% 
+f1_score: 0.7372
+
+Accuracy from evaluate: 74.88% in iteration: 993
+Precision: 0.7508% 
+Recall: 0.7488% 
+f1_score: 0.7463
+
+Accuracy from evaluate: 73.95% in iteration: 994
+Precision: 0.7471% 
+Recall: 0.7395% 
+f1_score: 0.7382
+
+Accuracy from evaluate: 72.09% in iteration: 995
+Precision: 0.7216% 
+Recall: 0.7209% 
+f1_score: 0.7188
+
+Accuracy from evaluate: 73.49% in iteration: 996
+Precision: 0.7399% 
+Recall: 0.7349% 
+f1_score: 0.7352
+
+Accuracy from evaluate: 72.09% in iteration: 997
+Precision: 0.7339% 
+Recall: 0.7209% 
+f1_score: 0.7232
+
+Accuracy from evaluate: 73.95% in iteration: 998
+Precision: 0.7412% 
+Recall: 0.7395% 
+f1_score: 0.7383
+
+Accuracy from evaluate: 74.42% in iteration: 999
+Precision: 0.7517% 
+Recall: 0.7442% 
+f1_score: 0.7457
+
+Average accuracy: 73.29255804419518
+Max accuracy found at iteration 350 with accuracy of 78.60465049743652 With 
+Precision: 0.789752321781479, Recall: 0.786046511627907, F1 Score: 0.7855551148247921
