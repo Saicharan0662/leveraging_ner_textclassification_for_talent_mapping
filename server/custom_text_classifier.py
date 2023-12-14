@@ -18,7 +18,7 @@ nlp = spacy.load('en_core_web_sm')
 
 class NLP():
     def __init__(self):
-        self.model_path = r'G:\\project 3\\product\server\\NLP_Model\\model274_80.sav' #77.6
+        self.model_path = r'G:\\project 3\\product\server\\NLP_Model\\model350_786.sav' #78.6%
         self.stopwords = _stop_words.ENGLISH_STOP_WORDS
         self.lemmatizer = WordNetLemmatizer()
         self.tfidf_vectorizer = TfidfVectorizer(use_idf=True, max_features = 20000) 
@@ -79,7 +79,6 @@ class NLP():
             obj['value'] = ((obj['value'] - min_val) / (max_val - min_val)) * (new_max - new_min) + new_min
 
     def get_top_values(self, data, attribute_name):
-        # data[4]['value'] = data[4]['value'] + data[0]['value']
         sorted_data = sorted(data, key=lambda x: x[attribute_name], reverse=True)
         top_values = sorted_data[:4]
 
