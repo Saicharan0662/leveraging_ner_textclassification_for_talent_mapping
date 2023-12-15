@@ -46,7 +46,6 @@ const Home = () => {
                 });
             }
 
-            // setText(extractedText);
             sendTextToServer(extractedText);
         } catch (error) {
             console.error("Error loading or extracting text from PDF:", error);

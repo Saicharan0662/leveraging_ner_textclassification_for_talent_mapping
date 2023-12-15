@@ -1,0 +1,5257 @@
+{
+    "classes": [
+        "EXP",
+        "ACOM"
+    ],
+    "annotations": [
+        [
+            "Wrote re-useable test documents to ensure 100% code coverage",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed automated homepage and connected pages system, using intelligent rendering and styling for enhanced back-end control which reduces 25% of development work.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        10,
+                        19,
+                        "EXP"
+                    ],
+                    [
+                        101,
+                        109,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Created robust filter functionality, along with persistent filter state, to optimize the user experience and facilitate seamless navigation of E commerce products.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        109,
+                        119,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed secure authentication and multiple wish-list functionality for enhanced E-commerce personalization.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Migrated product from React.js to Next.js, leveraging advanced server-side rendering and enhanced performance capabilities resulted in 40% decrease in initial load time and 25% user satisfaction",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        43,
+                        53,
+                        "EXP"
+                    ],
+                    [
+                        89,
+                        97,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Revamped front-end architecture to drastically reduce API calls by an impressive 60%",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Participated in regular code reviews, providing valuable feedback and ensuring good code quality",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        38,
+                        47,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Did the API integration for multi-page forms and user data, resulting in user data errors by 30% and increasing form completion rate by 20%.",
+            {
+                "entities": [
+                    [
+                        0,
+                        3,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        23,
+                        "EXP"
+                    ],
+                    [
+                        60,
+                        69,
+                        "EXP"
+                    ],
+                    [
+                        101,
+                        111,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Crafted optimized and responsive UI components, elevating the user experience to exceptional levels resulted 20% decrease in bounce rate.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        8,
+                        17,
+                        "EXP"
+                    ],
+                    [
+                        48,
+                        57,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked on full stack, examination portal for creating and attending exams and viewing summaries.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expertly handled edge cases for seamless email scheduling and delivery.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed a seamless and intuitive UI/UX for easy navigation and functionality.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "4+ years of experience using version control and source code management tools",
+            {
+                "entities": [
+                    [
+                        12,
+                        22,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented secure authentication with email verification, password reset, and OAuth integration",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Engineered an email scheduling feature, allowing users to automate and manage their communications.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Enabled users to perform CRUD operations for efficient job management.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implementation of secure authentication and authorization for user login and registration",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Runner-up in MongoDB charts challenge organized by MongoDB Delhi NCR Hub.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "4+ years of experience using version control and source code management tools",
+            {
+                "entities": [
+                    [
+                        12,
+                        22,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expert knowledge of database technologies",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Migrated API written in ES version 1.9 to ES version 4.x",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Delivered seminars to the team around new backend development approach technologies and workflow",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Wrote re-useable test documents to ensure 100% code coverage",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented algorithms and solved system-related problems",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        27,
+                        33,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Strong track record in creating efficient, scalable web applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        31,
+                        "EXP"
+                    ],
+                    [
+                        32,
+                        41,
+                        "EXP"
+                    ],
+                    [
+                        43,
+                        51,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Proficient in Java and Spring Boot and deep understanding of RESTful APIs",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        44,
+                        57,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expertise in microservices architecture and experienced in optimizing database queries",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        44,
+                        55,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reduced query execution time by 40%",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Skilled in implementing secure authentication and authorization mechanisms, ensuring data integrity and protection",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        23,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"Developing robust web application using react.js, Django and ",
+            {
+                "entities": [
+                    [
+                        1,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "PostgreSQL database in Linux development environment\"",
+            {
+                "entities": [
+                    [
+                        29,
+                        40,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Participated in regular code reviews, providing valuable feedback and ensuring good code quality",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        38,
+                        47,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked on full stack, examination portal for creating and attending exams and viewing summaries.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and build dynamic UI to support large-scale e-commerce platform projects in Agile environments for enterprise client accounts valued at up to $3 million",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Manage a team of over 20 front-end developers, software engineers, and graphic designers throughout the project lifecycle, provided coaching and mentorship, and established a collaborative work culture centered on creativity and empowerment",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lead the development of web applications and the implementation of Agile and Scrum throughout the organization to enhance project delivery by 20%",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "ACOM"
+                    ],
+                    [
+                        9,
+                        20,
+                        "EXP"
+                    ],
+                    [
+                        49,
+                        63,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Coordinate with the web development team to design UI for client websites using HTML, JavaScript, and AngularJS",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design, develop, and code web applications for customer accounts, which includes debugging issues, diagnosing root causes, and identifying solutions",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        8,
+                        15,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Create responsive designs for mobile applications, built wireframes, and developed prototypes for web development projects",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        51,
+                        56,
+                        "EXP"
+                    ],
+                    [
+                        73,
+                        82,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "5+ years of experience developing flexible and receptive website design",
+            {
+                "entities": [
+                    [
+                        12,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        33,
+                        "EXP"
+                    ],
+                    [
+                        34,
+                        42,
+                        "EXP"
+                    ],
+                    [
+                        47,
+                        56,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Outstanding communication skills and creativity",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Adept at designing style sheets for websites",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        9,
+                        18,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "8+ years of experience building high-quality mockups and designing website prototype",
+            {
+                "entities": [
+                    [
+                        12,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        31,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excellent knowledge of core design and SEO principles",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Assessed UI/UX designs for technical feasibility",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Architected product tours with Angular for a new website feature",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked with the data science team to develop a new front end for a product",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        44,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mentored 4 front end developers on the team on Angular",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Created components for the internal UI library that helped save hundreds of work hours per month",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop new user-facing features",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Build reusable code and libraries for future use",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ensure the technical feasibility of UI/UX designs",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Optimize application for maximum speed and scalability",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Assure that all user input is validated before submitting to back-end",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborate with other team members and stakeholders",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Proficient understanding of web markup, including HTML5, CSS3",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS",
+            {
+                "entities": [
+                    [
+                        6,
+                        19,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Good understanding of asynchronous request handling, partial page updates, and AJAX",
+            {
+                "entities": [
+                    [
+                        5,
+                        18,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Proficient understanding of code versioning tools, such as Git",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        24,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Good understanding of SEO principles and ensuring that application will adhere to them.",
+            {
+                "entities": [
+                    [
+                        5,
+                        18,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Creation and management of application programming interfaces (APIs). ",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        23,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Create data storage and acceptance solutions for websites, especially those that take payments. ",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The work includes writing, testing, and maintaining development solutions for issues with code. ",
+            {
+                "entities": [
+                    [
+                        18,
+                        25,
+                        "EXP"
+                    ],
+                    [
+                        27,
+                        34,
+                        "EXP"
+                    ],
+                    [
+                        52,
+                        63,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Effectively communicate with developers, designers, and system administrators to identify new features. ",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Utilizing appropriate product lifecycle techniques, such as Agile Scrum and frameworks, create a website architecture. ",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop backend components of web and mobile applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design and implement RESTful APIs",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Create server-side logic and databases",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborate with front-end developers and other stakeholders",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Refine existing programs and develop new web tools",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        29,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop high performance, user-friendly applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Maintain and improve existing backend systems",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Monitor and troubleshoot application performance",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        24,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implement data security and data protection",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design and optimize database structures",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        19,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design and develop distributed architectures",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        18,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Troubleshoot, debug and improve existing applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        19,
+                        "EXP"
+                    ],
+                    [
+                        24,
+                        31,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Automate complicated processes with scripts and batch jobs",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Wrote technical documentation of applications and systems",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Optimize the applications for increasing response time and efficiency.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        40,
+                        "EXP"
+                    ],
+                    [
+                        59,
+                        69,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Analyze the requirements and goals, handle bugs and errors, and come up with efficient and fast solutions.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        77,
+                        86,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Interact with the database for storing data.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Manage and develop APIs (they help two software communicate with each other over the internet) that are executed across the devices.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "ACOM"
+                    ],
+                    [
+                        11,
+                        18,
+                        "EXP"
+                    ],
+                    [
+                        104,
+                        112,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Building the architecture of the system while keeping in mind the scalability, speed, and stability of the applications.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        66,
+                        77,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implementing security structures and their best practices.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Writing reusable code and libraries for future implementation.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        47,
+                        61,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Make sure the application is fast and performs the same whenever the user traffic changes.",
+            {
+                "entities": [
+                    [
+                        38,
+                        46,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Coordinate with frontend developers and develop server-side algorithms to transfer data efficiently to the client-side web applications.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        88,
+                        99,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Make sure the application is fast and performs the same whenever the user traffic changes.",
+            {
+                "entities": [
+                    [
+                        38,
+                        46,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Assisted in A/B testing of different UX components that resulted in a 25% increase in customer conversion rates.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        56,
+                        64,
+                        "EXP"
+                    ],
+                    [
+                        74,
+                        82,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Built a unit testing infrastructure using Selenium that reduced reports of bugs by 10%.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        20,
+                        "EXP"
+                    ],
+                    [
+                        56,
+                        63,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Optimized images and code to increase Time on Page by 30 seconds on 60+ websites.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        29,
+                        37,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Assisted in the design and build of responsive websites.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        16,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        27,
+                        32,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Conducted extensive testing to ensure cross-browser compatibility.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "ACOM"
+                    ],
+                    [
+                        20,
+                        27,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Regularly provided constructive feedback during code reviews.",
+            {
+                "entities": [
+                    [
+                        10,
+                        18,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Leading the design and implementation of mobile-first website layouts and interactive features.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "ACOM"
+                    ],
+                    [
+                        12,
+                        18,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        37,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborating with the back-end team to integrate RESTful APIs.",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "ACOM"
+                    ],
+                    [
+                        40,
+                        49,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Writing clean, maintainable, and efficient code in line with the latest web standards.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        15,
+                        27,
+                        "EXP"
+                    ],
+                    [
+                        33,
+                        42,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Coordinating testers to get insights on key areas of improvement.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "ACOM"
+                    ],
+                    [
+                        53,
+                        64,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Identified and fixed a functionality flaw in a high-traffic application, increasing user satisfaction by 30%.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        15,
+                        20,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        36,
+                        "EXP"
+                    ],
+                    [
+                        73,
+                        83,
+                        "EXP"
+                    ],
+                    [
+                        89,
+                        101,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented websites, mobile applications, and landing pages from concept through deployment.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        82,
+                        92,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Standardized all output with a new, responsive, mobile-first approach and strategy.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        61,
+                        69,
+                        "EXP"
+                    ],
+                    [
+                        74,
+                        82,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Assessed UX and UI designs for technical feasibility.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        19,
+                        26,
+                        "EXP"
+                    ],
+                    [
+                        41,
+                        52,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed standard and ad hoc reports in graph format as required.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with product team members to implement new feature developments.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "ACOM"
+                    ],
+                    [
+                        42,
+                        51,
+                        "EXP"
+                    ],
+                    [
+                        64,
+                        76,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Proven experience as application developer",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        7,
+                        17,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Experience in designing and building applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        23,
+                        "EXP"
+                    ],
+                    [
+                        28,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Extensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        49,
+                        "EXP"
+                    ],
+                    [
+                        114,
+                        124,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Familiarity with RESTful APIs and mobile libraries for networking, specifically in Retrofit, axios, Alamofire, etc.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        55,
+                        65,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Familiarity with push notifications and nderstanding mobile app design guidelines on each platform and being aware of their differences",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Proficiency in Kotlin, Java, Swift and Objective-C",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop mobile applications for iOS and Android platforms",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design and implement user interfaces for mobile applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Create and maintain technical documentation for mobile applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        19,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        43,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and maintain automated tests for mobile applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        30,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrate mobile applications with backend services",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Troubleshoot and debug mobile applications",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        17,
+                        22,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Monitor and optimize mobile application performance",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implement security and data protection measures",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        28,
+                        38,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborate with cross-functional teams to define, design, and ship new features",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        43,
+                        49,
+                        "EXP"
+                    ],
+                    [
+                        51,
+                        57,
+                        "EXP"
+                    ],
+                    [
+                        72,
+                        80,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implement automated build and deployment processes",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        10,
+                        19,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        40,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed and launched a mobile application that achieved a 4.5-star rating on both iOS and Android platforms, resulting in a 25% increase in user engagement and a 10% increase in revenue within the first six months.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        49,
+                        57,
+                        "ACOM"
+                    ],
+                    [
+                        111,
+                        120,
+                        "EXP"
+                    ],
+                    [
+                        130,
+                        138,
+                        "EXP"
+                    ],
+                    [
+                        147,
+                        157,
+                        "EXP"
+                    ],
+                    [
+                        168,
+                        176,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented automated testing processes that reduced the number of bugs by 50% and improved overall app performance by 30%.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        21,
+                        "EXP"
+                    ],
+                    [
+                        22,
+                        29,
+                        "EXP"
+                    ],
+                    [
+                        45,
+                        52,
+                        "EXP"
+                    ],
+                    [
+                        83,
+                        91,
+                        "EXP"
+                    ],
+                    [
+                        104,
+                        115,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with cross-functional teams to design and implement a new user interface, resulting in a 15% increase in user satisfaction and a 20% decrease in user churn rate.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "ACOM"
+                    ],
+                    [
+                        44,
+                        50,
+                        "EXP"
+                    ],
+                    [
+                        55,
+                        64,
+                        "EXP"
+                    ],
+                    [
+                        76,
+                        85,
+                        "EXP"
+                    ],
+                    [
+                        87,
+                        96,
+                        "EXP"
+                    ],
+                    [
+                        106,
+                        114,
+                        "EXP"
+                    ],
+                    [
+                        123,
+                        135,
+                        "EXP"
+                    ],
+                    [
+                        146,
+                        154,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed and maintained technical documentation for mobile applications, resulting in a 20% increase in team productivity and a 10% decrease in development time.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        24,
+                        "EXP"
+                    ],
+                    [
+                        35,
+                        48,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Monitored and optimized mobile application performance, resulting in a 15% increase in app speed and a 10% decrease in app crashes.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        23,
+                        "EXP"
+                    ],
+                    [
+                        43,
+                        54,
+                        "EXP"
+                    ],
+                    [
+                        56,
+                        65,
+                        "EXP"
+                    ],
+                    [
+                        75,
+                        83,
+                        "EXP"
+                    ],
+                    [
+                        107,
+                        115,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented use of mobile application without network using RealmDB and syncing the data updated or added in offline, to server when device connects back to network",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        46,
+                        53,
+                        "EXP"
+                    ],
+                    [
+                        89,
+                        96,
+                        "EXP"
+                    ],
+                    [
+                        157,
+                        164,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Led & Redesigned the process of downloading data to the device within the app to improve the performance and reduce process inefficiencies",
+            {
+                "entities": [
+                    [
+                        0,
+                        3,
+                        "ACOM"
+                    ],
+                    [
+                        6,
+                        16,
+                        "EXP"
+                    ],
+                    [
+                        93,
+                        104,
+                        "EXP"
+                    ],
+                    [
+                        109,
+                        115,
+                        "EXP"
+                    ],
+                    [
+                        124,
+                        138,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented Google Maps in the application using Google Maps key and Google geocode key which enable user to view current location and also the desired locations",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented API calls in the front end where ever needed to get data from the server",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked on the UI of the mobile application along with UX team to make it user-friendly along with UX experts",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Deployed the app into App store and play store and make it live for the end users",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "LeadSquared SDK and event analytics via Clevertap SDK, Fabric SDK",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Introduced AES 256 bit encryption as well as encrypted video streaming through Google's Exoplayer.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Dashboard functionality and backend database as Firebase Cloud store, and added authentication with Facebook SDK.",
+            {
+                "entities": [
+                    [
+                        10,
+                        23,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed and developed Material UI with Android X with full transitions animations for smoother and better feel.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        72,
+                        82,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Maintained a offline file storage for user database and background service of catching Live NEPSE Data actively.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Wrote clean and maintainable code working under multiple branches of version control GIT.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        16,
+                        28,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Product Owner of the Saudi Arabian Railways Android Mobile application which allows the user to book train tickets in the Kingdom of Saudi Arabia.",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed Cross-Platform native applications for iOS and Android",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed Money Exchange application for National Exchange Qatar, Wallstreet Exchange Kuwait, Gulf Overseas Exchange Oman.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Created custom widgets for displaying Pie, Line chart and Line graph.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented MVVM pattern using Provider and Bloc patterns.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented security features like Biometric Authentication, SSL Pinning, Token base authentication and Code obfuscation.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated Payment gateways QPAY, KNET.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated Firebase Push notification, Firebase In app messaging.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated backend REST API services along with other 3rd party services.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Received appreciation for developing first Cross-Platform application using Flutter with a short time span of 2 months.",
+            {
+                "entities": [
+                    [
+                        9,
+                        21,
+                        "ACOM"
+                    ],
+                    [
+                        26,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed and developed more than 8 mobile apps that are live on Play Store and Appstore. 4 of them used Native android development, 3 using Xamarin Forms and 1 using Xamarin Native",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        119,
+                        130,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Member of the project LBC Cargo which were implemented more than 1000 branches.",
+            {
+                "entities": [
+                    [
+                        43,
+                        54,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated Star I/O SDK for Card swiping and invoice printing.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented MVVM architecture using Prism and AutoFac.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated Facebook SDK",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented Entity Framework with SQL Encryption using 3rd Party plugins.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated UrhoSharp 3D model rendering.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated Push-notification in Xamarin Forms.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated Akvache plugin for API caching for smooth user experience.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        58,
+                        68,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Deployed core application solution that customized to clients requirements of color, design and language preferences.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        62,
+                        74,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Increased application performance by implementing optimized and Sanity-tested module every end of day",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        22,
+                        33,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        49,
+                        "EXP"
+                    ],
+                    [
+                        50,
+                        59,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mentor design team in order to revamp application design with new and better design and optimized user experience.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "ACOM"
+                    ],
+                    [
+                        7,
+                        13,
+                        "EXP"
+                    ],
+                    [
+                        31,
+                        37,
+                        "EXP"
+                    ],
+                    [
+                        50,
+                        56,
+                        "EXP"
+                    ],
+                    [
+                        77,
+                        83,
+                        "EXP"
+                    ],
+                    [
+                        88,
+                        97,
+                        "EXP"
+                    ],
+                    [
+                        103,
+                        113,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Participating and mentoring mobile development team because of having core knowledge about business domain, to optimize our application resulting in efficient solution.",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "ACOM"
+                    ],
+                    [
+                        18,
+                        27,
+                        "ACOM"
+                    ],
+                    [
+                        35,
+                        46,
+                        "EXP"
+                    ],
+                    [
+                        111,
+                        119,
+                        "EXP"
+                    ],
+                    [
+                        136,
+                        145,
+                        "EXP"
+                    ],
+                    [
+                        149,
+                        158,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developing applications and supporting through complete Software development life cycle SDLC",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        65,
+                        76,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Flutter Developer with complete responsibility of app work life cycle, Local Database Management, Design and Work Flow, Testing and Deployment on Google PlayStore, AppStore and Amazon AppStore.",
+            {
+                "entities": [
+                    [
+                        32,
+                        46,
+                        "EXP"
+                    ],
+                    [
+                        98,
+                        104,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Translating code into user-friendly applications for all kinds of devices like phones and tablets, and is familiar with the newest technologies in the mobile world.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implementing new services in the app on needed",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Working with new or existing app using Flutter or Kotlin depends on client demands.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Troubleshoot Problems when a problem impacts the app services.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        44,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Track all Issues and document all issues and resolutions in detail.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        29,
+                        "EXP"
+                    ],
+                    [
+                        45,
+                        56,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Report Incidents When problems are too large or complex for quick troubleshooting.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        66,
+                        81,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Working on RITS Browser App using Kotlin and Java both language",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implementing new services in the app on needed",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Creating APIs using PHP Slimframework",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Working with new or existing app using Kotlin or Flutter depends on client demands.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implementing all kinds of Ads like Admob, Adcolony, Facebook Audience Network etc.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Troubleshoot Problems when a problem impacts the app services.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        44,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Track all Issues and document all issues and resolutions in detail.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        29,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Report Incidents When problems are too large or complex for quick troubleshooting.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        66,
+                        81,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked on multiple applications for iOS and Android(using flutter) with backend and UI/UX teams, delivering the required features based on time estimations and planning.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        10,
+                        18,
+                        "ACOM"
+                    ],
+                    [
+                        97,
+                        107,
+                        "EXP"
+                    ],
+                    [
+                        160,
+                        168,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ensure the best possible performance, quality and responsiveness of",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        25,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Active listening and comprehend new ideas into application.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Participated in Scrum meetings, as well as retrospectives with",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Conceptualize, design, develop and improve/maintain in-house",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "EXP"
+                    ],
+                    [
+                        15,
+                        21,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        30,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design, build and maintain high performance, reusable reliable Java.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        18,
+                        26,
+                        "EXP"
+                    ],
+                    [
+                        32,
+                        43,
+                        "EXP"
+                    ],
+                    [
+                        45,
+                        53,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Explore and worked on hybrid applications.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        18,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design, develop, and maintain software applications using object-oriented programming languages",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        8,
+                        15,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        29,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and implement software solutions to meet customer requirements",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        21,
+                        "EXP"
+                    ],
+                    [
+                        58,
+                        70,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Identify and troubleshoot software issues and develop solutions to resolve them",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        25,
+                        "EXP"
+                    ],
+                    [
+                        46,
+                        53,
+                        "EXP"
+                    ],
+                    [
+                        67,
+                        74,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and maintain software documentation",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        43,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and maintain unit tests",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and maintain automated tests",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        30,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborate with other developers to ensure code quality",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        43,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Participate in code reviews",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Research and evaluate new technologies and tools",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        21,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and maintain web services and APIs",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and maintain databases and data models",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        20,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed and implemented a new software solution that reduced customer support tickets by 25% and increased customer satisfaction by 15%.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        25,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with a team of developers to improve the performance of an existing web service, resulting in a 30% reduction in response time and a 20% increase in user adoption.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        42,
+                        49,
+                        "EXP"
+                    ],
+                    [
+                        54,
+                        65,
+                        "EXP"
+                    ],
+                    [
+                        94,
+                        103,
+                        "EXP"
+                    ],
+                    [
+                        113,
+                        122,
+                        "EXP"
+                    ],
+                    [
+                        150,
+                        158,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Identified and resolved a critical software issue that was causing system downtime, resulting in a 50% reduction in downtime and a 10% increase in system reliability.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        15,
+                        23,
+                        "EXP"
+                    ],
+                    [
+                        84,
+                        93,
+                        "EXP"
+                    ],
+                    [
+                        103,
+                        112,
+                        "EXP"
+                    ],
+                    [
+                        135,
+                        143,
+                        "EXP"
+                    ],
+                    [
+                        154,
+                        165,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Completed development of mobile application in React Native targeting Android and iOS platforms.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        10,
+                        21,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked with Balsamiq, React Native, and Redux.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed a cross-platform mobile application using React Native.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed Web API using NodeJS, ReactJS and React Native and hosted on multiple lead balances API instances.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Involved in setting up the model, views and controllers and implementing using React Native Components.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        60,
+                        72,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Assisted other application development staff by giving advice on the development standards, testing and analysis of the assignment.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        27,
+                        38,
+                        "EXP"
+                    ],
+                    [
+                        69,
+                        80,
+                        "EXP"
+                    ],
+                    [
+                        104,
+                        112,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Founded IT consulting firm which provides mobile application development and IT services.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "ACOM"
+                    ],
+                    [
+                        61,
+                        72,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Used Adobe Air and Flash Professionals in application development.",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Facilitated customization of systems by encouraging software engineering team to adopt emerging standards for software application development architecture and tools.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        61,
+                        72,
+                        "EXP"
+                    ],
+                    [
+                        87,
+                        95,
+                        "EXP"
+                    ],
+                    [
+                        131,
+                        142,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Summer 2013 Worked with and presented to other students and professors on open source projects; mobile app development",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "EXP"
+                    ],
+                    [
+                        86,
+                        94,
+                        "EXP"
+                    ],
+                    [
+                        107,
+                        118,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Coordinated the negotiation of a new service and license agreement with YapTV Studios for social media App development.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        107,
+                        118,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Search and implementation of possible areas of improvement to deliver a better production in Android app development.",
+            {
+                "entities": [
+                    [
+                        11,
+                        25,
+                        "EXP"
+                    ],
+                    [
+                        47,
+                        58,
+                        "EXP"
+                    ],
+                    [
+                        105,
+                        116,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Self-motivated and proactive with skill in applying creative and critical thinking capabilities to Android app development.",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "ACOM"
+                    ],
+                    [
+                        52,
+                        60,
+                        "EXP"
+                    ],
+                    [
+                        65,
+                        73,
+                        "EXP"
+                    ],
+                    [
+                        83,
+                        95,
+                        "EXP"
+                    ],
+                    [
+                        111,
+                        122,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Consulted on business models, development processes, and design for various app development companies.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        41,
+                        "EXP"
+                    ],
+                    [
+                        42,
+                        51,
+                        "EXP"
+                    ],
+                    [
+                        80,
+                        91,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked as an application developer extensively with Objective C and Cocoa frameworks.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        25,
+                        34,
+                        "EXP"
+                    ],
+                    [
+                        35,
+                        46,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Created custom checklist and sharing through JSON libraries and connecting to SQ Lite database with the Objective C interfaces.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked extensively with Objective C, Cocoa Touch frameworks and also used Swift for the new classes.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented new classes in swift language and used the swift code in Objective C classes as well.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Started working with swift 2.0 version and changing code from objective C to swift.",
+            {
+                "entities": [
+                    [
+                        8,
+                        15,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented improvement in smooth swiping of the UI, also adding an improvement to the text editor, permitting easier input.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        23,
+                        "EXP"
+                    ],
+                    [
+                        68,
+                        79,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed rich UI for the most of the modules in the application using RecyclerView, ViewPager and Navigation Drawer.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Build mobile games that connects to Google Play Games' server and In-app Billing service for UI enhancements.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        96,
+                        108,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed levels, and UI for mobile app game to fit events in the represented book series.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Unified Android designers and Android app developers in the design of the UI screen with compound views.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        42,
+                        52,
+                        "EXP"
+                    ],
+                    [
+                        60,
+                        66,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Created a custom client dashboard that reduced support tickets by 50%",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        39,
+                        46,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with the UX/UI design teams to improve the website and applications, increasing conversion rates by 25%",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        28,
+                        34,
+                        "EXP"
+                    ],
+                    [
+                        82,
+                        92,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Daily maintenance of code, debugging issues and solving clients problems",
+            {
+                "entities": [
+                    [
+                        6,
+                        17,
+                        "EXP"
+                    ],
+                    [
+                        27,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Presented findings in a clear and concise manner to key decision-makers",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Senior front end developer 5+ years of experience in financial industry",
+            {
+                "entities": [
+                    [
+                        39,
+                        49,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Design and build responsive web design and mobile apps",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        11,
+                        16,
+                        "EXP"
+                    ],
+                    [
+                        32,
+                        38,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Proficient with CSS and JS Frameworks and extensive knowledge of UX and user psychology",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        42,
+                        51,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Increased company sales by x% after building an eCommerce web application",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        36,
+                        44,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Improved user experience score by x% after optimizing buttons",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        24,
+                        "EXP"
+                    ],
+                    [
+                        43,
+                        53,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Boosted time on page by 85% with improvements",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        33,
+                        45,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reduced the CPC of Facebook ads with advanced pixel integration on the website",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        52,
+                        63,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed 50 responsive websites for clients in a variety of industries",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Setup tracking with GTM and GA, integrated HTML/CSS into the CMS and conducted day-to-day maintenance of the websites, resulting in a combined $40M of revenue for clients",
+            {
+                "entities": [
+                    [
+                        90,
+                        101,
+                        "EXP"
+                    ],
+                    [
+                        119,
+                        128,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with marketing and project management teams to deliver projects on-time and with the highest standard, retaining over 98% of clients in a 5-year period",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed and wrote the front-end of our eCommerce application using ReactJS with 14,000 reusable components",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        18,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Achieved a Lighthouse score of 100/100 on our frontend",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Built a UI leadership group at FullStack Labs Inc. to mentor and train new engineers",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        54,
+                        60,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Researched and documented needs of 150 external partners and built an API abstraction layer for seamless integration without breaking",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        15,
+                        25,
+                        "EXP"
+                    ],
+                    [
+                        105,
+                        116,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Modernized our legacy Vendor management app originally built on Angular 2.0 to Vue.JS",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        55,
+                        60,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Improved legacy front end by replacing it with AngularJS, Tomcat API, Java and Spring. Resulted into 50% faster loading times for our data heavy GIS application.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked with a team of 11 people, developers, QA and scrum masters",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked with team of 5 web developers and provided end-to-end solutions for 5 clients",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        41,
+                        49,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with teammates and updated application versions using Git",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        32,
+                        39,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Used best practices in HTML and CSS to develop a static site based from a static image of a website design",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "EXP"
+                    ],
+                    [
+                        39,
+                        46,
+                        "EXP"
+                    ],
+                    [
+                        100,
+                        106,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Performed daily operations and maintenance tasks to ensure 40 web pages under Nader are up-to date and free of errors",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        31,
+                        42,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed cross-browser/platform HTML5, CSS and JavaScript to match design specs for complex page layouts while adhering to code standards",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Supervising and mentoring the front-end team (15 people)",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "ACOM"
+                    ],
+                    [
+                        16,
+                        25,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Used advanced JavaScript to create a cross-browser compatible user interface",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed a new, user interactive landing page, utilizing tools like HTML, XHTML, and CSS, achieving a 5.5/6 user score",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        32,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Joined with web designers to develop user interfaces and prototypes for a web based internal financial manager system",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        16,
+                        25,
+                        "EXP"
+                    ],
+                    [
+                        29,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Supervised 15 front-end associates",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"Helped the team stick to specific standards in developing web pages under",
+            {
+                "entities": [
+                    [
+                        1,
+                        7,
+                        "ACOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"Used JavaScript to validate input values on forms to make sure that it's accepted",
+            {
+                "entities": [
+                    [
+                        1,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        74,
+                        82,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Boosted the conversion rate by 80% by improving the design",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        38,
+                        47,
+                        "EXP"
+                    ],
+                    [
+                        52,
+                        58,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"Worked with CSS background, layouts, positioning, text, border, margin, padding,",
+            {
+                "entities": [
+                    [
+                        1,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Communicated with back-end developers for any front-end problematic issues",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed and maintained responsive web applications and mobile apps.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        24,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated closely with design and backend teams to ensure seamless integration of UI/UX.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        26,
+                        32,
+                        "EXP"
+                    ],
+                    [
+                        70,
+                        81,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Utilized CSS and various JS Frameworks for front-end development tasks.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        53,
+                        64,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Improved user experience by applying principles of user psychology to design choices.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        24,
+                        "EXP"
+                    ],
+                    [
+                        70,
+                        76,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Achieved an 80% increase in conversion rate through code and design enhancements.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        61,
+                        67,
+                        "EXP"
+                    ],
+                    [
+                        68,
+                        80,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed and implemented user interfaces for financial web applications.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        24,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ensured cross-browser compatibility and optimized website performance.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        40,
+                        49,
+                        "EXP"
+                    ],
+                    [
+                        58,
+                        69,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Conducted A/B testing to refine user interfaces and boost user engagement.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        37,
+                        47,
+                        "EXP"
+                    ],
+                    [
+                        63,
+                        73,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated in an Agile development environment to meet project milestones.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        25,
+                        36,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Trained and mentored junior developers in front-end development best practices.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "ACOM"
+                    ],
+                    [
+                        12,
+                        20,
+                        "ACOM"
+                    ],
+                    [
+                        28,
+                        38,
+                        "EXP"
+                    ],
+                    [
+                        52,
+                        63,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Led the development of mobile-first web applications for the fintech sector.",
+            {
+                "entities": [
+                    [
+                        0,
+                        3,
+                        "ACOM"
+                    ],
+                    [
+                        8,
+                        19,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented responsive design techniques for optimal viewing on various devices.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        23,
+                        29,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Conducted code reviews and maintained code quality and standards.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        27,
+                        37,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with product managers to define project requirements and priorities.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        53,
+                        65,
+                        "EXP"
+                    ],
+                    [
+                        70,
+                        80,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Participated in regular technology updates and stayed up-to-date with emerging trends.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        70,
+                        78,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collaborated with UX/UI designers to translate design mockups into interactive web interfaces.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        47,
+                        53,
+                        "EXP"
+                    ],
+                    [
+                        67,
+                        78,
+                        "EXP"
+                    ],
+                    [
+                        83,
+                        93,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented and maintained consistent coding standards and documentation for the frontend codebase.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        16,
+                        26,
+                        "EXP"
+                    ],
+                    [
+                        59,
+                        72,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked closely with the QA team to identify and address UI/UX issues and bugs.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Integrated third-party APIs and libraries to enhance website functionality.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        45,
+                        52,
+                        "EXP"
+                    ],
+                    [
+                        61,
+                        74,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Played a key role in improving website load times, resulting in a 20% reduction in bounce rates.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        21,
+                        30,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Actively participated in code refactorings and optimizations to ensure codebase scalability and maintainability.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        9,
+                        21,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        42,
+                        "EXP"
+                    ],
+                    [
+                        47,
+                        60,
+                        "EXP"
+                    ],
+                    [
+                        80,
+                        91,
+                        "EXP"
+                    ],
+                    [
+                        96,
+                        111,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Manage website development projects from initial design through completion,",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "ACOM"
+                    ],
+                    [
+                        15,
+                        26,
+                        "EXP"
+                    ],
+                    [
+                        49,
+                        55,
+                        "EXP"
+                    ],
+                    [
+                        64,
+                        74,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "optimizing all cross-browser and multi-platform compatibility.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ],
+                    [
+                        48,
+                        61,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Work closely with programmers and clients to meet project requirements, goals, and",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "EXP"
+                    ],
+                    [
+                        5,
+                        12,
+                        "EXP"
+                    ],
+                    [
+                        58,
+                        70,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Develop and integrate customized themes into WordPress, PHP-Fusion, and",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        21,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Conduct training for clients on handling website content management systems.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Enable site-wide promotions by programming HTML5 canvases to animate particles",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        31,
+                        42,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed websites from front to backend using PHP, JavaScript, and HTML.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        41,
+                        46,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Enhanced user experience and accomplish webpage objectives by creating site",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        24,
+                        "EXP"
+                    ],
+                    [
+                        29,
+                        39,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented enhancements that improved web functionality and responsiveness.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        12,
+                        24,
+                        "EXP"
+                    ],
+                    [
+                        30,
+                        38,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed and maintained both corporate and client websites, using scripting languages",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        23,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "and content management systems including WordPress.",
+            {
+                "entities": [
+                    [
+                        12,
+                        22,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Implemented and maintained front-end web applications, resulting in a 20% reduction in page load speeds and conversion rates by utilizing modern web technologies such as Reacts and best practices for user experience and accessibility.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "EXP"
+                    ],
+                    [
+                        16,
+                        26,
+                        "EXP"
+                    ],
+                    [
+                        55,
+                        64,
+                        "EXP"
+                    ],
+                    [
+                        74,
+                        83,
+                        "EXP"
+                    ],
+                    [
+                        128,
+                        137,
+                        "EXP"
+                    ],
+                    [
+                        205,
+                        215,
+                        "EXP"
+                    ],
+                    [
+                        220,
+                        233,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Developed and executed front-end development strategies, resulting in a 15% increase in website performance by implementing optimization techniques such as code minification and troubleshooting issues using browser developer tools.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ],
+                    [
+                        14,
+                        22,
+                        "EXP"
+                    ],
+                    [
+                        33,
+                        44,
+                        "EXP"
+                    ],
+                    [
+                        57,
+                        66,
+                        "EXP"
+                    ],
+                    [
+                        76,
+                        84,
+                        "EXP"
+                    ],
+                    [
+                        96,
+                        107,
+                        "EXP"
+                    ],
+                    [
+                        111,
+                        123,
+                        "EXP"
+                    ],
+                    [
+                        124,
+                        136,
+                        "EXP"
+                    ],
+                    [
+                        178,
+                        193,
+                        "EXP"
+                    ],
+                    [
+                        215,
+                        224,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worked with cross-functional teams to develop and execute on-time and on-budget projects and initiatives by effectively communicating project timelines, progress, and objectives using tools such as Slack and Zoom.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "EXP"
+                    ],
+                    [
+                        38,
+                        45,
+                        "EXP"
+                    ],
+                    [
+                        108,
+                        119,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Optimized service layers, request queues and MongoDB data model to handle request load of 74,000-96,000/sec during flash sales",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Designed and implemented GIS application for the City of New York to allow critical parts of the app to handle 1,000+ concurrent requests and also be multi-threaded.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        13,
+                        24,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Improved legacy front end by replacing it with AngularJS, Tomcat API, Java and Spring. Resulted into 50% faster loading times for our data heavy GIS application.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Refactored the application to incorporate security with micro service with Spring Boot, Java and AWS Cognito.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Built CI/CD pipelines using Jenkins, Docker, Kubernetes and custom scripts - helping teams deploy more than 30 times in a day",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        91,
+                        97,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Built an API-driven publishing service handling 17 million pageviews per month performing at 94% cache efficiency",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cleared several performance bottlenecks in Mercurial for large-scale deployments",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EXP"
+                    ],
+                    [
+                        69,
+                        80,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Build out the source control query service that queries information in a scalable and efficient manner",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EXP"
+                    ],
+                    [
+                        73,
+                        81,
+                        "EXP"
+                    ],
+                    [
+                        86,
+                        95,
+                        "EXP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Extended the build system to integrate with the mercurial sparse feature cutting down on performance issues with overly large repositories",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EXP"
+                    ],
+                    [
+                        89,
+                        100,
+                        "EXP"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

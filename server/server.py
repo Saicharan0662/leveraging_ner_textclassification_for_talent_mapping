@@ -24,6 +24,9 @@ def format_text():
     text = re.sub(r'○', '.', text)
     text = re.sub(r'•', '.', text)
 
+    print("text")
+    print(text.split('.'))
+
     global ner
     ner = NER(text)
 
